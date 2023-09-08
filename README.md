@@ -1,5 +1,8 @@
-*The Five Layers of Surviving the Great Day of Judgement*
-**The Elements of Salvation in Functional Terms**
+The Five Layers of Surviving the Great Day of Judgement
+=======================================================
+
+### The Elements of Salvation in Functional Terms
+
 - Replacement Human-Spirit
   - A.K.A:
     - Born-Again (John 3:3, 1 Peter 1:23)
