@@ -1,1 +1,65 @@
-# salvationelements
+*The Five Layers of Surviving the Great Day of Judgement*
+**The Elements of Salvation in Functional Terms**
+- Replacement Human-Spirit
+  - A.K.A:
+    - Born-Again (John 3:3, 1 Peter 1:23)
+    - Regeneration (Ezekiel 11:19, Titus 3:5)
+    - New-Birth (Psalm 102:18, Ezekiel 36:25-26, Jeremiah 31:31-34, Isaiah 44:3, Isaiah 55:3, 2 Corinthians 5:17)
+  - Requirement:
+    - Accepting Truth-of-GOD received (2 Thessalonians 2:10-12, John 8:32)
+    - Living by Agape (1 John 4:16, John 15:12)
+    - Not being an Atheist (Psalm 14:1, Romans 1:20, Hebrews 11:6)
+  - Accounts For:
+    - Carrying the Soul to GOD upon physical death (Ecclesiastes 12:7, Psalm 146:4, 1 John 5:4, Ecclesiastes 3:21, Philippians 1:23)
+    - Reopening clear communication with the LORD (Hebrews 4:16, 1 Timothy 2:5)
+- Judicial Pardon
+  - A.K.A./Assoc. With:
+    - Sins Forgiven (Ephesians 1:7, Colossians 2:13-14)
+    - Justification (Romans 5:1, Titus 3:7)
+    - Redemption (Ephesians 1:7, 1 Peter 1:18-19)
+  - Requirement
+    - Valid Blood Atonement (Hebrews 9:22, Romans 3:25)
+    - Forgiving Others (Matthew 6:14-15, Ephesians 4:32)
+  - Accounts for:
+    - Criminal Status with the Court of Heaven (Romans 8:1, Psalm 32:1-2)
+    - Removing Offense-related blockage to relationship with GOD (Isaiah 59:2, Psalm 103:12)
+-   Decontaminating the Soul
+  - A.K.A.:
+    - Renewing of the Mind (Romans 12:2, Ephesians 4:23)
+    - Heart-of-Flesh replacing Heart-of-Stone (Ezekiel 36:26, Hebrews 8:10)
+    - Cleansing/Healing the Conscience (Hebrews 10:22, 1 Timothy 1:5)
+  - Requirement:
+    - Blood of Jesus (1 John 1:7, Revelation 1:5)
+    - Remaining Unspotted from the World (James 1:27, 1 John 2:15)
+    - Prayer (Philippians 4:6, James 5:16)
+  - Accounts For:
+    - Cleanliness required to withstand the presence of the LORD (Psalm 24:3-4, 2 Corinthians 6:17)
+    - Holiness required to See the LORD (Hebrews 12:14, 1 Peter 1:15-16)
+    - Ability to Enter in at the Strait Gate (Matthew 7:13-14, Luke 13:24)
+- Godward Will
+  - A.K.A.: / Assoc. With:
+    - Walking in the Spirit & Not the Flesh (Galatians 5:16-17, Romans 8:4)
+    - Putting on Christ (Romans 13:14, Galatians 3:27)
+    - Putting on the Armor of GOD (Ephesians 6:10-18, 1 Thessalonians 5:8)
+  - Requirement:
+    - Not loving the things of the World (1 John 2:15-17, James 4:4)
+    - Prioritizing GOD over cares of the world (Matthew 6:33, Luke 10:38-42)
+    - Being not conformed to this present evil age (Romans 12:2, Galatians 1:4)
+    - Accounts For:
+    - Fulfillment of Promises attached to seeking the LORD in obedience (Hebrews 11:6, Psalm 9:10, Deuteronomy 28:1-2, John 15:10)
+    - Breathing life into claims of loving the LORD (John 14:23, 1 John 5:3)
+    - Not shut out when the door is closed or cast out before the throne (Matthew 25:10-12, Matthew 25:31-46, Luke 13:24-27, Revelation 20:12-15)
+- Indwelling of the Holy Spirit
+  - A.K.A.:
+    - The Promise (Acts 1:4-5, Luke 24:49)
+    - "The Kingdom is among you" (Luke 17:21, Matthew 12:28)
+    - "Whoever does not have Christ's Spirit is none of His." (Romans 8:9, 1 Corinthians 3:16)
+  - Requirements:
+    - Direct command and provision of the Father (John 14:26, John 15:26)
+    - Full acknowledgement of the Eternal Personage of Jesus Christ (1 John 4:2-3, John 8:24)
+    - Entry into the New Covenant sealed by the blood of Christ (Hebrews 9:15, Luke 22:20)
+  - Accounts for:
+    - The Power to overcome this World (1 John 5:4, Romans 8:37)
+    - The Power to be transformed into the likeness of Christ (2 Corinthians 3:18, Romans 12:2)
+    - Perpetual access to omnipresent fellowship with the LORD (John 14:16-17, 1 Corinthians 6:19)- Title: The Five Layers of Surviving the Great Day of Judgement
+    - Subtitle: **The Elements of Salvation in Functional Terms**
