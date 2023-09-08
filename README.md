@@ -26,6 +26,7 @@ The Five Layers of Surviving the Great Day of Judgement
   - Accounts for:
     - Criminal Status with the Court of Heaven (Romans 8:1, Psalm 32:1-2)
     - Removing Offense-related blockage to relationship with GOD (Isaiah 59:2, Psalm 103:12)
+    - Erasing the record of sin (Isaiah 43:25, Acts 3:19)
 - Decontaminating the Soul
   - A.K.A.:
     - Renewing of the Mind (Romans 12:2, Ephesians 4:23)
@@ -49,7 +50,8 @@ The Five Layers of Surviving the Great Day of Judgement
     - Not loving the things of the World (1 John 2:15-17, James 4:4)
     - Prioritizing GOD over cares of the world (Matthew 6:33, Luke 10:38-42)
     - Being not conformed to this present evil age (Romans 12:2, Galatians 1:4)
-    - Accounts For:
+    - Obedience to what you know to be true (1 Peter 1:22, James 4:7)
+  - Accounts For:
     - Fulfillment of Promises attached to seeking the LORD in obedience (Hebrews 11:6, Psalm 9:10, Deuteronomy 28:1-2, John 15:10)
     - Breathing life into claims of loving the LORD (John 14:23, 1 John 5:3)
     - Not shut out when the door is closed or cast out before the throne (Matthew 25:10-12, Matthew 25:31-46, Luke 13:24-27, Revelation 20:12-15)
