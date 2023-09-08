@@ -26,7 +26,7 @@ The Five Layers of Surviving the Great Day of Judgement
   - Accounts for:
     - Criminal Status with the Court of Heaven (Romans 8:1, Psalm 32:1-2)
     - Removing Offense-related blockage to relationship with GOD (Isaiah 59:2, Psalm 103:12)
--   Decontaminating the Soul
+- Decontaminating the Soul
   - A.K.A.:
     - Renewing of the Mind (Romans 12:2, Ephesians 4:23)
     - Heart-of-Flesh replacing Heart-of-Stone (Ezekiel 36:26, Hebrews 8:10)
@@ -39,11 +39,12 @@ The Five Layers of Surviving the Great Day of Judgement
     - Cleanliness required to withstand the presence of the LORD (Psalm 24:3-4, 2 Corinthians 6:17)
     - Holiness required to See the LORD (Hebrews 12:14, 1 Peter 1:15-16)
     - Ability to Enter in at the Strait Gate (Matthew 7:13-14, Luke 13:24)
-- Godward Will
+- Fear of the Lord
   - A.K.A.: / Assoc. With:
     - Walking in the Spirit & Not the Flesh (Galatians 5:16-17, Romans 8:4)
     - Putting on Christ (Romans 13:14, Galatians 3:27)
     - Putting on the Armor of GOD (Ephesians 6:10-18, 1 Thessalonians 5:8)
+    - Love or Hate what God Loves or hates (Psalm 97:10, Proverbs 8:13, Proverbs 16:6, )
   - Requirement:
     - Not loving the things of the World (1 John 2:15-17, James 4:4)
     - Prioritizing GOD over cares of the world (Matthew 6:33, Luke 10:38-42)
