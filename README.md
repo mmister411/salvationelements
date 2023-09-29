@@ -1,6 +1,8 @@
 The Five Layers of Surviving the Great Day of Judgement
 =======================================================
 
+This document aims to provide an in-depth understanding of the elements of salvation, breaking them down into functional terms that are easy to grasp. Salvation is not a one-time event but a journey, a process that involves various aspects of spiritual transformation and growth. This guide is structured around five key layers, each representing a significant aspect of the salvation dynamic. Each section will delve into the theological terms associated with these layers, the scriptural basis for each, and the practical implications for a believer's life. Whether you are new to the Christian faith or seeking a deeper understanding of your spiritual journey, this guide aims to be a valuable resource for you.
+
 ### The Elements of Salvation in Functional Terms
 
 - Replacement Human-Spirit
