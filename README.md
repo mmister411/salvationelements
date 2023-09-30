@@ -10,25 +10,34 @@ This document aims to provide an in-depth understanding of the elements of salva
     - Born-Again (John 3:3, 1 Peter 1:23)
     - Regeneration (Ezekiel 11:19, Titus 3:5)
     - New-Birth (Psalm 102:18, Ezekiel 36:25-26, Jeremiah 31:31-34, Isaiah 44:3, Isaiah 55:3, 2 Corinthians 5:17)
+    - Quickening (Titus 3:5, Ephesians 2:4-5, Psalm 119:50)
   - Requirement:
     - Accepting Truth-of-GOD received (2 Thessalonians 2:10-12, John 8:32)
     - Living by Agape (1 John 4:16, John 15:12)
-    - Not being an Atheist (Psalm 14:1, Romans 1:20, Hebrews 11:6)
+    - Not being an Atheist (Psalm 14:1, Romans 1:20, Hebrews 11:6, Proverbs 1:7)
   - Accounts For:
-    - Carrying the Soul to GOD upon physical death (Ecclesiastes 12:7, Psalm 146:4, 1 John 5:4, Ecclesiastes 3:21, Philippians 1:23)
+    - Carrying the Soul to the City Gates upon physical death (Ecclesiastes 12:7, Psalm 146:4, 1 John 5:4, Ecclesiastes 3:21, Philippians 1:23)
     - Reopening clear communication with the LORD (Hebrews 4:16, 1 Timothy 2:5)
+  - Considerations: 
+    - Exemptions:  Infants, Children, cognitively impaired, or others unable to commit personal sin, as their original spirits are not altered by personal sin (Matthew 18:3, 2 Samuel 12:23, Deuteronomy 1:39).
+    - Limitations: New Birth is an absolute requirement but does not ensure entry into the Kingdom of God. (Matthew 13:3-23, Matthew 25:1-13)
 - Judicial Pardon
   - A.K.A./Assoc. With:
-    - Sins Forgiven (Ephesians 1:7, Colossians 2:13-14)
-    - Justification (Romans 5:1, Titus 3:7)
-    - Redemption (Ephesians 1:7, 1 Peter 1:18-19)
+    - Justification, Imputed Righteousness (Romans 5:1, Titus 3:7, Romans 4:22-24, 2 Corinthians 5:21)
+    - Redemption, Propitiation (Romans 3:25, 1 John 2:2, Ephesians 1:7, 1 Peter 1:18-19)
+    - Sins Forgiven, Absolution (Ephesians 1:7, Colossians 2:13-14, John 20:23, James 5:15
+    - Reconciliation (2 Corinthians 5:18-19, Romans 5:10)
   - Requirement
     - Valid Blood Atonement (Hebrews 9:22, Romans 3:25)
     - Forgiving Others (Matthew 6:14-15, Ephesians 4:32)
+    - Repentance (Acts 3:19, Luke 13:3)
   - Accounts for:
     - Criminal Status with the Court of Heaven (Romans 8:1, Psalm 32:1-2)
     - Removing Offense-related blockage to relationship with GOD (Isaiah 59:2, Psalm 103:12)
     - Erasing the record of sin (Isaiah 43:25, Acts 3:19)
+  - Considerations
+    - Exemptions: Infants, cognitively impaired, or others unable to commit personal sin are exempt due to their personal innocence in the context of justice (Matthew 19:14, Luke 18:16, James 4:17).
+    - Limitations:  While the blood of Jesus covers all sin, Judicial Pardon does not address other spiritual conditions rendering one unabel to enter the Strait Gate (Matthew 13:3-23, Matthew 18:21-35, Matthew 25:14-30).
 - Decontaminating the Soul
   - A.K.A.:
     - Renewing of the Mind (Romans 12:2, Ephesians 4:23)
