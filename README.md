@@ -46,11 +46,14 @@ This document aims to provide an in-depth understanding of the elements of salva
   - Requirement:
     - Blood of Jesus (1 John 1:7, Revelation 1:5)
     - Remaining Unspotted from the World (James 1:27, 1 John 2:15)
-    - Prayer (Philippians 4:6, James 5:16)
+    - Advocacy (Philippians 4:6, James 5:16, Hebrews 7:25)
   - Accounts For:
     - Cleanliness required to withstand the presence of the LORD (Psalm 24:3-4, 2 Corinthians 6:17)
     - Holiness required to See the LORD (Hebrews 12:14, 1 Peter 1:15-16)
     - Ability to Enter in at the Strait Gate (Matthew 7:13-14, Luke 13:24)
+  - Considerations:
+    - Exemptions:  None due to the inherent uncleaness of all souls
+    - Risk Factors:  Soulical Cleanliness is sensitive to holy Fear of the Lord (Proverbs 8:13, Proverbs 16:6) and not grieving or quenching the Holy Spirit (Ephesians 4:30, 1 Thessalonians 5:19)
 - Fear of the Lord
   - A.K.A.: / Assoc. With:
     - Walking in the Spirit & Not the Flesh (Galatians 5:16-17, Romans 8:4)
@@ -66,6 +69,10 @@ This document aims to provide an in-depth understanding of the elements of salva
     - Fulfillment of Promises attached to seeking the LORD in obedience (Hebrews 11:6, Psalm 9:10, Deuteronomy 28:1-2, John 15:10)
     - Breathing life into claims of loving the LORD (John 14:23, 1 John 5:3)
     - Not shut out when the door is closed or cast out before the throne (Matthew 25:10-12, Matthew 25:31-46, Luke 13:24-27, Revelation 20:12-15)
+  - Considerations:
+    - Parables: Failures of would-be believers outlined in Jesus' parables identify various elements of failing at Holy Fear of the Lord (Matthew 13:3-23, Matthew 25:1-13, Luke 12:16-21)
+    - Love v. Fear v. Faith: Ultimately, Loving God, Faith in God, and Fear of The Lord are at least heavily overlapping, if not identical (1 John 4:18, Hebrews 11:6, Proverbs 8:13).
+    - Sanctification: Growing in the richness of fear of the Lord is the primary undertaking of sanctification and vice versa (1 Thessalonians 4:3-4, 2 Corinthians 7:1, Proverbs 1:7).
 - Indwelling of the Holy Spirit
   - A.K.A.:
     - The Promise (Acts 1:4-5, Luke 24:49)
@@ -78,5 +85,6 @@ This document aims to provide an in-depth understanding of the elements of salva
   - Accounts for:
     - The Power to overcome this World (1 John 5:4, Romans 8:37)
     - The Power to be transformed into the likeness of Christ (2 Corinthians 3:18, Romans 12:2)
-    - Perpetual access to omnipresent fellowship with the LORD (John 14:16-17, 1 Corinthians 6:19)- Title: The Five Layers of Surviving the Great Day of Judgement
-    - Subtitle: **The Elements of Salvation in Functional Terms**
+    - Perpetual access to omnipresent fellowship with the LORD (John 14:16-17, 1 Corinthians 6:19)
+  - Considerations
+    - Grieving, Quenching, Resisting, Neglecting the Spirit:  Suppressing, Opposing or Ignoring guidance or prompts, engaging actions or attitudes incompatible with Spirit, and loving the things of this world (Acts 7:51, 1 Timothy 4:14, Matthew 12:31-32, 1 Thessalonians 5:19, Ephesians 4:30)
