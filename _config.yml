@@ -1,8 +1,6 @@
 # Basic Settings
 title: My Awesome Site
 description: A blog about something awesome.
-url: "https://yourdomain.com"
-baseurl: "/blog"
 
 # Author Information
 author:
