@@ -1,0 +1,33 @@
+# Basic Settings
+title: My Awesome Site
+description: A blog about something awesome.
+url: "https://yourdomain.com"
+baseurl: "/blog"
+
+# Author Information
+author:
+  name: John Doe
+  email: john.doe@example.com
+
+# Navigation
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about"
+
+# Social Media
+twitter_username: johndoe
+github_username: johndoe
+
+# Build Settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+# Theme
+theme: jekyll-theme-midnight
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
