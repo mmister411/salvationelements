@@ -10,7 +10,7 @@ Akef Tayem
 
 ### Details
 
-Akef Tayem, a former Muslim, has a remarkable near-death experience that he describes in various sources. Tayem, who founded Sons of Abraham and authored the book 'From the Crescent to the Cross,' recounts his journey from Islam to Christianity, which was profoundly influenced by his near-death experience. He details this experience in his book, on his website, and in interviews.
+Akef Tayem, a former Muslim who founded Sons of Abraham and authored the book 'From the Crescent to the Cross,' recounts his journey from Islam to Christianity, which was profoundly influenced by his near-death experience. He details this experience in his book, on his website, and in interviews. Akef Tayem's near-death experience, which he vividly recounts, took place over thirty years ago in Trussville, Alabama. His journey began with feelings of isolation and disconnection from society, leading him to seek solace in a remote area. He describes driving through a dense forest, feeling restless and seeking a place of quiet reflection​​. 
 
 In his narrative, Tayem describes a period where he went without food for about forty days while in a forest in Alabama. During this time, he had a profound experience where he encountered the silhouette of a man who approached him and spoke to him​​. Tayem identifies this figure as Jesus, who appeared to him and said 'Touch Me'. Upon doing so, Tayem was miraculously brought back to life​​.
 
@@ -19,8 +19,6 @@ This transformative experience is a cornerstone of Tayem's testimony and has bee
 Tayem's experience reflects a common theme in many near-death experiences: a transformative encounter that leads to significant life changes and spiritual revelations. His account is especially notable for its detailed description of the encounter and its profound impact on his life and beliefs. Tayem's story is one of many that contribute to the broader understanding of near-death experiences within the context of religious and spiritual conversions.
 
 ::
-
-Akef Tayem's near-death experience, which he vividly recounts, took place over thirty years ago in Trussville, Alabama. His journey began with feelings of isolation and disconnection from society, leading him to seek solace in a remote area. He describes driving through a dense forest, feeling restless and seeking a place of quiet reflection​​.
 
 During this profound experience, Tayem encountered a figure he instantly recognized as Jesus, despite only seeing a silhouette. He could not discern specific facial features but could make out the outline of a robe, shoulder-length hair, and bare feet. This figure approached him and invited him to "Touch me"​​.
 
