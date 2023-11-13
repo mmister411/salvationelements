@@ -76,17 +76,17 @@ These sensory details in Aline Baxley's account provide a visceral understanding
 3.  Divine Revelations. (n.d.). Aline Baxley after the accident. Retrieved from <https://fliphtml5.com/fbvn/ojeu/ALINE_BAXLEY_AFTER_THE_ACCIDEN_-_Divine_Revelations>
 4.  YouTube. (n.d.). I Walked in Hell Aileen Baxley. Retrieved from <https://www.youtube.com/watch?v=URL>
 
-Andres J Hendricks
-------------------
-
-### Details
-
-### References
 
 Angelica Zambrano
 -----------------
 
-### Details
+### Details -1 
+
+### Details -2
+
+### Details -3 
+
+### Details -4 
 
 ### References
 
