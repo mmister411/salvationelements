@@ -45,14 +45,36 @@ Aline Baxley
 ------------
 
 ### Details
-1.  444 Prophecy News. (n.d.). I walked in hell and there is life after death - Aline Baxley. Retrieved from <https://444prophecynews.com/i-walked-in-hell-and-there-is-life-after-death-aline-baxley/>
+Aline Baxley's near-death experience, particularly her journey through the Valley of the Shadow of Death and her descent into Hell, is a vivid and intense narrative. Her experience, as described in various sources, offers a profound and detailed look into her perception of these spiritual realms.
 
-2.  Heaven Visit. (n.d.). Aline Baxley. Retrieved from <https://www.heavenvisit.com/Aline-Baxley.php>
+1.  **The Valley of the Shadow of Death:** After her car accident, Baxley describes finding herself in the Valley of the Shadow of Death, depicted as a place of immense darkness and fear. Unable to see her own hands, she was overwhelmed by the darkness and her own sinfulness. Despite her love for the 23rd Psalm, she found herself unable to take comfort in its words, feeling unworthy and undone before God. In this valley, she perceived the Word of God becoming a living presence, interceding for her soul​[](https://fliphtml5.com/fbvn/ojeu/ALINE_BAXLEY_AFTER_THE_ACCIDEN_-_Divine_Revelations/)​.
 
-3.  FlipHTML5. (n.d.). Aline Baxley after the accident - Divine Revelations. Retrieved from <https://fliphtml5.com/>
+2.  **Encounter with the Death Angel:** In her experience, Baxley describes the appearance of the mighty Death Angel. This entity was perceived as an executor of divine will, present to enact the separation of her soul from the Lord. The Death Angel's role was to carry her into the depths of outer darkness, leading her into Hell​[](https://fliphtml5.com/fbvn/ojeu/ALINE_BAXLEY_AFTER_THE_ACCIDEN_-_Divine_Revelations/)​.
 
-4.  YouTube. (n.d.). I Walked in Hell Aileen Baxley. Retrieved from <https://www.youtube.com/watch?v=URL>
+3.  **Hell and the Second Death:** Baxley's narrative of Hell is one of anguish and despair, with souls by the hundreds and thousands screaming and gnashing their teeth in agony, unable to die. This experience underlined her belief in two types of death: the physical death of the body and a subsequent spiritual death where the soul faces God's judgment. In Hell, she saw the Lake of Fire, described as a place of total darkness with red-hot flames, where even the third of the angels were bound in chains of darkness​[](https://fliphtml5.com/fbvn/ojeu/ALINE_BAXLEY_AFTER_THE_ACCIDEN_-_Divine_Revelations/)​.
+
+4.  Divine Revelation and Forgiveness: During her time in a coma, Baxley describes a period of waiting in the dark valley, feeling unworthy in the presence of a holy light. She reports hearing the voice of God, quoting Romans 11:29, which speaks to the unrepentant nature of God's gifts and calling. This led to a profound moment of repentance and plea for forgiveness from Baxley, signifying a turning point in her spiritual experience​[](https://fliphtml5.com/fbvn/ojeu/ALINE_BAXLEY_AFTER_THE_ACCIDEN_-_Divine_Revelations/)​.
+
+Aline Baxley's near-death experience paints a vivid picture of Christian eschatological themes, highlighting the depths of despair and darkness in Hell contrasted with the possibility of divine mercy and forgiveness. Her experience emphasizes the Christian belief in the eternal nature of the soul and the importance of living a life aligned with God's will.
+
+---
+Aline Baxley's near-death experience is marked by intense sensory descriptions that vividly convey the depth of her spiritual and emotional turmoil. These sensory elements are crucial in understanding the profound impact of her experience:
+
+1\. **Deep, Dark, Wide Valley**: Baxley describes the Valley of the Shadow of Death as deeply dark and wide, a place that evoked immense fear. The darkness was so thick that she couldn't see her own hands, emphasizing a sense of overwhelming isolation and despair【43†source】.
+
+2\. **Screaming, Hollering, Gnashing of Teeth**: In Hell, Baxley recounts being surrounded by countless souls screaming and gnashing their teeth. This auditory imagery of despair and pain is a recurring theme in her description of Hell, emphasizing the relentless anguish experienced by the souls trapped there【43†source】【37†source】.
+
+3\. **Crying Out for God and Feeling of Separation**: Throughout her experience, Baxley frequently mentions crying out to God, reflecting her desperate longing for divine intervention and salvation. This emotional sensory detail underscores the profound sense of loss and separation she felt from God, which was the core of her torment【43†source】.
+
+4\. **Encounter with the Death Angel**: The appearance of the Death Angel is a pivotal moment in Baxley's experience, where she vividly describes crying out in fear and confusion. The presence of the Death Angel heightens the sensory experience of impending doom and eternal separation from God【43†source】.
+
+These sensory details in Aline Baxley's account provide a visceral understanding of her near-death experience, painting a vivid picture of the spiritual realms she claims to have encountered. Her descriptions align with traditional Christian interpretations of Hell and the afterlife, emphasizing the themes of divine judgment, eternal suffering, and the desperate need for redemption and reconciliation with God.
+
 ### References
+1.  444 Prophecy News. (n.d.). I walked in hell and there is life after death - Aline Baxley. Retrieved from <https://444prophecynews.com/i-walked-in-hell-and-there-is-life-after-death-aline-baxley/>
+2.  Heaven Visit. (n.d.). Aline Baxley. Retrieved from <https://www.heavenvisit.com/Aline-Baxley.php>
+3.  Divine Revelations. (n.d.). Aline Baxley after the accident. Retrieved from <https://fliphtml5.com/fbvn/ojeu/ALINE_BAXLEY_AFTER_THE_ACCIDEN_-_Divine_Revelations>
+4.  YouTube. (n.d.). I Walked in Hell Aileen Baxley. Retrieved from <https://www.youtube.com/watch?v=URL>
 
 Andres J Hendricks
 ------------------
