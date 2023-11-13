@@ -45,7 +45,13 @@ Aline Baxley
 ------------
 
 ### Details
+1.  444 Prophecy News. (n.d.). I walked in hell and there is life after death - Aline Baxley. Retrieved from <https://444prophecynews.com/i-walked-in-hell-and-there-is-life-after-death-aline-baxley/>
 
+2.  Heaven Visit. (n.d.). Aline Baxley. Retrieved from <https://www.heavenvisit.com/Aline-Baxley.php>
+
+3.  FlipHTML5. (n.d.). Aline Baxley after the accident - Divine Revelations. Retrieved from <https://fliphtml5.com/>
+
+4.  YouTube. (n.d.). I Walked in Hell Aileen Baxley. Retrieved from <https://www.youtube.com/watch?v=URL>
 ### References
 
 Andres J Hendricks
