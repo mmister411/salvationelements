@@ -1,11 +1,11 @@
 # Basic Settings
-title: My Awesome Site
-description: A blog about something awesome.
+title: I4 Ministries Theology
+description: Inquire, Intercede, Improve, Inspire.
 
 # Author Information
 author:
-  name: John Doe
-  email: john.doe@example.com
+  name: Marcus Mister
+  email: mmister411@gmail.com
 
 # Navigation
 nav:
@@ -15,8 +15,8 @@ nav:
     url: "/about"
 
 # Social Media
-twitter_username: johndoe
-github_username: johndoe
+twitter_username: marcus.t.mister
+github_username: mmister411
 
 # Build Settings
 markdown: kramdown
