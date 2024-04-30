@@ -7,31 +7,32 @@ title: Comprehensive Overview of [Book Name]
 
 ## Top Level Information
 - **Book Data**
-  - Book_Name
-  - Section
-  - Subsection
-  - Group
-  - Canon Order Book Number
-  - Chapter_Count
-- **Authorship, Narrator and Primary Character Information**
-  - **Author/Narrator/Primary Character Name and Pedigree**:  
-    [Provide details about the author, narrator, or primary character, including probable authors and significant information about their background.]
-  - **Author/Narrator/Primary Character Story Arc**:  
-    [Outline the main narrative arc involving the primary character or narrator.]
-  - **Text Authorship Timeline**:  
-    [Provide an estimated date or range of dates for the composition of the book.]
-  - **Author Purpose and Audience**:  
-    [Explain the purpose behind the book's creation and identify the intended audience.]
+  - **Book Name**: [Full name of the book]
+  - **Section**: [Part of the Bible it belongs to, e.g., Pentateuch, Historical Books, Gospels, etc.]
+  - **Subsection**: [Further categorization if applicable]
+  - **Group**: [Grouping within the canon, e.g., Major Prophets, Minor Prophets, Pauline Epistles]
+  - **Canon Order Book Number**: [Position in the canonical sequence]
+  - **Chapter Count**: [Total number of chapters in the book]
 
-- **Major Elements**
-  - **Major Events**:  
-    [Summarize pivotal events that precede, occur within, or follow the book's timeline.]
-  - **Key Figures and Characters**:  
-    [Introduce key figures or characters and describe their relationships to the major elements.]
-  - **Major and Recurring Themes**:  
-    [List and briefly explain the major themes of the book.]
-  - **Canonical Context**:  
-    [Clarify the book's placement within the canon of Scripture.]
+## Authorship, Narrator, and Primary Character Information
+- **Author/Narrator/Primary Character Name and Pedigree**:  
+  [Provide details about the author, narrator, or primary character, including probable authors and significant background information.]
+- **Author/Narrator/Primary Character Story Arc**:  
+  [Outline the main narrative arc involving the primary character or narrator.]
+- **Text Authorship Timeline**:  
+  [Provide an estimated date or range of dates for the composition of the book.]
+- **Author Purpose and Audience**:  
+  [Explain the purpose behind the book's creation and identify the intended audience.]
+
+## Major Elements
+- **Major Events**:  
+  [Summarize pivotal events that precede, occur within, or follow the book's timeline.]
+- **Key Figures and Characters**:  
+  [Introduce key figures or characters and describe their relationships to the major elements.]
+- **Major and Recurring Themes**:  
+  [List and briefly explain the major themes of the book.]
+- **Canonical Context**:  
+  [Clarify the book's placement within the canon of Scripture.]
 
 ## Time and Locale
 - **Historical Context and Arc**
@@ -88,5 +89,15 @@ title: Comprehensive Overview of [Book Name]
   - [Discuss relevant archaeological discoveries related to the book.]
 - **Scholarly Contributions**
   - [Summarize significant insights from respected theologians or scholars.]
-- **Canonical Context Reiterated**:  
-  - [Reaffirm the book's placement within the broader canon of Scripture.]
+
+## Book Comprehensive Outline
+- **Chapter by Chapter Overview**:  
+  [Provide a brief overview of each chapter, focusing on key events, developments, and messages.]
+
+## Geographic Overview
+- **Locations by Ancient and Modern Name**:  
+  [List important locations mentioned in the book and their corresponding modern names.]
+- **Paths Traveled by Characters**:  
+  [Map out the significant journeys taken by characters within the book.]
+
+This template will help ensure a holistic approach to studying the Bible, providing users with a structured and insightful exploration into its books.
