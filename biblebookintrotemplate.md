@@ -9,8 +9,8 @@ title: Comprehensive Overview of [Book Name]
 - **Book Data**
   - **Book Name**: [Full name of the book]
   - **Section**: [Part of the Bible it belongs to, e.g., Pentateuch, Historical Books, Gospels, etc.]
-  - **Subsection**: [Further categorization if applicable]
-  - **Group**: [Grouping within the canon, e.g., Major Prophets, Minor Prophets, Pauline Epistles]
+  - **Subsection**: [Grouping within the canon, e.g., Major Prophets, Minor Prophets, Pauline Epistles]
+  - **Group**: [Narrative (e.g Genesis, Judges), Declarative (e.g Leviticus, Proverbs), Prophetic (e.g. Deuteronomy, Revelation)]
   - **Canon Order Book Number**: [Position in the canonical sequence]
   - **Chapter Count**: [Total number of chapters in the book]
 
