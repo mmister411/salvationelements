@@ -1,0 +1,848 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.11.3/css/dataTables.bootstrap5.min.css">
+        <title>Does_ET_Need_Redemption</title>
+    </head>
+    <body class="bg-dark text-light">
+
+
+
+        <div class="container mt-5">
+            <!-- Tab Navigation -->
+            <ul class="nav nav-tabs" id="myTab" role="tablist">
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link active" id="transcript-tab" data-bs-toggle="tab" data-bs-target="#transcript" type="button" role="tab" aria-controls="transcript" aria-selected="true">Timestamps</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="paragraph-tab" data-bs-toggle="tab" data-bs-target="#paragraphs" type="button" role="tab" aria-controls="paragraphs" aria-selected="false">Paragraphs</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="logic-tab" data-bs-toggle="tab" data-bs-target="#logic" type="button" role="tab" aria-controls="logic" aria-selected="false">Logic Statements</button>
+                </li>
+            </ul>
+
+            <!-- Tab Content -->
+            <div class="tab-content mt-3" id="myTabContent">
+                <div class="tab-pane fade show active" id="transcript" role="tabpanel" aria-labelledby="transcript-tab">
+                    <table border="1" class="dataframe table table-striped table-hover table-dark" id="transcriptTable">
+  <thead>
+    <tr style="text-align: right;">
+      <th>start</th>
+      <th>end</th>
+      <th>duration</th>
+      <th>text</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>00:00:00.000</td>
+      <td>00:00:03.500</td>
+      <td>3.500000</td>
+      <td>This is where I want to go, because I'm amazed, I'm just frankly amazed,</td>
+    </tr>
+    <tr>
+      <td>00:00:03.500</td>
+      <td>00:00:08.600</td>
+      <td>5.100000</td>
+      <td>that everybody I've seen write on this subject acts like Romans chapter 8 doesn't exist.</td>
+    </tr>
+    <tr>
+      <td>00:00:08.600</td>
+      <td>00:00:12.319</td>
+      <td>3.719999</td>
+      <td>Romans chapter 8 and Colossians chapter 1 answers this question.</td>
+    </tr>
+    <tr>
+      <td>00:00:12.319</td>
+      <td>00:00:16.200</td>
+      <td>3.880001</td>
+      <td>And it's like, could someone please quote the Bible if we're talking about it?</td>
+    </tr>
+    <tr>
+      <td>00:00:16.200</td>
+      <td>00:00:18.800</td>
+      <td>2.600000</td>
+      <td>Now at this point, you might be wondering, okay,</td>
+    </tr>
+    <tr>
+      <td>00:00:18.800</td>
+      <td>00:00:22.300</td>
+      <td>3.500000</td>
+      <td>if God created other life forms in the universe, would he love them?</td>
+    </tr>
+    <tr>
+      <td>00:00:22.300</td>
+      <td>00:00:25.200</td>
+      <td>2.900002</td>
+      <td>Would they be fallen? Could they do evil?</td>
+    </tr>
+    <tr>
+      <td>00:00:25.200</td>
+      <td>00:00:28.500</td>
+      <td>3.299999</td>
+      <td>If so, would God redeem them? Would he take them to heaven?</td>
+    </tr>
+    <tr>
+      <td>00:00:28.500</td>
+      <td>00:00:31.300</td>
+      <td>2.799999</td>
+      <td>Would he offer them a way of salvation?</td>
+    </tr>
+    <tr>
+      <td>00:00:31.300</td>
+      <td>00:00:35.000</td>
+      <td>3.700001</td>
+      <td>In Christian language, would Christ's death also be for their sin,</td>
+    </tr>
+    <tr>
+      <td>00:00:35.000</td>
+      <td>00:00:38.600</td>
+      <td>3.599998</td>
+      <td>or would he have to be incarnated and die an ad infinitum number of times,</td>
+    </tr>
+    <tr>
+      <td>00:00:38.600</td>
+      <td>00:00:41.600</td>
+      <td>3.000000</td>
+      <td>like Thomas Paine was ridiculing?</td>
+    </tr>
+    <tr>
+      <td>00:00:41.600</td>
+      <td>00:00:43.399</td>
+      <td>1.799999</td>
+      <td>And that brings up the third issue of concern.</td>
+    </tr>
+    <tr>
+      <td>00:00:43.399</td>
+      <td>00:00:46.000</td>
+      <td>2.600002</td>
+      <td>A lot of people are worried that the notion of intelligent alien life</td>
+    </tr>
+    <tr>
+      <td>00:00:46.000</td>
+      <td>00:00:50.200</td>
+      <td>4.200001</td>
+      <td>undoes the doctrines of the incarnation of Christ and redemption.</td>
+    </tr>
+    <tr>
+      <td>00:00:50.200</td>
+      <td>00:00:54.000</td>
+      <td>3.799999</td>
+      <td>This is the way C.S. Lewis, a famous Christian author, put this.</td>
+    </tr>
+    <tr>
+      <td>00:00:54.000</td>
+      <td>00:00:59.000</td>
+      <td>5.000004</td>
+      <td>He said, if the universe is teeming with life, again, he's just stating the position.</td>
+    </tr>
+    <tr>
+      <td>00:00:59.000</td>
+      <td>00:01:04.000</td>
+      <td>5.000000</td>
+      <td>This, we are told, reduces to absurdity the Christian claim that to this one planet,</td>
+    </tr>
+    <tr>
+      <td>00:01:04.000</td>
+      <td>00:01:08.200</td>
+      <td>4.199997</td>
+      <td>God came down and was incarnate for us and our salvation.</td>
+    </tr>
+    <tr>
+      <td>00:01:08.200</td>
+      <td>00:01:10.500</td>
+      <td>2.300003</td>
+      <td>Paul Davies puts it this way,</td>
+    </tr>
+    <tr>
+      <td>00:01:10.500</td>
+      <td>00:01:14.800</td>
+      <td>4.299995</td>
+      <td>of all the world's major religions, Christianity is the most species specific.</td>
+    </tr>
+    <tr>
+      <td>00:01:14.800</td>
+      <td>00:01:17.300</td>
+      <td>2.500000</td>
+      <td>Jesus Christ was humanity's savior and redeemer.</td>
+    </tr>
+    <tr>
+      <td>00:01:17.300</td>
+      <td>00:01:20.100</td>
+      <td>2.800003</td>
+      <td>He did not die for the dolphins or the gorillas,</td>
+    </tr>
+    <tr>
+      <td>00:01:20.100</td>
+      <td>00:01:23.200</td>
+      <td>3.099998</td>
+      <td>and certainly not for the proverbial little green men.</td>
+    </tr>
+    <tr>
+      <td>00:01:23.200</td>
+      <td>00:01:25.200</td>
+      <td>2.000000</td>
+      <td>But what of deeply spiritual aliens?</td>
+    </tr>
+    <tr>
+      <td>00:01:25.200</td>
+      <td>00:01:26.500</td>
+      <td>1.300003</td>
+      <td>Are they not to be saved?</td>
+    </tr>
+    <tr>
+      <td>00:01:26.500</td>
+      <td>00:01:30.899</td>
+      <td>4.399994</td>
+      <td>Are we to contemplate a universe that contains perhaps a trillion worlds of saintly beings</td>
+    </tr>
+    <tr>
+      <td>00:01:30.899</td>
+      <td>00:01:35.200</td>
+      <td>4.300003</td>
+      <td>in which the only beings eligible for salvation are the really bad ones on Earth?</td>
+    </tr>
+    <tr>
+      <td>00:01:35.200</td>
+      <td>00:01:37.500</td>
+      <td>2.300003</td>
+      <td>This is how Davies framed the question.</td>
+    </tr>
+    <tr>
+      <td>00:01:37.500</td>
+      <td>00:01:42.000</td>
+      <td>4.500000</td>
+      <td>Catholics and others see where this is going about this multiple incarnation thing,</td>
+    </tr>
+    <tr>
+      <td>00:01:42.000</td>
+      <td>00:01:43.700</td>
+      <td>1.699997</td>
+      <td>and that's what spooks them.</td>
+    </tr>
+    <tr>
+      <td>00:01:43.700</td>
+      <td>00:01:47.100</td>
+      <td>3.400002</td>
+      <td>Now, this alleged problem proceeds along a number of assumptions,</td>
+    </tr>
+    <tr>
+      <td>00:01:47.100</td>
+      <td>00:01:49.100</td>
+      <td>2.000000</td>
+      <td>all of which I believe are flawed.</td>
+    </tr>
+    <tr>
+      <td>00:01:49.100</td>
+      <td>00:01:52.500</td>
+      <td>3.400002</td>
+      <td>In Christian theology, all humans need to be redeemed</td>
+    </tr>
+    <tr>
+      <td>00:01:52.500</td>
+      <td>00:01:56.700</td>
+      <td>4.199997</td>
+      <td>to have their moral guilt before a holy God erased and forgiven.</td>
+    </tr>
+    <tr>
+      <td>00:01:56.700</td>
+      <td>00:01:59.600</td>
+      <td>2.900002</td>
+      <td>The mechanism for this is the sacrificial death of Christ</td>
+    </tr>
+    <tr>
+      <td>00:01:59.600</td>
+      <td>00:02:02.599</td>
+      <td>2.999992</td>
+      <td>on behalf of all humanity and his resurrection.</td>
+    </tr>
+    <tr>
+      <td>00:02:02.599</td>
+      <td>00:02:04.399</td>
+      <td>1.800003</td>
+      <td>Salvation cannot be merited,</td>
+    </tr>
+    <tr>
+      <td>00:02:04.399</td>
+      <td>00:02:07.599</td>
+      <td>3.199997</td>
+      <td>but is imparted to all those who put their faith in what Jesus did,</td>
+    </tr>
+    <tr>
+      <td>00:02:07.599</td>
+      <td>00:02:09.300</td>
+      <td>1.700012</td>
+      <td>that this is the gospel.</td>
+    </tr>
+    <tr>
+      <td>00:02:09.300</td>
+      <td>00:02:14.200</td>
+      <td>4.899994</td>
+      <td>As such, Davies' comments in particular show a fundamental misunderstanding of the gospel,</td>
+    </tr>
+    <tr>
+      <td>00:02:14.200</td>
+      <td>00:02:15.000</td>
+      <td>0.800003</td>
+      <td>for one thing.</td>
+    </tr>
+    <tr>
+      <td>00:02:15.000</td>
+      <td>00:02:16.100</td>
+      <td>1.100006</td>
+      <td>But be that as it may,</td>
+    </tr>
+    <tr>
+      <td>00:02:16.100</td>
+      <td>00:02:20.300</td>
+      <td>4.199997</td>
+      <td>the assumption that E.T. needs a savior would have to be based on the prior assumption</td>
+    </tr>
+    <tr>
+      <td>00:02:20.300</td>
+      <td>00:02:23.000</td>
+      <td>2.699997</td>
+      <td>that E.T. was guilty before God.</td>
+    </tr>
+    <tr>
+      <td>00:02:23.000</td>
+      <td>00:02:28.300</td>
+      <td>5.300003</td>
+      <td>The guilt would in turn have to be incurred when and if E.T. failed a moral test,</td>
+    </tr>
+    <tr>
+      <td>00:02:28.300</td>
+      <td>00:02:31.800</td>
+      <td>3.500000</td>
+      <td>like the one put to Adam and Eve in an event called the Fall.</td>
+    </tr>
+    <tr>
+      <td>00:02:31.800</td>
+      <td>00:02:33.300</td>
+      <td>1.500000</td>
+      <td>Now, some thoughts for you.</td>
+    </tr>
+    <tr>
+      <td>00:02:33.300</td>
+      <td>00:02:37.500</td>
+      <td>4.199997</td>
+      <td>The fact that E.T. is intelligent has nothing to do with his need of salvation.</td>
+    </tr>
+    <tr>
+      <td>00:02:37.500</td>
+      <td>00:02:41.800</td>
+      <td>4.300003</td>
+      <td>Adam and Eve were intelligent creatures, but did not need salvation until they sinned.</td>
+    </tr>
+    <tr>
+      <td>00:02:41.800</td>
+      <td>00:02:45.900</td>
+      <td>4.100006</td>
+      <td>E.T. would only need salvation if there was a fall for E.T.</td>
+    </tr>
+    <tr>
+      <td>00:02:45.900</td>
+      <td>00:02:48.300</td>
+      <td>2.399994</td>
+      <td>The Bible teaches that every human bears guilt before God.</td>
+    </tr>
+    <tr>
+      <td>00:02:48.300</td>
+      <td>00:02:52.800</td>
+      <td>4.500000</td>
+      <td>Since E.T. is not human, he is exempt without a fall.</td>
+    </tr>
+    <tr>
+      <td>00:02:52.800</td>
+      <td>00:02:54.600</td>
+      <td>1.800003</td>
+      <td>E.T. would not need a savior.</td>
+    </tr>
+    <tr>
+      <td>00:02:54.600</td>
+      <td>00:02:56.900</td>
+      <td>2.300003</td>
+      <td>And so that makes the question moot.</td>
+    </tr>
+    <tr>
+      <td>00:02:56.900</td>
+      <td>00:02:59.200</td>
+      <td>2.300003</td>
+      <td>I would like to say it makes the question silly.</td>
+    </tr>
+    <tr>
+      <td>00:02:59.200</td>
+      <td>00:03:01.600</td>
+      <td>2.399994</td>
+      <td>But nevertheless, it was a serious question within the church.</td>
+    </tr>
+    <tr>
+      <td>00:03:01.600</td>
+      <td>00:03:04.900</td>
+      <td>3.300003</td>
+      <td>Why would we assume God would test the E.T.'s he created?</td>
+    </tr>
+    <tr>
+      <td>00:03:04.900</td>
+      <td>00:03:06.600</td>
+      <td>1.699997</td>
+      <td>He might, but this is not required.</td>
+    </tr>
+    <tr>
+      <td>00:03:06.600</td>
+      <td>00:03:09.500</td>
+      <td>2.899994</td>
+      <td>And God would not be forced to do this because he did it on Earth.</td>
+    </tr>
+    <tr>
+      <td>00:03:09.500</td>
+      <td>00:03:13.900</td>
+      <td>4.400009</td>
+      <td>Even if he did not test E.T. and E.T. was unfallen, the whole problem is moot.</td>
+    </tr>
+    <tr>
+      <td>00:03:13.900</td>
+      <td>00:03:17.300</td>
+      <td>3.399994</td>
+      <td>The fact that E.T. was a created being and God's grand creative output</td>
+    </tr>
+    <tr>
+      <td>00:03:17.300</td>
+      <td>00:03:20.000</td>
+      <td>2.699997</td>
+      <td>also does not mean that salvation is necessary.</td>
+    </tr>
+    <tr>
+      <td>00:03:20.000</td>
+      <td>00:03:24.500</td>
+      <td>4.500000</td>
+      <td>Animals don't need to be saved, yet they are part of the new heaven and the new Earth at the time of the end.</td>
+    </tr>
+    <tr>
+      <td>00:03:24.500</td>
+      <td>00:03:26.700</td>
+      <td>2.200012</td>
+      <td>Angels are also intelligent created beings,</td>
+    </tr>
+    <tr>
+      <td>00:03:26.700</td>
+      <td>00:03:30.200</td>
+      <td>3.500000</td>
+      <td>and they are not included in the plan of salvation according to the Bible.</td>
+    </tr>
+    <tr>
+      <td>00:03:30.200</td>
+      <td>00:03:34.200</td>
+      <td>4.000000</td>
+      <td>If there are aliens, they may also have been excluded from the plan of salvation.</td>
+    </tr>
+    <tr>
+      <td>00:03:34.200</td>
+      <td>00:03:39.100</td>
+      <td>4.899994</td>
+      <td>One would not need to conclude from this that they, like fallen angels, would be eternally punished.</td>
+    </tr>
+    <tr>
+      <td>00:03:39.100</td>
+      <td>00:03:41.300</td>
+      <td>2.199997</td>
+      <td>They might just die and that's it.</td>
+    </tr>
+    <tr>
+      <td>00:03:41.300</td>
+      <td>00:03:43.500</td>
+      <td>2.199997</td>
+      <td>On the other hand, and this is where I want to go,</td>
+    </tr>
+    <tr>
+      <td>00:03:43.500</td>
+      <td>00:03:48.300</td>
+      <td>4.800003</td>
+      <td>because I'm amazed, I'm just frankly amazed that everybody I've seen write on this subject</td>
+    </tr>
+    <tr>
+      <td>00:03:48.300</td>
+      <td>00:03:51.400</td>
+      <td>3.100006</td>
+      <td>acts like Romans chapter 8 doesn't exist.</td>
+    </tr>
+    <tr>
+      <td>00:03:51.400</td>
+      <td>00:03:55.200</td>
+      <td>3.800003</td>
+      <td>Romans chapter 8 and Colossians chapter 1 answers this question.</td>
+    </tr>
+    <tr>
+      <td>00:03:55.200</td>
+      <td>00:03:59.200</td>
+      <td>4.000000</td>
+      <td>And it's like, could someone please quote the Bible if we're talking about it?</td>
+    </tr>
+    <tr>
+      <td>00:03:59.200</td>
+      <td>00:04:04.500</td>
+      <td>5.299988</td>
+      <td>E.T.'s, on the other hand, would be included under the atonement of Christ,</td>
+    </tr>
+    <tr>
+      <td>00:04:04.500</td>
+      <td>00:04:07.000</td>
+      <td>2.500000</td>
+      <td>but not in a spiritual salvation sense.</td>
+    </tr>
+    <tr>
+      <td>00:04:07.000</td>
+      <td>00:04:08.000</td>
+      <td>1.000000</td>
+      <td>Here's how they would be included.</td>
+    </tr>
+    <tr>
+      <td>00:04:08.000</td>
+      <td>00:04:12.000</td>
+      <td>4.000000</td>
+      <td>They would be included with everything else in the created world, the created cosmos.</td>
+    </tr>
+    <tr>
+      <td>00:04:12.000</td>
+      <td>00:04:14.000</td>
+      <td>2.000000</td>
+      <td>Romans 8, now listen to this as I read.</td>
+    </tr>
+    <tr>
+      <td>00:04:14.000</td>
+      <td>00:04:15.300</td>
+      <td>1.300018</td>
+      <td>Paul says,</td>
+    </tr>
+    <tr>
+      <td>00:04:15.300</td>
+      <td>00:04:15.800</td>
+      <td>0.500000</td>
+      <td>Catch this.</td>
+    </tr>
+    <tr>
+      <td>00:04:15.800</td>
+      <td>00:04:17.800</td>
+      <td>2.000000</td>
+      <td>Paul says,</td>
+    </tr>
+    <tr>
+      <td>00:04:17.800</td>
+      <td>00:04:19.300</td>
+      <td>1.500000</td>
+      <td>And it's by God's design.</td>
+    </tr>
+    <tr>
+      <td>00:04:19.300</td>
+      <td>00:04:20.800</td>
+      <td>1.500000</td>
+      <td>Just read you Colossians 1.</td>
+    </tr>
+    <tr>
+      <td>00:04:20.800</td>
+      <td>00:04:24.300</td>
+      <td>3.500000</td>
+      <td>Same idea. I'm amazed that it's like nobody knows these passages are there.</td>
+    </tr>
+    <tr>
+      <td>00:04:24.300</td>
+      <td>00:04:26.300</td>
+      <td>2.000000</td>
+      <td>Colossians 1, Paul writing again,</td>
+    </tr>
+    <tr>
+      <td>00:04:26.300</td>
+      <td>00:04:31.800</td>
+      <td>5.500000</td>
+      <td>But one of the reasons that God came up with the plan of the incarnation of redemption</td>
+    </tr>
+    <tr>
+      <td>00:04:31.800</td>
+      <td>00:04:39.800</td>
+      <td>8.000000</td>
+      <td>was so that the entire cosmos, which He through Christ created, could be saved and redeemed.</td>
+    </tr>
+    <tr>
+      <td>00:04:39.800</td>
+      <td>00:04:45.800</td>
+      <td>6.000000</td>
+      <td>The only way you are not in that group is if you retain deliberately by your own choice,</td>
+    </tr>
+    <tr>
+      <td>00:04:45.800</td>
+      <td>00:04:47.300</td>
+      <td>1.500000</td>
+      <td>your moral guilt before God.</td>
+    </tr>
+    <tr>
+      <td>00:04:47.300</td>
+      <td>00:04:50.800</td>
+      <td>3.500000</td>
+      <td>If you've never had moral guilt before God, if you've never fallen,</td>
+    </tr>
+    <tr>
+      <td>00:04:50.800</td>
+      <td>00:04:56.800</td>
+      <td>6.000000</td>
+      <td>And again, if ET's out there and there's no fall out there on another planet, he's in.</td>
+    </tr>
+    <tr>
+      <td>00:04:56.800</td>
+      <td>00:04:59.800</td>
+      <td>3.000000</td>
+      <td>This is a totally irrelevant question.</td>
+    </tr>
+    <tr>
+      <td>00:04:59.800</td>
+      <td>00:05:03.800</td>
+      <td>4.000000</td>
+      <td>And I don't know why it has plagued the church for so long.</td>
+    </tr>
+  </tbody>
+</table>
+                </div>
+                <div class="tab-pane fade" id="paragraphs" role="tabpanel" aria-labelledby="paragraph-tab">
+                    <!-- Search Box for Paragraphs -->
+                    <input type="text" id="paragraphSearch" class="form-control mb-3" placeholder="Search paragraphs...">
+                    <div>
+    
+        <div class="paragraph-container">
+            <p>This is where I want to go, because I'm amazed, I'm just frankly amazed, that everybody I've seen write on this subject acts like Romans chapter 8 doesn't exist. Romans chapter 8 and Colossians chapter 1 answers this question. And it's like, could someone please quote the Bible if we're talking about it?
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+    
+    
+        <div class="paragraph-container">
+            <p>Now at this point, you might be wondering, okay, if God created other life forms in the universe, would he love them? Would they be fallen? Could they do evil? If so, would God redeem them? Would he take them to heaven? Would he offer them a way of salvation? In Christian language, would Christ's death also be for their sin, or would he have to be incarnated and die an ad infinitum number of times, like Thomas Paine was ridiculing?
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+    
+    
+        <div class="paragraph-container">
+            <p>And that brings up the third issue of concern. A lot of people are worried that the notion of intelligent alien life undoes the doctrines of the incarnation of Christ and redemption. This is the way C.S. Lewis, a famous Christian author, put this. He said, if the universe is teeming with life, again, he's just stating the position. This, we are told, reduces to absurdity the Christian claim that to this one planet, God came down and was incarnate for us and our salvation.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+    
+    
+        <div class="paragraph-container">
+            <p>Paul Davies puts it this way, of all the world's major religions, Christianity is the most species specific. Jesus Christ was humanity's savior and redeemer. He did not die for the dolphins or the gorillas, and certainly not for the proverbial little green men. But what of deeply spiritual aliens? Are they not to be saved? Are we to contemplate a universe that contains perhaps a trillion worlds of saintly beings in which the only beings eligible for salvation are the really bad ones on Earth?
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+    
+    
+        <div class="paragraph-container">
+            <p>This is how Davies framed the question. Catholics and others see where this is going about this multiple incarnation thing, and that's what spooks them. Now, this alleged problem proceeds along a number of assumptions, all of which I believe are flawed.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+    
+    
+        <div class="paragraph-container">
+            <p>In Christian theology, all humans need to be redeemed to have their moral guilt before a holy God erased and forgiven. The mechanism for this is the sacrificial death of Christ on behalf of all humanity and his resurrection. Salvation cannot be merited but is imparted to all those who put their faith in what Jesus did, that this is the gospel. As such, Davies' comments in particular show a fundamental misunderstanding of the gospel, for one thing.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+    
+    
+        <div class="paragraph-container">
+            <p>But be that as it may, the assumption that E.T. needs a savior would have to be based on the prior assumption that E.T. was guilty before God. The guilt would in turn have to be incurred when and if E.T. failed a moral test, like the one put to Adam and Eve in an event called the Fall. Now, some thoughts for you. The fact that E.T. is intelligent has nothing to do with his need of salvation. Adam and Eve were intelligent creatures but did not need salvation until they sinned. E.T. would only need salvation if there was a fall for E.T.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+    
+    
+        <div class="paragraph-container">
+            <p>The Bible teaches that every human bears guilt before God. Since E.T. is not human, he is exempt without a fall. E.T. would not need a savior. And so that makes the question moot. I would like to say it makes the question silly. But nevertheless, it was a serious question within the church.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+    
+    
+        <div class="paragraph-container">
+            <p>Why would we assume God would test the E.T.'s he created? He might, but this is not required. And God would not be forced to do this because he did it on Earth. Even if he did not test E.T. and E.T. was unfallen, the whole problem is moot.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+    
+    
+        <div class="paragraph-container">
+            <p>The fact that E.T. was a created being and God's grand creative output also does not mean that salvation is necessary. Animals don't need to be saved, yet they are part of the new heaven and the new Earth at the time of the end. Angels are also intelligent created beings, and they are not included in the plan of salvation according to the Bible.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+    
+    
+        <div class="paragraph-container">
+            <p>If there are aliens, they may also have been excluded from the plan of salvation. One would not need to conclude from this that they, like fallen angels, would be eternally punished. They might just die and that's it.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+    
+    
+        <div class="paragraph-container">
+            <p>On the other hand, and this is where I want to go, because I'm amazed, I'm just frankly amazed that everybody I've seen write on this subject acts like Romans chapter 8 doesn't exist. Romans chapter 8 and Colossians chapter 1 answers this question. And it's like, could someone please quote the Bible if we're talking about it?
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+    
+    
+        <div class="paragraph-container">
+            <p>E.T.'s, on the other hand, would be included under the atonement of Christ, but not in a spiritual salvation sense. Here's how they would be included. They would be included with everything else in the created world, the created cosmos.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+    
+    
+        <div class="paragraph-container">
+            <p>Romans 8, now listen to this as I read. Paul says, Catch this. Paul says, And it's by God's design. Just read you Colossians 1. Same idea. I'm amazed that it's like nobody knows these passages are there.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+    
+    
+        <div class="paragraph-container">
+            <p>Colossians 1, Paul writing again, But one of the reasons that God came up with the plan of the incarnation of redemption was so that the entire cosmos, which He through Christ created, could be saved and redeemed.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+    
+    
+        <div class="paragraph-container">
+            <p>The only way you are not in that group is if you retain deliberately by your own choice, your moral guilt before God. If you've never had moral guilt before God, if you've never fallen, And again, if ET's out there and there's no fall out there on another planet, he's in. This is a totally irrelevant question. And I don't know why it has plagued the church for so long.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+</div>
+                </div>
+                <div class="tab-pane fade" id="logic" role="tabpanel" aria-labelledby="logic-tab">
+                    <!-- Search Box for Logic Items -->
+                    <input type="text" id="logicSearch" class="form-control mb-3" placeholder="Search logic items...">
+                    <ol class="list-group list-group-numbered" id="logicList">
+                        <li class="list-group-item bg-dark text-light ">Romans chapter 8 and Colossians chapter 1 answer this question.</li>
+<li class="list-group-item bg-dark text-light ">The notion of intelligent alien life is worried to undo the doctrines of the incarnation of Christ and redemption.</li>
+<li class="list-group-item bg-dark text-light ">If the universe is teeming with life, it reduces to absurdity the Christian claim that God came down and was incarnate for us and our salvation.</li>
+<li class="list-group-item bg-dark text-light ">Christianity is the most species-specific major world religion.</li>
+<li class="list-group-item bg-dark text-light ">Jesus Christ was humanity's savior and redeemer.</li>
+<li class="list-group-item bg-dark text-light ">Jesus did not die for dolphins, gorillas, or the proverbial little green men.</li>
+<li class="list-group-item bg-dark text-light ">In Christian theology, all humans need to be redeemed to have their moral guilt before a holy God erased and forgiven.</li>
+<li class="list-group-item bg-dark text-light ">The mechanism for moral guilt being erased and forgiven is the sacrificial death of Christ on behalf of all humanity and his resurrection.</li>
+<li class="list-group-item bg-dark text-light ">Salvation cannot be merited, but is imparted to all those who put their faith in what Jesus did.</li>
+<li class="list-group-item bg-dark text-light ">Davies' comments show a fundamental misunderstanding of the gospel.</li>
+<li class="list-group-item bg-dark text-light ">E.T. would only need salvation if there was a fall for E.T.</li>
+<li class="list-group-item bg-dark text-light ">The Bible teaches that every human bears guilt before God.</li>
+<li class="list-group-item bg-dark text-light ">Since E.T. is not human, he is exempt without a fall.</li>
+<li class="list-group-item bg-dark text-light ">E.T. would not need a savior without a fall.</li>
+<li class="list-group-item bg-dark text-light ">The created being status of E.T. does not mean that salvation is necessary.</li>
+<li class="list-group-item bg-dark text-light ">Animals don't need to be saved, yet they are part of the new heaven and the new Earth at the time of the end.</li>
+<li class="list-group-item bg-dark text-light ">Angels are also intelligent created beings, and they are not included in the plan of salvation according to the Bible.</li>
+<li class="list-group-item bg-dark text-light ">Aliens might also be excluded from the plan of salvation.</li>
+<li class="list-group-item bg-dark text-light ">One would not need to conclude that aliens, like fallen angels, would be eternally punished.</li>
+<li class="list-group-item bg-dark text-light ">Aliens might just die and cease to exist.</li>
+<li class="list-group-item bg-dark text-light ">If E.T. has never fallen, the entire question of E.T.'s need for salvation is irrelevant.</li>
+<li class="list-group-item bg-dark text-light ">Romans 8 mentions that the entire creation waits eagerly for the revealing of the sons of God.</li>
+<li class="list-group-item bg-dark text-light ">Colossians 1 states that through Christ, all things were created and have been reconciled through Him.</li>
+<li class="list-group-item bg-dark text-light ">God came up with the plan of the incarnation of redemption so that the entire cosmos, which He created, could be saved and redeemed.</li>
+<li class="list-group-item bg-dark text-light ">The only way to not be included in the redemption is by retaining moral guilt before God through deliberate choice.</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+
+
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+
+    <script src="https://cdn.datatables.net/1.11.3/js/dataTables.bootstrap5.min.js"></script>
+        <script>
+            $(document).ready(function() {
+                $('#transcriptTable').DataTable({
+                    "paging": true,
+                    "searching": true,
+                    "ordering": true,
+                    "info": true
+                });
+            });
+
+            function copyToClipboard(button) {
+                // Find the paragraph element
+                var paragraph = button.previousElementSibling;
+                // Create a temporary textarea element
+                var tempTextarea = document.createElement("textarea");
+                tempTextarea.value = paragraph.textContent;
+                document.body.appendChild(tempTextarea);
+                // Select and copy the text
+                tempTextarea.select();
+                tempTextarea.setSelectionRange(0, 99999); // For mobile devices
+                document.execCommand("copy");
+                // Remove the temporary element
+                document.body.removeChild(tempTextarea);
+                // Provide feedback (optional)
+                button.textContent = "Copied!";
+                setTimeout(() => {
+                    button.textContent = "Copy";
+                }, 2000);
+            }
+
+                    // Search functionality for Paragraphs
+            $('#paragraphSearch').on('input', function() {
+                var searchTerm = $(this).val().toLowerCase();
+                $('.paragraph-container').each(function() {
+                    var paragraphText = $(this).text().toLowerCase();
+                    $(this).toggle(paragraphText.includes(searchTerm));
+                });
+            });
+
+            // Search functionality for Logic Items
+            $('#logicSearch').on('input', function() {
+                var searchTerm = $(this).val().toLowerCase();
+                $('#logicList li').each(function() {
+                    var logicText = $(this).text().toLowerCase();
+                    $(this).toggle(logicText.includes(searchTerm));
+                });
+            });
+        </script>
+    </body>
+    </html>
+    
