@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.11.3/css/dataTables.bootstrap5.min.css">
+        <title>Saint_of_the_Day_—_Isidore_of_Seville_—_A</title>
+    </head>
+    <body class="bg-dark text-light">
+
+
+
+        <div class="container mt-5">
+            <!-- Tab Navigation -->
+            <ul class="nav nav-tabs" id="myTab" role="tablist">
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link active" id="transcript-tab" data-bs-toggle="tab" data-bs-target="#transcript" type="button" role="tab" aria-controls="transcript" aria-selected="true">Timestamps</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="paragraph-tab" data-bs-toggle="tab" data-bs-target="#paragraphs" type="button" role="tab" aria-controls="paragraphs" aria-selected="false">Paragraphs</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="logic-tab" data-bs-toggle="tab" data-bs-target="#logic" type="button" role="tab" aria-controls="logic" aria-selected="false">Logic Statements</button>
+                </li>
+            </ul>
+
+            <!-- Tab Content -->
+            <div class="tab-content mt-3" id="myTabContent">
+                <div class="tab-pane fade show active" id="transcript" role="tabpanel" aria-labelledby="transcript-tab">
+                    <table border="1" class="dataframe table table-striped table-hover table-dark" id="transcriptTable">
+  <thead>
+    <tr style="text-align: right;">
+      <th>start</th>
+      <th>end</th>
+      <th>duration</th>
+      <th>text</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>00:00:00.000</td>
+      <td>00:00:20.000</td>
+      <td>20.000000</td>
+      <td>Today is the feast of Saint Isidore of Seville.</td>
+    </tr>
+    <tr>
+      <td>00:00:20.000</td>
+      <td>00:00:24.600</td>
+      <td>4.600000</td>
+      <td>Born around the year 560 AD, Isidore's family stressed the importance of education from</td>
+    </tr>
+    <tr>
+      <td>00:00:24.600</td>
+      <td>00:00:25.600</td>
+      <td>1.000000</td>
+      <td>his youth.</td>
+    </tr>
+    <tr>
+      <td>00:00:25.600</td>
+      <td>00:00:29.440</td>
+      <td>3.840000</td>
+      <td>While Isidore was a well-mannered child, at one point he became so upset by the rigor</td>
+    </tr>
+    <tr>
+      <td>00:00:29.440</td>
+      <td>00:00:32.279</td>
+      <td>2.839998</td>
+      <td>of his education that he ran away.</td>
+    </tr>
+    <tr>
+      <td>00:00:32.279</td>
+      <td>00:00:36.279</td>
+      <td>4.000000</td>
+      <td>After some time away, Isidore realized his family only meant well for him, and he would</td>
+    </tr>
+    <tr>
+      <td>00:00:36.279</td>
+      <td>00:00:39.400</td>
+      <td>3.120003</td>
+      <td>return home with a renewed zeal towards his study.</td>
+    </tr>
+    <tr>
+      <td>00:00:39.400</td>
+      <td>00:00:43.840</td>
+      <td>4.439999</td>
+      <td>His family, under the tutelage of his older brother, agreed to soften their severe punishments</td>
+    </tr>
+    <tr>
+      <td>00:00:43.840</td>
+      <td>00:00:46.159</td>
+      <td>2.320000</td>
+      <td>if he agreed not to run away again.</td>
+    </tr>
+    <tr>
+      <td>00:00:46.159</td>
+      <td>00:00:50.119</td>
+      <td>3.959999</td>
+      <td>While studying, Isidore would encounter the great thinkers of Christendom.</td>
+    </tr>
+    <tr>
+      <td>00:00:50.119</td>
+      <td>00:00:54.939</td>
+      <td>4.820000</td>
+      <td>Isidore began to have a burning love for theology after studying the likes of Saint Augustine.</td>
+    </tr>
+    <tr>
+      <td>00:00:54.939</td>
+      <td>00:00:58.840</td>
+      <td>3.900002</td>
+      <td>He would also cultivate a love for Greek language and philosophy.</td>
+    </tr>
+    <tr>
+      <td>00:00:58.840</td>
+      <td>00:01:02.860</td>
+      <td>4.020000</td>
+      <td>Encouraged and strengthened by these new guides, Isidore would soon become a teacher</td>
+    </tr>
+    <tr>
+      <td>00:01:02.860</td>
+      <td>00:01:04.000</td>
+      <td>1.139999</td>
+      <td>in Europe.</td>
+    </tr>
+    <tr>
+      <td>00:01:04.000</td>
+      <td>00:01:08.419</td>
+      <td>4.419998</td>
+      <td>He wrote books on topics such as grammar, astronomy, and geography.</td>
+    </tr>
+    <tr>
+      <td>00:01:08.419</td>
+      <td>00:01:13.519</td>
+      <td>5.099998</td>
+      <td>As Isidore was restoring order in the universities and centers of learning, the air of Arianism</td>
+    </tr>
+    <tr>
+      <td>00:01:13.519</td>
+      <td>00:01:18.260</td>
+      <td>4.740005</td>
+      <td>was growing strong and taking root in the newly baptized Visigoths.</td>
+    </tr>
+    <tr>
+      <td>00:01:18.260</td>
+      <td>00:01:20.779</td>
+      <td>2.519997</td>
+      <td>Isidore knew full well the horror of the Arians.</td>
+    </tr>
+    <tr>
+      <td>00:01:20.779</td>
+      <td>00:01:24.419</td>
+      <td>3.639999</td>
+      <td>In many respects, he was standing with the great Saint Athanasius, whom he studied in</td>
+    </tr>
+    <tr>
+      <td>00:01:24.419</td>
+      <td>00:01:25.919</td>
+      <td>1.500000</td>
+      <td>his youth.</td>
+    </tr>
+    <tr>
+      <td>00:01:25.919</td>
+      <td>00:01:30.019</td>
+      <td>4.099998</td>
+      <td>After being raised to the level of bishop, Isidore used his understanding of philosophy</td>
+    </tr>
+    <tr>
+      <td>00:01:30.019</td>
+      <td>00:01:34.260</td>
+      <td>4.240005</td>
+      <td>and theology to fight and defeat Arianism in his diocese.</td>
+    </tr>
+    <tr>
+      <td>00:01:34.260</td>
+      <td>00:01:38.919</td>
+      <td>4.659996</td>
+      <td>Isidore lived to be nearly 80, until his death in 636 AD.</td>
+    </tr>
+    <tr>
+      <td>00:01:38.919</td>
+      <td>00:01:43.699</td>
+      <td>4.779999</td>
+      <td>He is regarded as the most learned man of his age and exercised a far-reaching and immeasurable</td>
+    </tr>
+    <tr>
+      <td>00:01:43.699</td>
+      <td>00:01:46.480</td>
+      <td>2.780006</td>
+      <td>influence on the educational life of the Middle Ages.</td>
+    </tr>
+  </tbody>
+</table>
+                </div>
+                <div class="tab-pane fade" id="paragraphs" role="tabpanel" aria-labelledby="paragraph-tab">
+                    <!-- Search Box for Paragraphs -->
+                    <input type="text" id="paragraphSearch" class="form-control mb-3" placeholder="Search paragraphs...">
+                    <div>
+    
+        <div class="paragraph-container">
+            <p>Today is the feast of Saint Isidore of Seville. Born around the year 560 AD, Isidore's family stressed the importance of education from his youth. While Isidore was a well-mannered child, at one point he became so upset by the rigor of his education that he ran away. After some time away, Isidore realized his family only meant well for him, and he would return home with a renewed zeal towards his study. His family, under the tutelage of his older brother, agreed to soften their severe punishments if he agreed not to run away again.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+    
+    
+        <div class="paragraph-container">
+            <p>While studying, Isidore would encounter the great thinkers of Christendom. Isidore began to have a burning love for theology after studying the likes of Saint Augustine. He would also cultivate a love for Greek language and philosophy. Encouraged and strengthened by these new guides, Isidore would soon become a teacher in Europe. He wrote books on topics such as grammar, astronomy, and geography.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+    
+    
+        <div class="paragraph-container">
+            <p>As Isidore was restoring order in the universities and centers of learning, the air of Arianism was growing strong and taking root in the newly baptized Visigoths. Isidore knew full well the horror of the Arians. In many respects, he was standing with the great Saint Athanasius, whom he studied in his youth. After being raised to the level of bishop, Isidore used his understanding of philosophy and theology to fight and defeat Arianism in his diocese.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+    
+    
+        <div class="paragraph-container">
+            <p>Isidore lived to be nearly 80, until his death in 636 AD. He is regarded as the most learned man of his age and exercised a far-reaching and immeasurable influence on the educational life of the Middle Ages.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+</div>
+                </div>
+                <div class="tab-pane fade" id="logic" role="tabpanel" aria-labelledby="logic-tab">
+                    <!-- Search Box for Logic Items -->
+                    <input type="text" id="logicSearch" class="form-control mb-3" placeholder="Search logic items...">
+                    <ol class="list-group list-group-numbered" id="logicList">
+                        <li class="list-group-item bg-dark text-light ">Saint Isidore of Seville was born around the year 560 AD.</li>
+<li class="list-group-item bg-dark text-light ">Isidore's family stressed the importance of education from his youth.</li>
+<li class="list-group-item bg-dark text-light ">Isidore became upset by the rigor of his education at one point.</li>
+<li class="list-group-item bg-dark text-light ">Isidore ran away due to his education's rigor.</li>
+<li class="list-group-item bg-dark text-light ">Isidore realized his family meant well for him after some time away.</li>
+<li class="list-group-item bg-dark text-light ">Isidore returned home with a renewed zeal towards his study.</li>
+<li class="list-group-item bg-dark text-light ">Isidore's family agreed to soften their severe punishments if he agreed not to run away again.</li>
+<li class="list-group-item bg-dark text-light ">Isidore encountered the great thinkers of Christendom while studying.</li>
+<li class="list-group-item bg-dark text-light ">Isidore began to have a burning love for theology after studying Saint Augustine.</li>
+<li class="list-group-item bg-dark text-light ">Isidore cultivated a love for the Greek language and philosophy.</li>
+<li class="list-group-item bg-dark text-light ">Isidore became a teacher in Europe.</li>
+<li class="list-group-item bg-dark text-light ">Isidore wrote books on topics such as grammar, astronomy, and geography.</li>
+<li class="list-group-item bg-dark text-light ">Isidore was restoring order in the universities and centers of learning.</li>
+<li class="list-group-item bg-dark text-light ">The air of Arianism was growing strong and taking root in the newly baptized Visigoths.</li>
+<li class="list-group-item bg-dark text-light ">Isidore knew the horror of the Arians.</li>
+<li class="list-group-item bg-dark text-light ">In many respects, Isidore was standing with the great Saint Athanasius.</li>
+<li class="list-group-item bg-dark text-light ">Isidore studied Saint Athanasius in his youth.</li>
+<li class="list-group-item bg-dark text-light ">After being raised to the level of bishop, Isidore used his understanding of philosophy and theology to fight and defeat Arianism in his diocese.</li>
+<li class="list-group-item bg-dark text-light ">Isidore lived to be nearly 80 until his death in 636 AD.</li>
+<li class="list-group-item bg-dark text-light ">Saint Isidore is regarded as the most learned man of his age.</li>
+<li class="list-group-item bg-dark text-light ">Isidore exercised a far-reaching and immeasurable influence on the educational life of the Middle Ages.</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+
+
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+
+    <script src="https://cdn.datatables.net/1.11.3/js/dataTables.bootstrap5.min.js"></script>
+        <script>
+            $(document).ready(function() {
+                $('#transcriptTable').DataTable({
+                    "paging": true,
+                    "searching": true,
+                    "ordering": true,
+                    "info": true
+                });
+            });
+
+            function copyToClipboard(button) {
+                // Find the paragraph element
+                var paragraph = button.previousElementSibling;
+                // Create a temporary textarea element
+                var tempTextarea = document.createElement("textarea");
+                tempTextarea.value = paragraph.textContent;
+                document.body.appendChild(tempTextarea);
+                // Select and copy the text
+                tempTextarea.select();
+                tempTextarea.setSelectionRange(0, 99999); // For mobile devices
+                document.execCommand("copy");
+                // Remove the temporary element
+                document.body.removeChild(tempTextarea);
+                // Provide feedback (optional)
+                button.textContent = "Copied!";
+                setTimeout(() => {
+                    button.textContent = "Copy";
+                }, 2000);
+            }
+
+                    // Search functionality for Paragraphs
+            $('#paragraphSearch').on('input', function() {
+                var searchTerm = $(this).val().toLowerCase();
+                $('.paragraph-container').each(function() {
+                    var paragraphText = $(this).text().toLowerCase();
+                    $(this).toggle(paragraphText.includes(searchTerm));
+                });
+            });
+
+            // Search functionality for Logic Items
+            $('#logicSearch').on('input', function() {
+                var searchTerm = $(this).val().toLowerCase();
+                $('#logicList li').each(function() {
+                    var logicText = $(this).text().toLowerCase();
+                    $(this).toggle(logicText.includes(searchTerm));
+                });
+            });
+        </script>
+    </body>
+    </html>
+    

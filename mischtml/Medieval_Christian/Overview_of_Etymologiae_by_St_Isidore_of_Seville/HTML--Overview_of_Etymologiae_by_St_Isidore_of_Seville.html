@@ -1,0 +1,659 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.11.3/css/dataTables.bootstrap5.min.css">
+        <title>Overview_of_Etymologiae_by_St_Isidore_of_Seville</title>
+    </head>
+    <body class="bg-dark text-light">
+
+
+
+        <div class="container mt-5">
+            <!-- Tab Navigation -->
+            <ul class="nav nav-tabs" id="myTab" role="tablist">
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link active" id="transcript-tab" data-bs-toggle="tab" data-bs-target="#transcript" type="button" role="tab" aria-controls="transcript" aria-selected="true">Timestamps</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="paragraph-tab" data-bs-toggle="tab" data-bs-target="#paragraphs" type="button" role="tab" aria-controls="paragraphs" aria-selected="false">Paragraphs</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="logic-tab" data-bs-toggle="tab" data-bs-target="#logic" type="button" role="tab" aria-controls="logic" aria-selected="false">Logic Statements</button>
+                </li>
+            </ul>
+
+            <!-- Tab Content -->
+            <div class="tab-content mt-3" id="myTabContent">
+                <div class="tab-pane fade show active" id="transcript" role="tabpanel" aria-labelledby="transcript-tab">
+                    <table border="1" class="dataframe table table-striped table-hover table-dark" id="transcriptTable">
+  <thead>
+    <tr style="text-align: right;">
+      <th>start</th>
+      <th>end</th>
+      <th>duration</th>
+      <th>text</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>00:00:00.000</td>
+      <td>00:00:05.840</td>
+      <td>5.840000</td>
+      <td>Saint Isidore of Seville was one of the greatest doctors of late antiquity. He</td>
+    </tr>
+    <tr>
+      <td>00:00:05.840</td>
+      <td>00:00:10.800</td>
+      <td>4.960000</td>
+      <td>served as the Archbishop of Seville, attended several councils, and helped</td>
+    </tr>
+    <tr>
+      <td>00:00:10.800</td>
+      <td>00:00:15.439</td>
+      <td>4.639999</td>
+      <td>convert the Visigothic King of Spain to Catholic Christianity. Throughout his</td>
+    </tr>
+    <tr>
+      <td>00:00:15.439</td>
+      <td>00:00:20.639</td>
+      <td>5.200000</td>
+      <td>life, he was an avid scholar of the classical world and a prolific writer. By</td>
+    </tr>
+    <tr>
+      <td>00:00:20.639</td>
+      <td>00:00:25.959</td>
+      <td>5.320000</td>
+      <td>the time of his death in AD 636, he had written numerous books covering a wide</td>
+    </tr>
+    <tr>
+      <td>00:00:25.959</td>
+      <td>00:00:31.600</td>
+      <td>5.640001</td>
+      <td>range of topics such as history, astronomy, and theology. His writings</td>
+    </tr>
+    <tr>
+      <td>00:00:31.600</td>
+      <td>00:00:36.680</td>
+      <td>5.080000</td>
+      <td>would later go on to have a profound impact on medieval thinking. Saint</td>
+    </tr>
+    <tr>
+      <td>00:00:36.680</td>
+      <td>00:00:41.560</td>
+      <td>4.880001</td>
+      <td>Isidore's most influential work is Etymologi, which is an etymological</td>
+    </tr>
+    <tr>
+      <td>00:00:41.560</td>
+      <td>00:00:47.599</td>
+      <td>6.039997</td>
+      <td>encyclopedia and one of the first summas of universal knowledge. Etymologi</td>
+    </tr>
+    <tr>
+      <td>00:00:47.599</td>
+      <td>00:00:52.119</td>
+      <td>4.520000</td>
+      <td>is comprised of 20 books that contain knowledge primarily drawn from the</td>
+    </tr>
+    <tr>
+      <td>00:00:52.119</td>
+      <td>00:00:57.400</td>
+      <td>5.280003</td>
+      <td>classics. Its sources include authors such as St. Augustine, St. Jerome,</td>
+    </tr>
+    <tr>
+      <td>00:00:57.400</td>
+      <td>00:01:04.800</td>
+      <td>7.400002</td>
+      <td>Aristotle, Plato, and Cato. Etymologi's first three books deal with the seven</td>
+    </tr>
+    <tr>
+      <td>00:01:04.800</td>
+      <td>00:01:10.040</td>
+      <td>5.239998</td>
+      <td>liberal arts which are composed of the trivium and the quadrivium. The trivium</td>
+    </tr>
+    <tr>
+      <td>00:01:10.040</td>
+      <td>00:01:16.400</td>
+      <td>6.360001</td>
+      <td>is made up of three disciplines, grammar, logic, and rhetoric. The quadrivium is</td>
+    </tr>
+    <tr>
+      <td>00:01:16.400</td>
+      <td>00:01:23.240</td>
+      <td>6.840004</td>
+      <td>made up of four disciplines, arithmetic, geometry, astronomy, and music. The seven</td>
+    </tr>
+    <tr>
+      <td>00:01:23.240</td>
+      <td>00:01:28.040</td>
+      <td>4.800003</td>
+      <td>disciplines that make up the trivium and the quadrivium were called the liberal</td>
+    </tr>
+    <tr>
+      <td>00:01:28.040</td>
+      <td>00:01:32.680</td>
+      <td>4.639999</td>
+      <td>arts because they were considered essential for a free person to know in</td>
+    </tr>
+    <tr>
+      <td>00:01:32.680</td>
+      <td>00:01:39.080</td>
+      <td>6.399994</td>
+      <td>order to actively participate in civic life. The fourth book is about medicine.</td>
+    </tr>
+    <tr>
+      <td>00:01:39.080</td>
+      <td>00:01:45.520</td>
+      <td>6.440002</td>
+      <td>It includes information about the four humors, black bile, bile, blood, and phlegm.</td>
+    </tr>
+    <tr>
+      <td>00:01:45.520</td>
+      <td>00:01:50.840</td>
+      <td>5.320000</td>
+      <td>The book briefly outlines diseases, remedies, and medical instruments. It also</td>
+    </tr>
+    <tr>
+      <td>00:01:50.840</td>
+      <td>00:01:57.680</td>
+      <td>6.840004</td>
+      <td>discusses the three schools of medicine, empirical, logical, and methodical.</td>
+    </tr>
+    <tr>
+      <td>00:01:57.680</td>
+      <td>00:02:04.320</td>
+      <td>6.639999</td>
+      <td>Book five is about law and chronology. On the subject of law, St. Isidore discusses</td>
+    </tr>
+    <tr>
+      <td>00:02:04.320</td>
+      <td>00:02:09.600</td>
+      <td>5.279999</td>
+      <td>the differences between natural, civil, international, military, and public law.</td>
+    </tr>
+    <tr>
+      <td>00:02:09.600</td>
+      <td>00:02:15.199</td>
+      <td>5.599991</td>
+      <td>Regarding chronology, St. Isidore covers periods of time such as days, weeks,</td>
+    </tr>
+    <tr>
+      <td>00:02:15.199</td>
+      <td>00:02:23.360</td>
+      <td>8.160004</td>
+      <td>months, as well as solstices, equinoxes, seasons, and special years. The next</td>
+    </tr>
+    <tr>
+      <td>00:02:23.360</td>
+      <td>00:02:28.760</td>
+      <td>5.400009</td>
+      <td>several books discuss theological topics such as God, angels, and saints, as well as</td>
+    </tr>
+    <tr>
+      <td>00:02:28.760</td>
+      <td>00:02:33.440</td>
+      <td>4.679993</td>
+      <td>the Roman Catholic Church and non-christian sects. On the topic of God,</td>
+    </tr>
+    <tr>
+      <td>00:02:33.440</td>
+      <td>00:02:38.720</td>
+      <td>5.279999</td>
+      <td>St. Isidore explains the Trinity, as well as the qualities and names of God</td>
+    </tr>
+    <tr>
+      <td>00:02:38.720</td>
+      <td>00:02:43.760</td>
+      <td>5.040009</td>
+      <td>Regarding non-christian sects, St. Isidore mentions figures such as Zoroaster,</td>
+    </tr>
+    <tr>
+      <td>00:02:43.760</td>
+      <td>00:02:50.280</td>
+      <td>6.520004</td>
+      <td>Plato, and Donatus. However, St. Isidore's most noteworthy contemporary, Muhammad,</td>
+    </tr>
+    <tr>
+      <td>00:02:50.280</td>
+      <td>00:02:55.560</td>
+      <td>5.279999</td>
+      <td>is not mentioned at all. Perhaps this is because Muhammad and his followers did</td>
+    </tr>
+    <tr>
+      <td>00:02:55.560</td>
+      <td>00:03:01.480</td>
+      <td>5.919998</td>
+      <td>not become well-known until several decades after Etymologi was written.</td>
+    </tr>
+    <tr>
+      <td>00:03:01.480</td>
+      <td>00:03:08.400</td>
+      <td>6.919998</td>
+      <td>The ninth book discusses languages, peoples, kingdoms, armies, cities, and titles.</td>
+    </tr>
+    <tr>
+      <td>00:03:08.400</td>
+      <td>00:03:13.540</td>
+      <td>5.139999</td>
+      <td>It outlines in detail the nations that sprang from the three sons of Noah after the</td>
+    </tr>
+    <tr>
+      <td>00:03:13.540</td>
+      <td>00:03:18.720</td>
+      <td>5.179993</td>
+      <td>fall of Babel. It explains that Ham's descendants migrated to the continent of</td>
+    </tr>
+    <tr>
+      <td>00:03:18.720</td>
+      <td>00:03:24.800</td>
+      <td>6.080002</td>
+      <td>Africa. Japheth's descendants largely fled to Europe. However, Shem's descendants</td>
+    </tr>
+    <tr>
+      <td>00:03:24.800</td>
+      <td>00:03:31.400</td>
+      <td>6.600006</td>
+      <td>mostly stayed in the Middle East. Book 10 is about vocabulary. It provides a</td>
+    </tr>
+    <tr>
+      <td>00:03:31.400</td>
+      <td>00:03:36.840</td>
+      <td>5.440002</td>
+      <td>word list of adjectives and nouns with their etymological origin. The word list</td>
+    </tr>
+    <tr>
+      <td>00:03:36.840</td>
+      <td>00:03:43.200</td>
+      <td>6.360001</td>
+      <td>is arranged in alphabetical order and looks similar to a modern dictionary.</td>
+    </tr>
+    <tr>
+      <td>00:03:43.200</td>
+      <td>00:03:48.360</td>
+      <td>5.159988</td>
+      <td>The eleventh book delves into topics such as mankind, portents, and transformations.</td>
+    </tr>
+    <tr>
+      <td>00:03:48.360</td>
+      <td>00:03:53.280</td>
+      <td>4.920013</td>
+      <td>St. Isidore describes the ages of human beings and the many parts of the human</td>
+    </tr>
+    <tr>
+      <td>00:03:53.280</td>
+      <td>00:03:57.920</td>
+      <td>4.639999</td>
+      <td>body, including the soul. He also discusses strange phenomena and</td>
+    </tr>
+    <tr>
+      <td>00:03:57.920</td>
+      <td>00:04:06.600</td>
+      <td>8.680008</td>
+      <td>creatures such as metamorphoses, satyrs, and sirens. Books 12 through 14 are about</td>
+    </tr>
+    <tr>
+      <td>00:04:06.600</td>
+      <td>00:04:13.960</td>
+      <td>7.360001</td>
+      <td>the natural world. They discuss topics such as animals, atoms, natural phenomena,</td>
+    </tr>
+    <tr>
+      <td>00:04:13.960</td>
+      <td>00:04:19.200</td>
+      <td>5.239990</td>
+      <td>and geography. On the subject of geography, St. Isidore describes the</td>
+    </tr>
+    <tr>
+      <td>00:04:19.200</td>
+      <td>00:04:26.200</td>
+      <td>7.000000</td>
+      <td>world as being circular and composed of three continents, Europe, Asia, and Africa,</td>
+    </tr>
+    <tr>
+      <td>00:04:26.200</td>
+      <td>00:04:32.679</td>
+      <td>6.479980</td>
+      <td>with a great ocean that surrounds them. The fifteenth book is about buildings and</td>
+    </tr>
+    <tr>
+      <td>00:04:32.679</td>
+      <td>00:04:37.720</td>
+      <td>5.040009</td>
+      <td>fields. It discusses the cities of the ancient world and who founded them. It</td>
+    </tr>
+    <tr>
+      <td>00:04:37.720</td>
+      <td>00:04:43.079</td>
+      <td>5.359985</td>
+      <td>also describes different kinds of buildings such as lighthouses, monasteries,</td>
+    </tr>
+    <tr>
+      <td>00:04:43.079</td>
+      <td>00:04:48.279</td>
+      <td>5.200012</td>
+      <td>and fortifications. The agricultural section of the book discusses various</td>
+    </tr>
+    <tr>
+      <td>00:04:48.279</td>
+      <td>00:04:55.119</td>
+      <td>6.839996</td>
+      <td>kinds of fields and rural infrastructure. The next book covers rocks and metals.</td>
+    </tr>
+    <tr>
+      <td>00:04:55.119</td>
+      <td>00:05:01.839</td>
+      <td>6.720001</td>
+      <td>St. Isidore starts off by explaining dust, dirt, and other earthly materials. He then</td>
+    </tr>
+    <tr>
+      <td>00:05:01.839</td>
+      <td>00:05:07.399</td>
+      <td>5.559998</td>
+      <td>moves on to talk about the various kinds of stones, gems, and glass. In the second</td>
+    </tr>
+    <tr>
+      <td>00:05:07.399</td>
+      <td>00:05:11.839</td>
+      <td>4.440002</td>
+      <td>half of the book, St. Isidore discusses the various kinds of metals such as gold,</td>
+    </tr>
+    <tr>
+      <td>00:05:11.839</td>
+      <td>00:05:19.559</td>
+      <td>7.720001</td>
+      <td>silver, bronze, tin, and electrum. Books 17 through 20 are about the human</td>
+    </tr>
+    <tr>
+      <td>00:05:19.559</td>
+      <td>00:05:25.559</td>
+      <td>6.000000</td>
+      <td>civilization. They delve into topics such as agriculture, ships, tools, food,</td>
+    </tr>
+    <tr>
+      <td>00:05:25.559</td>
+      <td>00:05:33.119</td>
+      <td>7.559998</td>
+      <td>war, and jurisprudence. Throughout the medieval period, etymologi was the most</td>
+    </tr>
+    <tr>
+      <td>00:05:33.119</td>
+      <td>00:05:39.119</td>
+      <td>6.000000</td>
+      <td>widely used textbook. In fact, etymologi was so widely used that it often</td>
+    </tr>
+    <tr>
+      <td>00:05:39.119</td>
+      <td>00:05:43.239</td>
+      <td>4.119995</td>
+      <td>replaced individual works of the classics themselves, many of which were</td>
+    </tr>
+    <tr>
+      <td>00:05:43.239</td>
+      <td>00:05:49.040</td>
+      <td>5.800018</td>
+      <td>no longer copied and therefore lost as a consequence. No work other than the Holy</td>
+    </tr>
+    <tr>
+      <td>00:05:49.040</td>
+      <td>00:05:55.880</td>
+      <td>6.839996</td>
+      <td>Bible was as influential on medieval thinking as etymologi.</td>
+    </tr>
+  </tbody>
+</table>
+                </div>
+                <div class="tab-pane fade" id="paragraphs" role="tabpanel" aria-labelledby="paragraph-tab">
+                    <!-- Search Box for Paragraphs -->
+                    <input type="text" id="paragraphSearch" class="form-control mb-3" placeholder="Search paragraphs...">
+                    <div>
+    
+        <div class="paragraph-container">
+            <p>Saint Isidore of Seville was one of the greatest doctors of late antiquity. He served as the Archbishop of Seville, attended several councils, and helped convert the Visigothic King of Spain to Catholic Christianity. Throughout his life, he was an avid scholar of the classical world and a prolific writer. By the time of his death in AD 636, he had written numerous books covering a wide range of topics such as history, astronomy, and theology. His writings would later go on to have a profound impact on medieval thinking.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+
+    
+        <div class="paragraph-container">
+            <p>Saint Isidore's most influential work is Etymologi, which is an etymological encyclopedia and one of the first summas of universal knowledge. Etymologi is comprised of 20 books that contain knowledge primarily drawn from the classics. Its sources include authors such as St. Augustine, St. Jerome, Aristotle, Plato, and Cato.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+
+    
+        <div class="paragraph-container">
+            <p>Etymologi's first three books deal with the seven liberal arts which are composed of the trivium and the quadrivium. The trivium is made up of three disciplines: grammar, logic, and rhetoric. The quadrivium is made up of four disciplines: arithmetic, geometry, astronomy, and music. The seven disciplines that make up the trivium and the quadrivium were called the liberal arts because they were considered essential for a free person to know in order to actively participate in civic life.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+
+    
+        <div class="paragraph-container">
+            <p>The fourth book is about medicine. It includes information about the four humors: black bile, bile, blood, and phlegm. The book briefly outlines diseases, remedies, and medical instruments. It also discusses the three schools of medicine: empirical, logical, and methodical.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+
+    
+        <div class="paragraph-container">
+            <p>Book five is about law and chronology. On the subject of law, St. Isidore discusses the differences between natural, civil, international, military, and public law. Regarding chronology, St. Isidore covers periods of time such as days, weeks, months, as well as solstices, equinoxes, seasons, and special years.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+
+    
+        <div class="paragraph-container">
+            <p>The next several books discuss theological topics such as God, angels, and saints, as well as the Roman Catholic Church and non-Christian sects. On the topic of God, St. Isidore explains the Trinity, as well as the qualities and names of God. Regarding non-Christian sects, St. Isidore mentions figures such as Zoroaster, Plato, and Donatus. However, St. Isidore's most noteworthy contemporary, Muhammad, is not mentioned at all. Perhaps this is because Muhammad and his followers did not become well-known until several decades after Etymologi was written.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+
+    
+        <div class="paragraph-container">
+            <p>The ninth book discusses languages, peoples, kingdoms, armies, cities, and titles. It outlines in detail the nations that sprang from the three sons of Noah after the fall of Babel. It explains that Ham's descendants migrated to the continent of Africa. Japheth's descendants largely fled to Europe. However, Shem's descendants mostly stayed in the Middle East.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+
+    
+        <div class="paragraph-container">
+            <p>Book 10 is about vocabulary. It provides a word list of adjectives and nouns with their etymological origin. The word list is arranged in alphabetical order and looks similar to a modern dictionary.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+
+    
+        <div class="paragraph-container">
+            <p>The eleventh book delves into topics such as mankind, portents, and transformations. St. Isidore describes the ages of human beings and the many parts of the human body, including the soul. He also discusses strange phenomena and creatures such as metamorphoses, satyrs, and sirens.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+
+    
+        <div class="paragraph-container">
+            <p>Books 12 through 14 are about the natural world. They discuss topics such as animals, atoms, natural phenomena, and geography. On the subject of geography, St. Isidore describes the world as being circular and composed of three continents: Europe, Asia, and Africa, with a great ocean that surrounds them.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+
+    
+        <div class="paragraph-container">
+            <p>The fifteenth book is about buildings and fields. It discusses the cities of the ancient world and who founded them. It also describes different kinds of buildings such as lighthouses, monasteries, and fortifications. The agricultural section of the book discusses various kinds of fields and rural infrastructure.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+
+    
+        <div class="paragraph-container">
+            <p>The next book covers rocks and metals. St. Isidore starts off by explaining dust, dirt, and other earthly materials. He then moves on to talk about the various kinds of stones, gems, and glass. In the second half of the book, St. Isidore discusses the various kinds of metals such as gold, silver, bronze, tin, and electrum.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+
+    
+        <div class="paragraph-container">
+            <p>Books 17 through 20 are about human civilization. They delve into topics such as agriculture, ships, tools, food, war, and jurisprudence.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+
+    
+        <div class="paragraph-container">
+            <p>Throughout the medieval period, Etymologi was the most widely used textbook. In fact, Etymologi was so widely used that it often replaced individual works of the classics themselves, many of which were no longer copied and therefore lost as a consequence. No work other than the Holy Bible was as influential on medieval thinking as Etymologi.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+</div>
+                </div>
+                <div class="tab-pane fade" id="logic" role="tabpanel" aria-labelledby="logic-tab">
+                    <!-- Search Box for Logic Items -->
+                    <input type="text" id="logicSearch" class="form-control mb-3" placeholder="Search logic items...">
+                    <ol class="list-group list-group-numbered" id="logicList">
+                        <li class="list-group-item bg-dark text-light ">Saint Isidore of Seville was one of the greatest doctors of late antiquity.</li>
+<li class="list-group-item bg-dark text-light ">He served as the Archbishop of Seville.</li>
+<li class="list-group-item bg-dark text-light ">He attended several councils.</li>
+<li class="list-group-item bg-dark text-light ">He helped convert the Visigothic King of Spain to Catholic Christianity.</li>
+<li class="list-group-item bg-dark text-light ">He was an avid scholar of the classical world and a prolific writer.</li>
+<li class="list-group-item bg-dark text-light ">By the time of his death in AD 636, he had written numerous books covering a wide range of topics such as history, astronomy, and theology.</li>
+<li class="list-group-item bg-dark text-light ">His writings had a profound impact on medieval thinking.</li>
+<li class="list-group-item bg-dark text-light ">Saint Isidore's most influential work is <em>Etymologi,</em> which is an etymological encyclopedia and one of the first summas of universal knowledge.</li>
+<li class="list-group-item bg-dark text-light "><em>Etymologi</em> is comprised of 20 books that contain knowledge primarily drawn from the classics.</li>
+<li class="list-group-item bg-dark text-light "><em>Etymologi's</em> sources include authors such as St. Augustine, St. Jerome, Aristotle, Plato, and Cato.</li>
+<li class="list-group-item bg-dark text-light "><em>Etymologi's</em> first three books deal with the seven liberal arts which are composed of the trivium and the quadrivium.</li>
+<li class="list-group-item bg-dark text-light ">The trivium is made up of three disciplines: grammar, logic, and rhetoric.</li>
+<li class="list-group-item bg-dark text-light ">The quadrivium is made up of four disciplines: arithmetic, geometry, astronomy, and music.</li>
+<li class="list-group-item bg-dark text-light ">The seven disciplines that make up the trivium and the quadrivium were called the liberal arts because they were considered essential for a free person to know in order to actively participate in civic life.</li>
+<li class="list-group-item bg-dark text-light ">The fourth book is about medicine.</li>
+<li class="list-group-item bg-dark text-light ">The fourth book includes information about the four humors: black bile, bile, blood, and phlegm.</li>
+<li class="list-group-item bg-dark text-light ">The fourth book briefly outlines diseases, remedies, and medical instruments.</li>
+<li class="list-group-item bg-dark text-light ">The fourth book discusses the three schools of medicine: empirical, logical, and methodical.</li>
+<li class="list-group-item bg-dark text-light ">Book five is about law and chronology.</li>
+<li class="list-group-item bg-dark text-light ">On the subject of law, St. Isidore discusses the differences between natural, civil, international, military, and public law.</li>
+<li class="list-group-item bg-dark text-light ">Regarding chronology, St. Isidore covers periods of time such as days, weeks, months, as well as solstices, equinoxes, seasons, and special years.</li>
+<li class="list-group-item bg-dark text-light ">The next several books discuss theological topics such as God, angels, and saints, as well as the Roman Catholic Church and non-Christian sects.</li>
+<li class="list-group-item bg-dark text-light ">On the topic of God, St. Isidore explains the Trinity, as well as the qualities and names of God.</li>
+<li class="list-group-item bg-dark text-light ">Regarding non-Christian sects, St. Isidore mentions figures such as Zoroaster, Plato, and Donatus.</li>
+<li class="list-group-item bg-dark text-light ">Muhammad and his followers did not become well-known until several decades after <em>Etymologi</em> was written.</li>
+<li class="list-group-item bg-dark text-light ">The ninth book discusses languages, peoples, kingdoms, armies, cities, and titles.</li>
+<li class="list-group-item bg-dark text-light ">The ninth book outlines in detail the nations that sprang from the three sons of Noah after the fall of Babel.</li>
+<li class="list-group-item bg-dark text-light ">Ham's descendants migrated to the continent of Africa.</li>
+<li class="list-group-item bg-dark text-light ">Japheth's descendants largely fled to Europe.</li>
+<li class="list-group-item bg-dark text-light ">Shem's descendants mostly stayed in the Middle East.</li>
+<li class="list-group-item bg-dark text-light ">Book 10 is about vocabulary.</li>
+<li class="list-group-item bg-dark text-light ">Book 10 provides a word list of adjectives and nouns with their etymological origin.</li>
+<li class="list-group-item bg-dark text-light ">The word list in Book 10 is arranged in alphabetical order and looks similar to a modern dictionary.</li>
+<li class="list-group-item bg-dark text-light ">The eleventh book delves into topics such as mankind, portents, and transformations.</li>
+<li class="list-group-item bg-dark text-light ">St. Isidore describes the ages of human beings and the many parts of the human body, including the soul.</li>
+<li class="list-group-item bg-dark text-light ">The eleventh book also discusses strange phenomena and creatures such as metamorphoses, satyrs, and sirens.</li>
+<li class="list-group-item bg-dark text-light ">Books 12 through 14 are about the natural world.</li>
+<li class="list-group-item bg-dark text-light ">Books 12 through 14 discuss topics such as animals, atoms, natural phenomena, and geography.</li>
+<li class="list-group-item bg-dark text-light ">On the subject of geography, St. Isidore describes the world as being circular and composed of three continents: Europe, Asia, and Africa, with a great ocean that surrounds them.</li>
+<li class="list-group-item bg-dark text-light ">The fifteenth book is about buildings and fields.</li>
+<li class="list-group-item bg-dark text-light ">The fifteenth book discusses the cities of the ancient world and who founded them.</li>
+<li class="list-group-item bg-dark text-light ">The fifteenth book describes different kinds of buildings such as lighthouses, monasteries, and fortifications.</li>
+<li class="list-group-item bg-dark text-light ">The agricultural section of the fifteenth book discusses various kinds of fields and rural infrastructure.</li>
+<li class="list-group-item bg-dark text-light ">The sixteenth book covers rocks and metals.</li>
+<li class="list-group-item bg-dark text-light ">In the sixteenth book, St. Isidore starts off by explaining dust, dirt, and other earthly materials.</li>
+<li class="list-group-item bg-dark text-light ">The sixteenth book then moves on to talk about the various kinds of stones, gems, and glass.</li>
+<li class="list-group-item bg-dark text-light ">In the second half of the sixteenth book, St. Isidore discusses the various kinds of metals such as gold, silver, bronze, tin, and electrum.</li>
+<li class="list-group-item bg-dark text-light ">Books 17 through 20 are about human civilization.</li>
+<li class="list-group-item bg-dark text-light ">Books 17 through 20 delve into topics such as agriculture, ships, tools, food, war, and jurisprudence.</li>
+<li class="list-group-item bg-dark text-light ">Throughout the medieval period, <em>Etymologi</em> was the most widely used textbook.</li>
+<li class="list-group-item bg-dark text-light "><em>Etymologi</em> was so widely used that it often replaced individual works of the classics themselves, many of which were no longer copied and therefore lost as a consequence.</li>
+<li class="list-group-item bg-dark text-light ">No work other than the Holy Bible was as influential on medieval thinking as <em>Etymologi</em>.</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+
+
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+
+    <script src="https://cdn.datatables.net/1.11.3/js/dataTables.bootstrap5.min.js"></script>
+        <script>
+            $(document).ready(function() {
+                $('#transcriptTable').DataTable({
+                    "paging": true,
+                    "searching": true,
+                    "ordering": true,
+                    "info": true
+                });
+            });
+
+            function copyToClipboard(button) {
+                // Find the paragraph element
+                var paragraph = button.previousElementSibling;
+                // Create a temporary textarea element
+                var tempTextarea = document.createElement("textarea");
+                tempTextarea.value = paragraph.textContent;
+                document.body.appendChild(tempTextarea);
+                // Select and copy the text
+                tempTextarea.select();
+                tempTextarea.setSelectionRange(0, 99999); // For mobile devices
+                document.execCommand("copy");
+                // Remove the temporary element
+                document.body.removeChild(tempTextarea);
+                // Provide feedback (optional)
+                button.textContent = "Copied!";
+                setTimeout(() => {
+                    button.textContent = "Copy";
+                }, 2000);
+            }
+
+                    // Search functionality for Paragraphs
+            $('#paragraphSearch').on('input', function() {
+                var searchTerm = $(this).val().toLowerCase();
+                $('.paragraph-container').each(function() {
+                    var paragraphText = $(this).text().toLowerCase();
+                    $(this).toggle(paragraphText.includes(searchTerm));
+                });
+            });
+
+            // Search functionality for Logic Items
+            $('#logicSearch').on('input', function() {
+                var searchTerm = $(this).val().toLowerCase();
+                $('#logicList li').each(function() {
+                    var logicText = $(this).text().toLowerCase();
+                    $(this).toggle(logicText.includes(searchTerm));
+                });
+            });
+        </script>
+    </body>
+    </html>
+    
