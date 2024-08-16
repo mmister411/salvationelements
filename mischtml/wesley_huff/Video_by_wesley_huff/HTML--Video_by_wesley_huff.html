@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.11.3/css/dataTables.bootstrap5.min.css">
+        <title>Video_by_wesley_huff</title>
+    </head>
+    <body class="bg-dark text-light">
+
+
+
+        <div class="container mt-5">
+            <!-- Tab Navigation -->
+            <ul class="nav nav-tabs" id="myTab" role="tablist">
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link active" id="transcript-tab" data-bs-toggle="tab" data-bs-target="#transcript" type="button" role="tab" aria-controls="transcript" aria-selected="true">Timestamps</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="paragraph-tab" data-bs-toggle="tab" data-bs-target="#paragraphs" type="button" role="tab" aria-controls="paragraphs" aria-selected="false">Paragraphs</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="logic-tab" data-bs-toggle="tab" data-bs-target="#logic" type="button" role="tab" aria-controls="logic" aria-selected="false">Logic Statements</button>
+                </li>
+            </ul>
+
+            <!-- Tab Content -->
+            <div class="tab-content mt-3" id="myTabContent">
+                <div class="tab-pane fade show active" id="transcript" role="tabpanel" aria-labelledby="transcript-tab">
+                    <table border="1" class="dataframe table table-striped table-hover table-dark" id="transcriptTable">
+  <thead>
+    <tr style="text-align: right;">
+      <th>start</th>
+      <th>end</th>
+      <th>duration</th>
+      <th>text</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>00:00:00.000</td>
+      <td>00:00:04.239</td>
+      <td>4.240000</td>
+      <td>We were just recently in Cairo, Egypt, and we were at the Coptic Museum</td>
+    </tr>
+    <tr>
+      <td>00:00:04.239</td>
+      <td>00:00:09.600</td>
+      <td>5.360001</td>
+      <td>looking at one of the Nag Hammadi texts, the Gospel of Thomas.</td>
+    </tr>
+    <tr>
+      <td>00:00:09.600</td>
+      <td>00:00:13.760</td>
+      <td>4.160000</td>
+      <td>We are here at the Coptic Museum, and I'm looking at the actual first page</td>
+    </tr>
+    <tr>
+      <td>00:00:13.760</td>
+      <td>00:00:17.360</td>
+      <td>3.600000</td>
+      <td>of the Gospel of Thomas. And so you had these ancient groups,</td>
+    </tr>
+    <tr>
+      <td>00:00:17.360</td>
+      <td>00:00:20.319</td>
+      <td>2.959999</td>
+      <td>groups that we refer to as the Gnostics, the Doketics,</td>
+    </tr>
+    <tr>
+      <td>00:00:20.319</td>
+      <td>00:00:24.559</td>
+      <td>4.240000</td>
+      <td>and what they did is they appropriated Jesus and put their theology</td>
+    </tr>
+    <tr>
+      <td>00:00:24.559</td>
+      <td>00:00:29.440</td>
+      <td>4.880001</td>
+      <td>on the lips of Jesus in later centuries, and then they attached the names for</td>
+    </tr>
+    <tr>
+      <td>00:00:29.440</td>
+      <td>00:00:33.680</td>
+      <td>4.240000</td>
+      <td>credibility's sake to those documents. But we know, based on</td>
+    </tr>
+    <tr>
+      <td>00:00:33.680</td>
+      <td>00:00:37.200</td>
+      <td>3.520000</td>
+      <td>both the content and based on how we date these</td>
+    </tr>
+    <tr>
+      <td>00:00:37.200</td>
+      <td>00:00:39.599</td>
+      <td>2.399998</td>
+      <td>manuscripts, that they're coming from times</td>
+    </tr>
+    <tr>
+      <td>00:00:39.599</td>
+      <td>00:00:43.119</td>
+      <td>3.520000</td>
+      <td>when Thomas, when Peter, when Mary, when Judas were long dead.</td>
+    </tr>
+    <tr>
+      <td>00:00:43.119</td>
+      <td>00:00:47.680</td>
+      <td>4.560001</td>
+      <td>Many ancient texts like the Nag Hammadi library ended up in small villages in</td>
+    </tr>
+    <tr>
+      <td>00:00:47.680</td>
+      <td>00:00:51.119</td>
+      <td>3.439999</td>
+      <td>rural Egypt, found by farmers and in some cases</td>
+    </tr>
+    <tr>
+      <td>00:00:51.119</td>
+      <td>00:00:55.200</td>
+      <td>4.080002</td>
+      <td>archaeologists. Documents like the Gospel of Thomas,</td>
+    </tr>
+    <tr>
+      <td>00:00:55.200</td>
+      <td>00:01:01.200</td>
+      <td>6.000000</td>
+      <td>Philip, and Judas found their origins with a number of mystic religious sects</td>
+    </tr>
+    <tr>
+      <td>00:01:01.200</td>
+      <td>00:01:05.040</td>
+      <td>3.840000</td>
+      <td>from across the ancient world. After their discovery by the Bedouin farmers</td>
+    </tr>
+    <tr>
+      <td>00:01:05.040</td>
+      <td>00:01:09.199</td>
+      <td>4.159996</td>
+      <td>in 1945, they almost didn't survive. Some of the</td>
+    </tr>
+    <tr>
+      <td>00:01:09.199</td>
+      <td>00:01:12.879</td>
+      <td>3.680000</td>
+      <td>ancient papyri were tossed into a courtyard full of animals,</td>
+    </tr>
+    <tr>
+      <td>00:01:12.879</td>
+      <td>00:01:18.239</td>
+      <td>5.360001</td>
+      <td>others used as kindling to cook bread. Many of these ancient papyri found in</td>
+    </tr>
+    <tr>
+      <td>00:01:18.239</td>
+      <td>00:01:22.160</td>
+      <td>3.920006</td>
+      <td>the desert, biblical or otherwise, often defy the</td>
+    </tr>
+    <tr>
+      <td>00:01:22.160</td>
+      <td>00:01:31.040</td>
+      <td>8.879997</td>
+      <td>odds when it comes to surviving for centuries.</td>
+    </tr>
+  </tbody>
+</table>
+                </div>
+                <div class="tab-pane fade" id="paragraphs" role="tabpanel" aria-labelledby="paragraph-tab">
+                    <!-- Search Box for Paragraphs -->
+                    <input type="text" id="paragraphSearch" class="form-control mb-3" placeholder="Search paragraphs...">
+                    <div>
+    
+        <div class="paragraph-container">
+            <p>We were just recently in Cairo, Egypt, and we were at the Coptic Museum looking at one of the Nag Hammadi texts, the Gospel of Thomas. We are here at the Coptic Museum, and I'm looking at the actual first page of the Gospel of Thomas.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+    
+    
+        <div class="paragraph-container">
+            <p>And so you had these ancient groups, groups that we refer to as the Gnostics, the Doketics, and what they did is they appropriated Jesus and put their theology on the lips of Jesus in later centuries, and then they attached the names for credibility's sake to those documents. But we know, based on both the content and based on how we date these manuscripts, that they're coming from times when Thomas, when Peter, when Mary, when Judas were long dead.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+    
+    
+        <div class="paragraph-container">
+            <p>Many ancient texts like the Nag Hammadi library ended up in small villages in rural Egypt, found by farmers and in some cases archaeologists. Documents like the Gospel of Thomas, Philip, and Judas found their origins with a number of mystic religious sects from across the ancient world.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+    
+    
+        <div class="paragraph-container">
+            <p>After their discovery by the Bedouin farmers in 1945, they almost didn't survive. Some of the ancient papyri were tossed into a courtyard full of animals, others used as kindling to cook bread. Many of these ancient papyri found in the desert, biblical or otherwise, often defy the odds when it comes to surviving for centuries.
+        <br/><button class="btn btn-secondary btn-sm" onclick="copyToClipboard(this)">Copy</button>
+        </p>
+            
+        </div>
+        
+</div>
+                </div>
+                <div class="tab-pane fade" id="logic" role="tabpanel" aria-labelledby="logic-tab">
+                    <!-- Search Box for Logic Items -->
+                    <input type="text" id="logicSearch" class="form-control mb-3" placeholder="Search logic items...">
+                    <ol class="list-group list-group-numbered" id="logicList">
+                        <li class="list-group-item bg-dark text-light ">We were recently in Cairo, Egypt.</li>
+<li class="list-group-item bg-dark text-light ">We were at the Coptic Museum looking at one of the Nag Hammadi texts, the Gospel of Thomas.</li>
+<li class="list-group-item bg-dark text-light ">Ancient groups like the Gnostics and Doketics appropriated Jesus and put their theology on the lips of Jesus in later centuries.</li>
+<li class="list-group-item bg-dark text-light ">They attached names for credibility's sake to those documents.</li>
+<li class="list-group-item bg-dark text-light ">Based on both the content and the dating of these manuscripts, these documents are from times when Thomas, Peter, Mary, and Judas were long dead.</li>
+<li class="list-group-item bg-dark text-light ">Many ancient texts like the Nag Hammadi library ended up in small villages in rural Egypt.</li>
+<li class="list-group-item bg-dark text-light ">Many ancient texts were found by farmers and in some cases archaeologists.</li>
+<li class="list-group-item bg-dark text-light ">Documents like the Gospel of Thomas, Philip, and Judas originated with a number of mystic religious sects from across the ancient world.</li>
+<li class="list-group-item bg-dark text-light ">The Bedouin farmers discovered the Nag Hammadi texts in 1945.</li>
+<li class="list-group-item bg-dark text-light ">Some of the ancient papyri almost didn't survive after their discovery.</li>
+<li class="list-group-item bg-dark text-light ">Some of the ancient papyri were tossed into a courtyard full of animals.</li>
+<li class="list-group-item bg-dark text-light ">Some of the ancient papyri were used as kindling to cook bread.</li>
+<li class="list-group-item bg-dark text-light ">Many ancient papyri found in the desert, biblical or otherwise, often defy the odds when it comes to surviving for centuries.</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+
+
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+
+    <script src="https://cdn.datatables.net/1.11.3/js/dataTables.bootstrap5.min.js"></script>
+        <script>
+            $(document).ready(function() {
+                $('#transcriptTable').DataTable({
+                    "paging": true,
+                    "searching": true,
+                    "ordering": true,
+                    "info": true
+                });
+            });
+
+            function copyToClipboard(button) {
+                // Find the paragraph element
+                var paragraph = button.previousElementSibling;
+                // Create a temporary textarea element
+                var tempTextarea = document.createElement("textarea");
+                tempTextarea.value = paragraph.textContent;
+                document.body.appendChild(tempTextarea);
+                // Select and copy the text
+                tempTextarea.select();
+                tempTextarea.setSelectionRange(0, 99999); // For mobile devices
+                document.execCommand("copy");
+                // Remove the temporary element
+                document.body.removeChild(tempTextarea);
+                // Provide feedback (optional)
+                button.textContent = "Copied!";
+                setTimeout(() => {
+                    button.textContent = "Copy";
+                }, 2000);
+            }
+
+                    // Search functionality for Paragraphs
+            $('#paragraphSearch').on('input', function() {
+                var searchTerm = $(this).val().toLowerCase();
+                $('.paragraph-container').each(function() {
+                    var paragraphText = $(this).text().toLowerCase();
+                    $(this).toggle(paragraphText.includes(searchTerm));
+                });
+            });
+
+            // Search functionality for Logic Items
+            $('#logicSearch').on('input', function() {
+                var searchTerm = $(this).val().toLowerCase();
+                $('#logicList li').each(function() {
+                    var logicText = $(this).text().toLowerCase();
+                    $(this).toggle(logicText.includes(searchTerm));
+                });
+            });
+        </script>
+    </body>
+    </html>
+    
