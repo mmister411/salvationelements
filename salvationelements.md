@@ -13,14 +13,21 @@ This document aims to provide an in-depth understanding of the elements of salva
     - Quickening (Titus 3:5, Ephesians 2:4-5, Psalm 119:50)
   - Requirement:
     - Accepting Truth-of-GOD received (2 Thessalonians 2:10-12, John 8:32)
-    - Living by Agape (1 John 4:16, John 15:12)
+    - Living by Agape (1 John 4:7-8,16, John 15:12)
     - Not being an Atheist (Psalm 14:1, Romans 1:20, Hebrews 11:6, Proverbs 1:7)
   - Accounts For:
     - Carrying the Soul to the City Gates upon physical death (Ecclesiastes 12:7, Psalm 146:4, 1 John 5:4, Ecclesiastes 3:21, Philippians 1:23)
     - Reopening clear communication with the LORD (Hebrews 4:16, 1 Timothy 2:5)
   - Considerations: 
-    - Exemptions:  Infants, Children, cognitively impaired, or others unable to commit personal sin, as their original spirits are not altered by personal sin (Matthew 18:3, 2 Samuel 12:23, Deuteronomy 1:39).
-    - Limitations: New Birth is an absolute requirement but does not ensure entry into the Kingdom of God. (Matthew 13:3-23, Matthew 25:1-13)
+    - Exemptions:  
+      - Infants, Children, cognitively impaired, or others unable to commit personal sin, as their original spirits are not altered by personal sin (Matthew 18:3, 2 Samuel 12:23, Deuteronomy 1:39).
+    - Limitations: 
+      - New Birth is an absolute requirement but does not ensure entry into the Kingdom of God. (Matthew 13:3-23, Matthew 25:1-13, Hebrews 3:14)
+      - New Birth is necessary function of new covenant but exists before it as a requirement for kingdom entry across redemptive history. (Deuteronomy 10:16, 30:6; Psalm 51:10, Ezek 11:19–20)
+    - Inferences: 
+      - All labled or refered to as righteous, upright, qodeshim, or the congregation from the old testament were born-again, lest these not see the kingdom of God (Hebrews 11, Psalm 1:5; Habakkuk 2:4)
+    - Alert:
+      - There will be many who experienced the new birth but are cast into perdition for loving darkness despite the measure of light they've known. (John 3:19, Romans 2:13-15, Matthew 7:21–23, John 15:2, 6; 2 Peter 2:20–22)
 - Judicial Pardon
   - A.K.A./Assoc. With:
     - Justification, Imputed Righteousness (Romans 5:1, Titus 3:7, Romans 4:22-24, 2 Corinthians 5:21)
@@ -28,38 +35,53 @@ This document aims to provide an in-depth understanding of the elements of salva
     - Sins Forgiven, Absolution (Ephesians 1:7, Colossians 2:13-14, John 20:23, James 5:15
     - Reconciliation (2 Corinthians 5:18-19, Romans 5:10)
   - Requirement
+    - Personal Sin
     - Valid Blood Atonement (Hebrews 9:22, Romans 3:25)
     - Forgiving Others (Matthew 6:14-15, Ephesians 4:32)
     - Repentance (Acts 3:19, Luke 13:3)
+    - Faith
   - Accounts for:
     - Criminal Status with the Court of Heaven (Romans 8:1, Psalm 32:1-2)
     - Removing Offense-related blockage to relationship with GOD (Isaiah 59:2, Psalm 103:12)
     - Erasing the record of sin (Isaiah 43:25, Acts 3:19)
   - Considerations
-    - Exemptions: Infants, cognitively impaired, or others unable to commit personal sin are exempt due to their personal innocence in the context of justice (Matthew 19:14, Luke 18:16, James 4:17).
-    - Limitations:  While the blood of Jesus covers all sin, Judicial Pardon does not address other spiritual conditions rendering one unabel to enter the Strait Gate (Matthew 13:3-23, Matthew 18:21-35, Matthew 25:14-30).
+    - Exemptions: 
+      - Infants, cognitively impaired, or others unable to commit personal sin are exempt due to their personal innocence in the context of justice (Matthew 19:14, Luke 18:16, James 4:17, Romans 4:15).
+    - Limitations:  
+      - While the blood of Jesus covers all sin, Judicial Pardon does not address other spiritual conditions rendering one unable to enter the Strait Gate (Matthew 13:3-23, Matthew 18:21-35, Matthew 25:14-30, Heb 12:14).
+    - Inferences:
+      - [1] The Lamb was slain from the foundation of the world; [2] He is the only God formed; [3] He has mercy on whom He wills; Therefore the force behind all sacrifices, faith and repentance has always been the bloid of the lamb. ()
+      - [1] The Lamb was slain from the foundation of the world. (Revelation 13:8, Habakkuk 3:4); [2] He is the only God formed. (Isaiah 43:10–11); [3] He has mercy on whom He wills. (Romans 9:15); Therefore, the force behind all sacrifices, faith, and repentance has always been the blood of the Lamb. (Hebrews 9:12–15; Romans 3:25)
+    - Alert:
+      - Unforgiveness in all forms threatens to render the soul incompatible with Judicial Pardon of personal sins. (Matthew 6:14–15; Matthew 18:21–35; Hebrews 12:15; 1 Peter 4:8)
 - Decontaminating the Soul
   - A.K.A.:
     - Renewing of the Mind (Romans 12:2, Ephesians 4:23)
     - Heart-of-Flesh replacing Heart-of-Stone (Ezekiel 36:26, Hebrews 8:10)
     - Cleansing/Healing the Conscience (Hebrews 10:22, 1 Timothy 1:5)
   - Requirement:
-    - Blood of Jesus (1 John 1:7, Revelation 1:5)
-    - Remaining Unspotted from the World (James 1:27, 1 John 2:15)
-    - Advocacy (Philippians 4:6, James 5:16, Hebrews 7:25)
+    - Blood of Jesus (1 John 1:7; Revelation 1:5; Hebrews 9:14; Hebrews 10:22; 1 Peter 1:18–19; Isaiah 1:18)
+    - Remaining Unspotted from the World (James 1:27; 1 John 2:15–17; Romans 12:2; 2 Peter 1:4; 2 Corinthians 6:17; 2 Timothy 2:21; Titus 2:11–12)
+    - Advocacy (Hebrews 7:25; Philippians 4:6; James 5:16; Galatians 6:2; Isaiah 53:4; Matthew 25:40; Proverbs 31:8–9; 1 Thessalonians 5:14; Romans 12:15)
+    - Watering (Ephesians 5:26, John 7:37–39, Philippians 4:6, Hebrews 10:24–25, 1 Corinthians 10:16, Psalm 1:2–3).
   - Accounts For:
     - Cleanliness required to withstand the presence of the LORD (Psalm 24:3-4, 2 Corinthians 6:17)
     - Holiness required to See the LORD (Hebrews 12:14, 1 Peter 1:15-16)
     - Ability to Enter in at the Strait Gate (Matthew 7:13-14, Luke 13:24)
   - Considerations:
-    - Exemptions:  None due to the inherent uncleaness of all souls
-    - Risk Factors:  Soulical Cleanliness is sensitive to holy Fear of the Lord (Proverbs 8:13, Proverbs 16:6) and not grieving or quenching the Holy Spirit (Ephesians 4:30, 1 Thessalonians 5:19)
+    - Exemptions:  
+      - None due to the inherent uncleaness of all souls by way of the first Adam (Romans 5:12; Psalm 51:5)
+    - Limitation:  
+      - Initial and repeat decontamination are given freely by grace but loving darkness is resisting the gift (John 3:19–20)
+      - Decontamination is impermanent like the oil of a burning lamp (Matthew 25:1–13)
+    - Alert:  
+      - Soulical Cleanliness is sensitive to holy Fear of the Lord (Proverbs 8:13, Proverbs 16:6) and not grieving or quenching the Holy Spirit (Ephesians 4:30, 1 Thessalonians 5:19)
 - Fear of the Lord
   - A.K.A.: / Assoc. With:
     - Walking in the Spirit & Not the Flesh (Galatians 5:16-17, Romans 8:4)
     - Putting on Christ (Romans 13:14, Galatians 3:27)
     - Putting on the Armor of GOD (Ephesians 6:10-18, 1 Thessalonians 5:8)
-    - Love or Hate what God Loves or hates (Psalm 97:10, Proverbs 8:13, Proverbs 16:6, )
+    - Love or Hate what God Loves or hates (Psalm 97:10, Proverbs 8:13, Proverbs 16:6)
   - Requirement:
     - Not loving the things of the World (1 John 2:15-17, James 4:4)
     - Prioritizing GOD over cares of the world (Matthew 6:33, Luke 10:38-42)
@@ -88,3 +110,4 @@ This document aims to provide an in-depth understanding of the elements of salva
     - Perpetual access to omnipresent fellowship with the LORD (John 14:16-17, 1 Corinthians 6:19)
   - Considerations
     - Grieving, Quenching, Resisting, Neglecting the Spirit:  Suppressing, Opposing or Ignoring guidance or prompts, engaging actions or attitudes incompatible with Spirit, and loving the things of this world (Acts 7:51, 1 Timothy 4:14, Matthew 12:31-32, 1 Thessalonians 5:19, Ephesians 4:30)
+ 
