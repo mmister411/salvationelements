@@ -116,9 +116,8 @@ This document aims to provide an in-depth understanding of the elements of salva
 
 - **A.K.A. / Associated With / What is Meant By:**
   - God's Eternal Plan of Redemption (Gen 3:15; 2 Tim 1:9–10; Rev 13:8; Eph 3:11).
-  - Election in Christ the Elect One (Isa 42:1; Eph 1:4; 2 Tim 1:9; 1 Pet 1:20).
-  - Predestination to Conformity with Christ (Rom 8:29–30; Eph 1:5,11; Phil 3:20–21).
-  - Cosmic Headship and Reconciliation through Christ (Col 1:15–20; Eph 1:10).
+  - Election in Christ the Elect One (Isa 42:1; Eph 1:4; 2 Tim 1:9; 1 Pet 1:20, Col 1:15–20; Eph 1:10).
+  - Our Redemption, adoption and inheritance ().
 
 - **Source or Cause of Effects:**
   - Christ foreknown and elect before creation (Isa 42:1; 1 Pet 1:20).
