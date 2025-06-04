@@ -1,13 +1,15 @@
 The Seven Elements of Salvation
 =======================================================
 
-Introduction:
+### Introduction:
+
 This document aims to provide an in-depth understanding of the elements of salvation according to scripture, breaking them down into functional terms that are easy to grasp. Salvation is not a one-time event but a journey, nor a monolithic force but a process that involves various aspects of spiritual transformation and growth. This guide is structured around seven key layers, each representing a significant aspect of the salvation dynamic. Each section will delve into the theological terms associated with these layers, the scriptural basis for each, and the practical implications for a believer's life. Whether you are new to the Christian faith or seeking a deeper understanding of your spiritual journey, this guide aims to be a valuable resource for you.
 
-Hermeneutical Disclaimer:
-This analysis proceeds on the methodological assumption that theology must arise traceably from exegesis of the text.  All readings and conclusions must respect immediate literary and historical context, while additionally being apt to consider wider material from the given book and canon as applicable. Systematic theology, interpretive tradition, naming conventions, science, archaeology, and philosophy possess intrinsic value as disciplines.  Use of these disciplines must not override textual content that is explicitly stated or cogently inferable or import semiotic artifacts untenably foreign to its original infoscape. Interpretive lenses are necessarily embedded in any interpretive operation of scripture but must not weigh in at the expense of the text’s self defined logos, ethos or pathos.
+#### Hermeneutical Disclaimer:
 
-### The Elements of Salvation in Functional Terms
+This analysis proceeds on the methodological assumption that theology must arise traceably from exegesis of the text.  All readings and conclusions must respect immediate literary and historical context, while additionally being apt to consider wider material from the given book and canon as applicable. Systematic theology, interpretive tradition, naming conventions, science, archaeology, and philosophy possess intrinsic value as disciplines.  Use of these disciplines must not override textual content that is explicitly stated or cogently inferable or import semiotic artifacts untenably foreign to its original information environment. Interpretive lenses are necessarily embedded in any interpretive operation of scripture but must not weigh in at the expense of the text’s self defined logos, ethos or pathos.
+
+## The Elements of Salvation in Functional Terms
 
 - Replacement Human-Spirit
   - **A.K.A. / Associated With / What is Meant By:**
