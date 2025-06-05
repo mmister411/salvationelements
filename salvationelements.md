@@ -135,7 +135,7 @@ This analysis proceeds on the methodological assumption that theology must arise
     - Perpetual access to omnipresent fellowship with the LORD (John 14:16-17, 1 Corinthians 6:19)
   - Considerations
     - Grieving, Quenching, Resisting, Neglecting the Spirit:  Suppressing, Opposing or Ignoring guidance or prompts, engaging actions or attitudes incompatible with Spirit, and loving the things of this world (Acts 7:51, 1 Timothy 4:14, Matthew 12:31-32, 1 Thessalonians 5:19, Ephesians 4:30)
-- Foreknown Predestination of Christ The Elect (Amplified Level 2)
+- Foreknown Predestination of Christ The Elect
   - **A.K.A. / Associated With / What is Meant By:**
     - God's Eternal Plan of Redemption (Gen 3:15; 2 Tim 1:9–10; Rev 13:8; Eph 3:11).
     - Election in Christ the Elect One (Isa 42:1; Eph 1:4; 2 Tim 1:9; 1 Pet 1:20, Col 1:15–20; Eph 1:10).
@@ -171,49 +171,48 @@ This analysis proceeds on the methodological assumption that theology must arise
     - Abandoning Christ forfeits participation in the predestined glorification (John 15:6; Heb 6:4–6; 2 Pet 2:20–22).
     - Eternal inheritance belongs only to those who overcome (Rev 2:7,11; 21:7–8).
     - Name in the Book of Life is contingent on perseverance (Rev 3:5; 20:15; Matt 10:22).
-- End-of-Initial-Life Judgment
-  - **A.K.A. / Associated With / What is Meant By:**
-    - Great White Throne (Rev 20:11–15)
-    - Resurrection of Life / Judgment (John 5:28–29; Dan 12:2)
-    - Book of Life (Phil 4:3; Rev 3:5; 20:12,15; 21:27)
-  - **Requirement:**
-    - Union with Christ at death (Rom 8:1; Phil 1:21–23).
-    - Enduring faith and holiness (Matt 24:13; Heb 12:14).
-    - Name found in the Book of Life (Phil 4:3; Rev 21:27).
-  - **Accounts For:**
-    - Resurrection to incorruptibility (1 Cor 15:42–44; Phil 3:21).
-    - Judgment separating righteous and wicked (Matt 25:31–46; Rev 20:12–15).
-    - Final allocation to life or the second death (Rev 20:14–15; 21:8).
-  - **Results:**
-    - **Glorification**: transformation and immortality (Rom 8:30; 1 Cor 15:49–54).
-    - **Lake of Fire**: eternal separation for the condemned (Rev 20:14–15).
-    - **Considerations:**
-    - New Heavens and New Earth for the redeemed (Rev 21:1–7; 2 Pet 3:13).
-    - Eternal separation irreversible post-judgment (Rev 22:11; Matt 25:46).
-    - **Alert:**
-    - Absence from the Book of Life leads to second death (Rev 20:15; Matt 7:21–23).
-    - Only overcomers inherit eternal life (Rev 2:7,11; 21:7–8).
-  
-
-## Intermediate State (Bonus Precision)
----
-- **A.K.A.:**
-  - Paradise (Luke 23:43; 2 Cor 12:4)
-  - Hades / Sheol (Luke 16:23; Ps 9:17)
-  - Great Gulf Fixed (Luke 16:26)
-  - Abraham’s Bosom (Luke 16:22)
-- **Requirement:**
-  - Righteous: rest in Paradise / Abraham’s Bosom (Luke 16:22; 23:43).
-  - Wicked: torment in Hades (Luke 16:23–24).
-  - Transition state prior to resurrection (John 5:28–29).
-- **Accounts For:**
-  - Conscious existence post-mortem (Luke 16:22–26; Rev 6:9–11).
-  - Fixed separation between righteous and wicked (Luke 16:26).
-  - Awaiting bodily resurrection (Dan 12:2; John 5:28–29).
-- **Considerations:**
-  - Intermediate state precedes final judgment (Heb 9:27; Rev 20:13).
-  - No crossing over the Great Gulf after death (Luke 16:26).
-- **Alert:**
-  - Intermediate destiny is a foretaste of final outcome (Luke 16:25).
-  - Final judgment seals eternal state (Rev 20:12–15).
+- End-of-Initial-Life
+  - Path-1: Failing Apart from the Revelation of the Gospel ()
+    - Triggers:
+      - Needing but lacking replacement human Spirit ()
+    - Destination
+      - Intermediate
+        - Hades / Sheol / Torment / Pit ()
+      - Permanent
+        - Lake of Fire ()
+  - Path-2: Failing Despite Accepting Gospel ()
+    - Triggers:
+      - Rejecting Jesus ()
+      - Recontaminating the Soul
+    - Destination
+      - Intermediate
+        - Hades / Sheol / Torment / Pit / Outer Darkness ()
+      - Permanent
+        - Lake of Fire ()
+        - Outer Darkness ()
+  - Path-3: Well Done Good and Faithful Servant ()
+    - Triggers:
+      - Falling Asleep in Christ ()
+    - Destination
+      - Intermediate
+        - City with Foundations ()
+      - Permanent
+        - Lake of Fire ()
+        - Outter Darkness ()
+  - Path-4: Succeeding Apart from Revelation of the Gospel
+    - Triggers:
+      - Embraced the Eternal GOD and Agape for Humans ()
+    - Destination
+      - Intermediate
+        - Heaven ()
+      - Permanent
+        - New Heavens & New Earth ()
+  - Path-5: Infants and the Cognitively Impaired
+    - Triggers:
+      - Unable to process law or sin ()
+    - Destination
+      - Intermediate
+        - Heaven ()
+      - Permanent
+        - New Heavens & New Earth ()
 
