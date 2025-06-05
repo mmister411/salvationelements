@@ -23,8 +23,8 @@ This analysis proceeds on the methodological assumption that theology must arise
       - Living by Agape (1 John 4:7-8,16, John 15:12)
     - Negation
     -   Not being an Atheist (Psalm 14:1, Romans 1:20, Hebrews 11:6, Proverbs 1:7)
-    -   Not being directly opposed to the God of Abraham, Isaac, & Jacob ()
-    -   Not being directly opposed to the Jesus of Nazareth ()
+    -   Not being directly opposed to the God of Abraham, Isaac, & Jacob (Exodus 3:6, 15; Matthew 22:32; Acts 3:13; Romans 4:16)
+    -   Not being directly opposed to the Jesus of Nazareth (Matthew 10:33; Luke 12:8-9; 1 John 2:23; 2 Timothy 2:12)
   - Accounts For:
     - Carrying the Soul of the to the Gates of the City with Foundations upon physical death (Ecclesiastes 12:7, Psalm 146:4, 1 John 5:4, Ecclesiastes 3:21, Philippians 1:23)
     - Reopening clear communication and ability to commune with the LORD (Hebrews 4:16, 1 Timothy 2:5)
@@ -45,7 +45,7 @@ This analysis proceeds on the methodological assumption that theology must arise
     - Sins Forgiven, Absolution (Ephesians 1:7, Colossians 2:13-14, John 20:23, James 5:15
     - Reconciliation (2 Corinthians 5:18-19, Romans 5:10)
   - Requirement
-    - Personal Sin
+    - Having perosnally sinned ()
     - Valid Blood Atonement (Hebrews 9:22, Romans 3:25)
     - Forgiving Others (Matthew 6:14-15, Ephesians 4:32)
     - Repentance (Acts 3:19, Luke 13:3)
@@ -60,7 +60,7 @@ This analysis proceeds on the methodological assumption that theology must arise
     - Limitations:  
       - While the blood of Jesus covers all sin, Judicial Pardon does not address other spiritual conditions rendering one unable to enter the Strait Gate (Matthew 13:3-23, Matthew 18:21-35, Matthew 25:14-30, Heb 12:14).
     - Inferences:
-      - [1] The Lamb was slain from the foundation of the world; [2] He is the only God formed; [3] He has mercy on whom He wills; Therefore the force behind all sacrifices, faith and repentance has always been the bloid of the lamb. ()
+      - [1] The Lamb was slain from the foundation of the world; [2] He is the only God formed; [3] He has mercy on whom He wills; Therefore the force behind all sacrifices, faith and repentance has always been the blood of the lamb. (Revelation 13:8; Hebrews 9:12-15; Romans 3:25; 1 Peter 1:19-20)
       - [1] The Lamb was slain from the foundation of the world. (Revelation 13:8, Habakkuk 3:4); [2] He is the only God formed. (Isaiah 43:10–11); [3] He has mercy on whom He wills. (Romans 9:15); Therefore, the force behind all sacrifices, faith, and repentance has always been the blood of the Lamb. (Hebrews 9:12–15; Romans 3:25)
     - Alert:
       - Unforgiveness in all forms threatens to render the soul incompatible with Judicial Pardon of personal sins. (Matthew 6:14–15; Matthew 18:21–35; Hebrews 12:15; 1 Peter 4:8)
@@ -68,7 +68,7 @@ This analysis proceeds on the methodological assumption that theology must arise
   - **A.K.A. / Associated With / What is Meant By:**
     - Renewing of the Mind (Romans 12:2, Ephesians 4:23)
     - Heart-of-Flesh replacing Heart-of-Stone (Ezekiel 36:26, Hebrews 8:10)
-    - Circumcision of the Heart ()
+    - Circumcision of the Heart (Deuteronomy 10:16; 30:6; Romans 2:29; Colossians 2:11)
     - Cleansing/Healing the Conscience (Hebrews 10:22, 1 Timothy 1:5)
   - Requirement:
     - Affirmation
@@ -89,7 +89,7 @@ This analysis proceeds on the methodological assumption that theology must arise
       - Decontamination is impermanent like the oil of a burning lamp and needs to be tended (Matthew 25:1–13)
     - Alert:  
       - Soulical Cleanliness is sensitive to holy Fear of the Lord (Proverbs 8:13, Proverbs 16:6) and not grieving or quenching the Holy Spirit (Ephesians 4:30, 1 Thessalonians 5:19)
-      - Soulical contamination is relative to each person with some dangers being universal such as but not limited to unforgiveness, drinking blood or mixing Jesus with other spirituality, especially occultism or mystery religion ().
+      - Soulical contamination is relative to each person with some dangers being universal such as but not limited to unforgiveness, drinking blood or mixing Jesus with other spirituality, especially occultism or mystery religion (Acts 15:20, 29; 21:25; 1 Corinthians 10:20-21; 2 Corinthians 6:14-17; Deuteronomy 18:9-12).
 - Fear of the Lord
   - **A.K.A. / Associated With / What is Meant By:**
     - Walking in the Spirit & Not the Flesh (Galatians 5:16-17, Romans 8:4)
@@ -100,16 +100,16 @@ This analysis proceeds on the methodological assumption that theology must arise
     - Afirmation
       - Prioritizing GOD over cares of the world (Matthew 6:33, Luke 10:38-42)
       - Obedience to what you know to be true and good (1 Peter 1:22, James 4:7)
-      - Approving what God Loves ()
+      - Approving what God Loves (Psalm 11:7; Proverbs 15:9; Micah 6:8; 1 John 4:19)
     - Negation
       - Not loving the things of the World (1 John 2:15-17, James 4:4)
       - Being not conformed to this present evil age (Romans 12:2, Galatians 1:4)
-      - Disproving what God Hates ()
+      - Disproving what God Hates (Proverbs 6:16-19; Psalm 5:4-6; Romans 1:18; Revelation 2:6)
   - Accounts For:
     - Fulfillment of Promises attached to seeking the LORD in obedience (Hebrews 11:6, Psalm 9:10, Deuteronomy 28:1-2, John 15:10)
     - Breathing life into claims of loving the LORD (John 14:23, 1 John 5:3)
     - Not shut out when the door is closed or cast out before the throne (Matthew 25:10-12, Matthew 25:31-46, Luke 13:24-27, Revelation 20:12-15)
-    - Being Good Soil ()
+    - Being Good Soil (Matthew 13:8, 23; Luke 8:15; Mark 4:20)
   - Considerations:
     - Parables: Failures of would-be believers outlined in Jesus' parables identify various elements of failing at Holy Fear of the Lord (Matthew 13:3-23, Matthew 25:1-13, Luke 12:16-21)
     - Love v. Fear v. Faith: Ultimately, Loving God, Faith in God, and Fear of The Lord are at least heavily overlapping, if not identical (1 John 4:18, Hebrews 11:6, Proverbs 8:13).
@@ -133,7 +133,7 @@ This analysis proceeds on the methodological assumption that theology must arise
   - **A.K.A. / Associated With / What is Meant By:**
     - God's Eternal Plan of Redemption (Gen 3:15; 2 Tim 1:9–10; Rev 13:8; Eph 3:11).
     - Election in Christ the Elect One (Isa 42:1; Eph 1:4; 2 Tim 1:9; 1 Pet 1:20, Col 1:15–20; Eph 1:10).
-    - Our Redemption, adoption and inheritance ().
+    - Our Redemption, adoption and inheritance (Ephesians 1:3-14; Romans 8:15-17, 23; Galatians 4:4-7; 1 Peter 1:3-5).
   
   - **Source or Cause of Effects:**
     - Christ foreknown and elect before creation (Isa 42:1; 1 Pet 1:20).
