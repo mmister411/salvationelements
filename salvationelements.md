@@ -17,7 +17,9 @@ This analysis proceeds on the methodological assumption that theology must arise
     - Regeneration (Ezekiel 11:19, Titus 3:5)
     - New-Birth (Psalm 102:18, Ezekiel 36:25-26, Jeremiah 31:31-34, Isaiah 44:3, Isaiah 55:3, 2 Corinthians 5:17)
     - Quickening (Titus 3:5, Ephesians 2:4-5, Psalm 119:50)
-  - Requirement:
+  - **Source or Cause of Event**
+    - Holy Sprit breaths new breath into Person ()
+  - **Requirement for or Confirmation of Event Taking Place:**
     - Affirmation:
       - Accepting Truth-of-GOD received (2 Thessalonians 2:10-12, John 8:32)
       - Living by Agape (1 John 4:7-8,16, John 15:12)
@@ -44,7 +46,7 @@ This analysis proceeds on the methodological assumption that theology must arise
     - Redemption, Propitiation (Romans 3:25, 1 John 2:2, Ephesians 1:7, 1 Peter 1:18-19)
     - Sins Forgiven, Absolution (Ephesians 1:7, Colossians 2:13-14, John 20:23, James 5:15
     - Reconciliation (2 Corinthians 5:18-19, Romans 5:10)
-  - Requirement
+  - **Requirement for or Confirmation of Event Taking Place:**
     - Having perosnally sinned ()
     - Valid Blood Atonement (Hebrews 9:22, Romans 3:25)
     - Forgiving Others (Matthew 6:14-15, Ephesians 4:32)
@@ -70,7 +72,11 @@ This analysis proceeds on the methodological assumption that theology must arise
     - Heart-of-Flesh replacing Heart-of-Stone (Ezekiel 36:26, Hebrews 8:10)
     - Circumcision of the Heart (Deuteronomy 10:16; 30:6; Romans 2:29; Colossians 2:11)
     - Cleansing/Healing the Conscience (Hebrews 10:22, 1 Timothy 1:5)
-  - Requirement:
+  - Source or Cause of Event
+    - Blood Of Jesus ()
+    - Word of GOD ()
+    - Indwelling Holy Spirit ()
+  - **Requirement for or Confirmation of Event Taking Place:**
     - Affirmation
       - Blood of Jesus (1 John 1:7; Revelation 1:5; Hebrews 9:14; Hebrews 10:22; 1 Peter 1:18–19; Isaiah 1:18)
       - Advocacy (Hebrews 7:25; Philippians 4:6; James 5:16; Galatians 6:2; Isaiah 53:4; Matthew 25:40; Proverbs 31:8–9; 1 Thessalonians 5:14; Romans 12:15)
@@ -96,7 +102,7 @@ This analysis proceeds on the methodological assumption that theology must arise
     - Putting on Christ (Romans 13:14, Galatians 3:27)
     - Putting on the Armor of GOD (Ephesians 6:10-18, 1 Thessalonians 5:8)
     - Love or Hate what God Loves or hates (Psalm 97:10, Proverbs 8:13, Proverbs 16:6)
-  - Requirement:
+  - **Requirement for or Confirmation of Event Taking Place:**
     - Afirmation
       - Prioritizing GOD over cares of the world (Matthew 6:33, Luke 10:38-42)
       - Obedience to what you know to be true and good (1 Peter 1:22, James 4:7)
@@ -119,7 +125,7 @@ This analysis proceeds on the methodological assumption that theology must arise
     - The Promise (Acts 1:4-5, Luke 24:49)
     - "The Kingdom is among you" (Luke 17:21, Matthew 12:28)
     - "Whoever does not have Christ's Spirit is none of His." (Romans 8:9, 1 Corinthians 3:16)
-  - Requirements:
+  - **Requirement for or Confirmation of Event Taking Place:**
     - Direct command and provision of the Father (John 14:26, John 15:26)
     - Full acknowledgement of the Eternal Personage of Jesus Christ (1 John 4:2-3, John 8:24)
     - Entry into the New Covenant sealed by the blood of Christ (Hebrews 9:15, Luke 22:20)
@@ -134,94 +140,79 @@ This analysis proceeds on the methodological assumption that theology must arise
     - God's Eternal Plan of Redemption (Gen 3:15; 2 Tim 1:9–10; Rev 13:8; Eph 3:11).
     - Election in Christ the Elect One (Isa 42:1; Eph 1:4; 2 Tim 1:9; 1 Pet 1:20, Col 1:15–20; Eph 1:10).
     - Our Redemption, adoption and inheritance (Ephesians 1:3-14; Romans 8:15-17, 23; Galatians 4:4-7; 1 Peter 1:3-5).
-  
   - **Source or Cause of Effects:**
     - Christ foreknown and elect before creation (Isa 42:1; 1 Pet 1:20).
     - Christ slain from the foundation of the world (Rev 13:8; Acts 2:23).
     - God's eternal purpose in Christ (Eph 3:11; 2 Tim 1:9).
     - All things reconciled under Christ’s headship (Col 1:20; Eph 1:10).
-  
-  - **Requirement to Receive Effects:**
-    - Spiritual Rebirth — Replacement Human Spirit (John 3:5–6; 2 Cor 5:17; Titus 3:5).
-    - Judicial Pardon by the Blood of Christ (Rom 5:1; 2 Cor 5:19; Heb 9:22).
-    - Living, Enduring Faith (Heb 10:36; Luke 8:15; John 15:5).
-    - Absence of Apostasy — Not denying Christ (Matt 10:33; 2 Tim 2:12; 1 John 2:23).
-    - Empowerment and Sealing by the Holy Spirit (Rom 8:9–14; Eph 1:13–14).
-  
+  - **Requirement for or Confirmation of Event Taking Place:**
+    - Affirmations
+      - Spiritual Rebirth — Replacement Human Spirit (John 3:5–6; 2 Cor 5:17; Titus 3:5).
+      - Judicial Pardon by the Blood of Christ (Rom 5:1; 2 Cor 5:19; Heb 9:22).
+      - Living, Enduring Faith (Heb 10:36; Luke 8:15; John 15:5).
+      - Empowerment and Sealing by the Holy Spirit (Rom 8:9–14; Eph 1:13–14).
+    - Negations
+      - Absence of Apostasy — Not denying Christ (Matt 10:33; 2 Tim 2:12; 1 John 2:23).
   - **Accounts For:**
     - Adoption as Sons and Daughters (Eph 1:5; Rom 8:15–17; Gal 4:4–7).
     - Conformity to the Image of Christ (Rom 8:29; 2 Cor 3:18; 1 John 3:2).
     - Glorification and Immortality (Rom 8:30; 1 Cor 15:49–54; Phil 3:21).
     - Corporate Body Identity — Church as His Body (Eph 1:22–23; 1 Cor 12:12–27).
     - Cosmic Reconciliation — Creation set free in Him (Rom 8:19–22; Col 1:20).
-  
   - **Considerations:**
     - Assignment to the Elect Body is corporate, not individually predetermined (Eph 1:4; 2 Pet 1:10).
     - Union with Christ is sustained by abiding faith, energized by the Spirit (John 15:4–6; Gal 5:25; Rom 8:14).
     - Romans 9 addresses vocational and covenantal election, not pretemporal individual salvation (Rom 9:6–8, 11–13; Gen 25:23).
-  
-  - **Vocational Implications:**
+    - **Vocational Implications:**
     - The Elect are a royal priesthood, called to proclaim His excellencies (1 Pet 2:9).
     - Believers are ambassadors of reconciliation (2 Cor 5:20).
     - Election is unto holiness and mission (Eph 1:4; Matt 5:14–16).
-  
-  - **Alert:**
+    - **Alert:**
     - Abandoning Christ forfeits participation in the predestined glorification (John 15:6; Heb 6:4–6; 2 Pet 2:20–22).
     - Eternal inheritance belongs only to those who overcome (Rev 2:7,11; 21:7–8).
     - Name in the Book of Life is contingent on perseverance (Rev 3:5; 20:15; Matt 10:22).
-
 - End-of-Initial-Life Judgment
-  - **A.K.A.:**
+  - **A.K.A. / Associated With / What is Meant By:**
     - Great White Throne (Rev 20:11–15)
     - Resurrection of Life / Judgment (John 5:28–29; Dan 12:2)
     - Book of Life (Phil 4:3; Rev 3:5; 20:12,15; 21:27)
-  
   - **Requirement:**
     - Union with Christ at death (Rom 8:1; Phil 1:21–23).
     - Enduring faith and holiness (Matt 24:13; Heb 12:14).
     - Name found in the Book of Life (Phil 4:3; Rev 21:27).
-  
   - **Accounts For:**
     - Resurrection to incorruptibility (1 Cor 15:42–44; Phil 3:21).
     - Judgment separating righteous and wicked (Matt 25:31–46; Rev 20:12–15).
     - Final allocation to life or the second death (Rev 20:14–15; 21:8).
-  
   - **Results:**
     - **Glorification**: transformation and immortality (Rom 8:30; 1 Cor 15:49–54).
     - **Lake of Fire**: eternal separation for the condemned (Rev 20:14–15).
-  
-  - **Considerations:**
+    - **Considerations:**
     - New Heavens and New Earth for the redeemed (Rev 21:1–7; 2 Pet 3:13).
     - Eternal separation irreversible post-judgment (Rev 22:11; Matt 25:46).
-  
-  - **Alert:**
+    - **Alert:**
     - Absence from the Book of Life leads to second death (Rev 20:15; Matt 7:21–23).
     - Only overcomers inherit eternal life (Rev 2:7,11; 21:7–8).
   
 
 ## Intermediate State (Bonus Precision)
 ---
-
 - **A.K.A.:**
   - Paradise (Luke 23:43; 2 Cor 12:4)
   - Hades / Sheol (Luke 16:23; Ps 9:17)
   - Great Gulf Fixed (Luke 16:26)
   - Abraham’s Bosom (Luke 16:22)
-
 - **Requirement:**
   - Righteous: rest in Paradise / Abraham’s Bosom (Luke 16:22; 23:43).
   - Wicked: torment in Hades (Luke 16:23–24).
   - Transition state prior to resurrection (John 5:28–29).
-
 - **Accounts For:**
   - Conscious existence post-mortem (Luke 16:22–26; Rev 6:9–11).
   - Fixed separation between righteous and wicked (Luke 16:26).
   - Awaiting bodily resurrection (Dan 12:2; John 5:28–29).
-
 - **Considerations:**
   - Intermediate state precedes final judgment (Heb 9:27; Rev 20:13).
   - No crossing over the Great Gulf after death (Luke 16:26).
-
 - **Alert:**
   - Intermediate destiny is a foretaste of final outcome (Luke 16:25).
   - Final judgment seals eternal state (Rev 20:12–15).
