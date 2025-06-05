@@ -18,12 +18,16 @@ This analysis proceeds on the methodological assumption that theology must arise
     - New-Birth (Psalm 102:18, Ezekiel 36:25-26, Jeremiah 31:31-34, Isaiah 44:3, Isaiah 55:3, 2 Corinthians 5:17)
     - Quickening (Titus 3:5, Ephesians 2:4-5, Psalm 119:50)
   - Requirement:
-    - Accepting Truth-of-GOD received (2 Thessalonians 2:10-12, John 8:32)
-    - Living by Agape (1 John 4:7-8,16, John 15:12)
-    - Not being an Atheist (Psalm 14:1, Romans 1:20, Hebrews 11:6, Proverbs 1:7)
+    - Affirmation:
+      - Accepting Truth-of-GOD received (2 Thessalonians 2:10-12, John 8:32)
+      - Living by Agape (1 John 4:7-8,16, John 15:12)
+    - Negation
+    -   Not being an Atheist (Psalm 14:1, Romans 1:20, Hebrews 11:6, Proverbs 1:7)
+    -   Not being directly opposed to the God of Abraham, Isaac, & Jacob ()
+    -   Not being directly opposed to the Jesus of Nazareth ()
   - Accounts For:
-    - Carrying the Soul to the City Gates upon physical death (Ecclesiastes 12:7, Psalm 146:4, 1 John 5:4, Ecclesiastes 3:21, Philippians 1:23)
-    - Reopening clear communication with the LORD (Hebrews 4:16, 1 Timothy 2:5)
+    - Carrying the Soul of the to the Gates of the City with Foundations upon physical death (Ecclesiastes 12:7, Psalm 146:4, 1 John 5:4, Ecclesiastes 3:21, Philippians 1:23)
+    - Reopening clear communication and ability to commune with the LORD (Hebrews 4:16, 1 Timothy 2:5)
   - Considerations: 
     - Exemptions:  
       - Infants, Children, cognitively impaired, or others unable to commit personal sin, as their original spirits are not altered by personal sin (Matthew 18:3, 2 Samuel 12:23, Deuteronomy 1:39).
@@ -64,24 +68,28 @@ This analysis proceeds on the methodological assumption that theology must arise
   - **A.K.A. / Associated With / What is Meant By:**
     - Renewing of the Mind (Romans 12:2, Ephesians 4:23)
     - Heart-of-Flesh replacing Heart-of-Stone (Ezekiel 36:26, Hebrews 8:10)
+    - Circumcision of the Heart ()
     - Cleansing/Healing the Conscience (Hebrews 10:22, 1 Timothy 1:5)
   - Requirement:
-    - Blood of Jesus (1 John 1:7; Revelation 1:5; Hebrews 9:14; Hebrews 10:22; 1 Peter 1:18–19; Isaiah 1:18)
-    - Remaining Unspotted from the World (James 1:27; 1 John 2:15–17; Romans 12:2; 2 Peter 1:4; 2 Corinthians 6:17; 2 Timothy 2:21; Titus 2:11–12)
-    - Advocacy (Hebrews 7:25; Philippians 4:6; James 5:16; Galatians 6:2; Isaiah 53:4; Matthew 25:40; Proverbs 31:8–9; 1 Thessalonians 5:14; Romans 12:15)
-    - Watering (Ephesians 5:26, John 7:37–39, Philippians 4:6, Hebrews 10:24–25, 1 Corinthians 10:16, Psalm 1:2–3).
+    - Affirmation
+      - Blood of Jesus (1 John 1:7; Revelation 1:5; Hebrews 9:14; Hebrews 10:22; 1 Peter 1:18–19; Isaiah 1:18)
+      - Advocacy (Hebrews 7:25; Philippians 4:6; James 5:16; Galatians 6:2; Isaiah 53:4; Matthew 25:40; Proverbs 31:8–9; 1 Thessalonians 5:14; Romans 12:15)
+      - Watering (Ephesians 5:26, John 7:37–39, Philippians 4:6, Hebrews 10:24–25, 1 Corinthians 10:16, Psalm 1:2–3).
+    - Negation
+      - Remaining Unspotted from the World (James 1:27; 1 John 2:15–17; Romans 12:2; 2 Peter 1:4; 2 Corinthians 6:17; 2 Timothy 2:21; Titus 2:11–12)
   - Accounts For:
     - Cleanliness required to withstand the presence of the LORD (Psalm 24:3-4, 2 Corinthians 6:17)
     - Holiness required to See the LORD (Hebrews 12:14, 1 Peter 1:15-16)
-    - Ability to Enter in at the Strait Gate (Matthew 7:13-14, Luke 13:24)
+    - Ability to Enter in at the Strait Gate of the City with Foundations (Matthew 7:13-14, Luke 13:24)
   - Considerations:
     - Exemptions:  
       - None due to the inherent uncleaness of all souls by way of the first Adam (Romans 5:12; Psalm 51:5)
     - Limitation:  
-      - Initial and repeat decontamination are given freely by grace but loving darkness is resisting the gift (John 3:19–20)
-      - Decontamination is impermanent like the oil of a burning lamp (Matthew 25:1–13)
+      - Initial and repeat decontamination are given freely by grace but loving darkness is resisting the gift, allowing for recontamination (John 3:19–20)
+      - Decontamination is impermanent like the oil of a burning lamp and needs to be tended (Matthew 25:1–13)
     - Alert:  
       - Soulical Cleanliness is sensitive to holy Fear of the Lord (Proverbs 8:13, Proverbs 16:6) and not grieving or quenching the Holy Spirit (Ephesians 4:30, 1 Thessalonians 5:19)
+      - Soulical contamination is relative to each person with some dangers being universal such as but not limited to unforgiveness, drinking blood or mixing Jesus with other spirituality, especially occultism or mystery religion ().
 - Fear of the Lord
   - **A.K.A. / Associated With / What is Meant By:**
     - Walking in the Spirit & Not the Flesh (Galatians 5:16-17, Romans 8:4)
@@ -89,14 +97,19 @@ This analysis proceeds on the methodological assumption that theology must arise
     - Putting on the Armor of GOD (Ephesians 6:10-18, 1 Thessalonians 5:8)
     - Love or Hate what God Loves or hates (Psalm 97:10, Proverbs 8:13, Proverbs 16:6)
   - Requirement:
-    - Not loving the things of the World (1 John 2:15-17, James 4:4)
-    - Prioritizing GOD over cares of the world (Matthew 6:33, Luke 10:38-42)
-    - Being not conformed to this present evil age (Romans 12:2, Galatians 1:4)
-    - Obedience to what you know to be true (1 Peter 1:22, James 4:7)
+    - Afirmation
+      - Prioritizing GOD over cares of the world (Matthew 6:33, Luke 10:38-42)
+      - Obedience to what you know to be true and good (1 Peter 1:22, James 4:7)
+      - Approving what God Loves ()
+    - Negation
+      - Not loving the things of the World (1 John 2:15-17, James 4:4)
+      - Being not conformed to this present evil age (Romans 12:2, Galatians 1:4)
+      - Disproving what God Hates ()
   - Accounts For:
     - Fulfillment of Promises attached to seeking the LORD in obedience (Hebrews 11:6, Psalm 9:10, Deuteronomy 28:1-2, John 15:10)
     - Breathing life into claims of loving the LORD (John 14:23, 1 John 5:3)
     - Not shut out when the door is closed or cast out before the throne (Matthew 25:10-12, Matthew 25:31-46, Luke 13:24-27, Revelation 20:12-15)
+    - Being Good Soil ()
   - Considerations:
     - Parables: Failures of would-be believers outlined in Jesus' parables identify various elements of failing at Holy Fear of the Lord (Matthew 13:3-23, Matthew 25:1-13, Luke 12:16-21)
     - Love v. Fear v. Faith: Ultimately, Loving God, Faith in God, and Fear of The Lord are at least heavily overlapping, if not identical (1 John 4:18, Hebrews 11:6, Proverbs 8:13).
