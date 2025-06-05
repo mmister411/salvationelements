@@ -18,7 +18,7 @@ This analysis proceeds on the methodological assumption that theology must arise
     - New-Birth (Psalm 102:18, Ezekiel 36:25-26, Jeremiah 31:31-34, Isaiah 44:3, Isaiah 55:3, 2 Corinthians 5:17)
     - Quickening (Titus 3:5, Ephesians 2:4-5, Psalm 119:50)
   - **Source or Cause of Event**
-    - Holy Sprit breaths new breath into Person ()
+    - Holy Sprit breaths new breath into Person (Genesis 2:7; Job 33:4; John 20:22; Acts 2:2-4; Romans 8:11)
   - **Requirement for or Confirmation of Event Taking Place:**
     - Affirmation:
       - Accepting Truth-of-GOD received (2 Thessalonians 2:10-12, John 8:32)
@@ -47,7 +47,7 @@ This analysis proceeds on the methodological assumption that theology must arise
     - Sins Forgiven, Absolution (Ephesians 1:7, Colossians 2:13-14, John 20:23, James 5:15
     - Reconciliation (2 Corinthians 5:18-19, Romans 5:10)
   - **Requirement for or Confirmation of Event Taking Place:**
-    - Having perosnally sinned ()
+    - Having perosnally sinned (Romans 3:23; Romans 5:12; 1 John 1:8-10; Ecclesiastes 7:20)
     - Valid Blood Atonement (Hebrews 9:22, Romans 3:25)
     - Forgiving Others (Matthew 6:14-15, Ephesians 4:32)
     - Repentance (Acts 3:19, Luke 13:3)
@@ -73,9 +73,9 @@ This analysis proceeds on the methodological assumption that theology must arise
     - Circumcision of the Heart (Deuteronomy 10:16; 30:6; Romans 2:29; Colossians 2:11)
     - Cleansing/Healing the Conscience (Hebrews 10:22, 1 Timothy 1:5)
   - Source or Cause of Event
-    - Blood Of Jesus ()
-    - Word of GOD ()
-    - Indwelling Holy Spirit ()
+    - Blood Of Jesus (1 John 1:7; Revelation 1:5; Hebrews 9:14; 1 Peter 1:18-19; Ephesians 1:7)
+    - Word of GOD (John 17:17; Ephesians 5:26; Psalm 119:9; John 15:3; 1 Peter 1:23)
+    - Indwelling Holy Spirit (1 Corinthians 6:19; Romans 8:9-11; Galatians 5:16; 2 Corinthians 3:18)
   - **Requirement for or Confirmation of Event Taking Place:**
     - Affirmation
       - Blood of Jesus (1 John 1:7; Revelation 1:5; Hebrews 9:14; Hebrews 10:22; 1 Peter 1:18–19; Isaiah 1:18)
@@ -172,36 +172,36 @@ This analysis proceeds on the methodological assumption that theology must arise
     - Eternal inheritance belongs only to those who overcome (Rev 2:7,11; 21:7–8).
     - Name in the Book of Life is contingent on perseverance (Rev 3:5; 20:15; Matt 10:22).
 - End-of-Initial-Life
-  - Path-1: Failing Apart from the Revelation of the Gospel ()
+  - Path-1: Failing Apart from the Revelation of the Gospel (Romans 1:18-20; Romans 2:12-16; John 3:18-19)
     - Triggers:
-      - Needing but lacking replacement human Spirit ()
+      - Needing but lacking replacement human Spirit (John 3:5-7; Romans 8:9; 1 Corinthians 2:14; Ephesians 2:1-3)
     - Destination
       - Intermediate
-        - Hades / Sheol / Torment / Pit ()
+        - Hades / Sheol / Torment / Pit (Luke 16:19-31; Psalm 9:17; Isaiah 5:14; 2 Peter 2:4)
       - Permanent
-        - Lake of Fire ()
-  - Path-2: Failing Despite Accepting Gospel ()
+        - Lake of Fire  (Revelation 20:14-15; Matthew 25:41; Mark 9:43-48)
+  - Path-2: Failing Despite Accepting Gospel (Hebrews 6:4-6; 2 Peter 2:20-22; Matthew 7:21-23)
     - Triggers:
-      - Rejecting Jesus ()
-      - Recontaminating the Soul
+      - Rejecting Jesus (Matthew 10:33; 2 Timothy 2:12; 1 John 2:23; Hebrews 10:26-29)
+      - Recontaminating the Soul  (2 Peter 2:20-22; Hebrews 6:4-8; John 15:2,6; Matthew 12:43-45)
     - Destination
       - Intermediate
-        - Hades / Sheol / Torment / Pit / Outer Darkness ()
+        - Hades / Sheol / Torment / Pit / Outer Darkness (Luke 16:23; Matthew 8:12; Matthew 22:13; Matthew 25:30)
       - Permanent
-        - Lake of Fire ()
-        - Outer Darkness ()
-  - Path-3: Well Done Good and Faithful Servant ()
+        - Lake of Fire  (Revelation 20:14-15; Matthew 25:41; Mark 9:43-48)
+        - Outer Darkness (Matthew 22:13; Matthew 25:30)
+  - Path-3: Well Done Good and Faithful Servant (Matthew 25:21,23; 1 Corinthians 4:5; 2 Timothy 4:7-8)
     - Triggers:
-      - Falling Asleep in Christ ()
+      - Falling Asleep in Christ (1 Corinthians 15:18; 1 Thessalonians 4:14; Acts 7:60; 2 Peter 3:4)
+      - Finishing the Race ()
     - Destination
       - Intermediate
-        - City with Foundations ()
+        - City with Foundations (Hebrews 11:10,16; Revelation 21:2; Philippians 3:20; 2 Corinthians 5:1)
       - Permanent
-        - Lake of Fire ()
-        - Outter Darkness ()
+        - City with Foundations above New Heavens and New Earth ()
   - Path-4: Succeeding Apart from Revelation of the Gospel
     - Triggers:
-      - Embraced the Eternal GOD and Agape for Humans ()
+      - Embraced the Eternal GOD and Agape for Humans (Romans 2:14-16; Acts 17:27-28; Romans 1:19-20; Hebrews 11:6)
     - Destination
       - Intermediate
         - Heaven ()
@@ -209,10 +209,10 @@ This analysis proceeds on the methodological assumption that theology must arise
         - New Heavens & New Earth ()
   - Path-5: Infants and the Cognitively Impaired
     - Triggers:
-      - Unable to process law or sin ()
+      - Unable to process law or sin (Romans 4:15; Romans 5:13; Deuteronomy 1:39; Isaiah 7:15-16)
     - Destination
       - Intermediate
         - Heaven ()
       - Permanent
-        - New Heavens & New Earth ()
+        - New Heaven and New Earth (Revelation 21:1-4; 2 Peter 3:13; Isaiah 65:17; Isaiah 66:22)
 
