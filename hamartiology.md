@@ -1,9 +1,18 @@
 ### Introduction
-Sin is almost a thing unto itself but ultimately is not.  Sin is rogue agency presenting as authentic reality while pseudo-symbiotically self usurping its host. Sin conscripts into a corrupted rebellion against God, self and other creatures that can neither succeed nor cease, even when nothing remains but the irretrievably abominable self in perpetuity. Sin cannot be remedied but breathing souls can be rescued, redeemed and reconstructed by blood, water and Holy Spirit.
+
+Sin exerts effects on the world that suggest it is almost a self-contained entity, but ultimately, it is not. Sin is rogue agency presenting as authentic reality while pseudo-symbiotically self-usurping its host. Sin conscripts into a corrupted rebellion against God, self, and other creatures. Sin's seductive sedition can neither succeed nor cease, even when nothing remains but the irretrievably abominable self in perpetuity. Sin cannot be remedied. But breathing souls can be rescued, redeemed, and reconstructed by blood, by water, and by the Holy Spirit. Like unclean spirits expelled to dry places, sin seeks to resist remission and reclaim the vessel it once controlled. By Holy Spirit’s power, the willing overcome; the unwilling are overrun. Sin is dangerous but defeatable, never to be feared, always to be resisted, and never to be underestimated.
+
+Beyond being a corrupting pseudo-force, sin is also the name for thoughts, communication, activities, and decisions contrary to what the self knows to be good, lawful, and faithful. All good things originate with the Lord, so even people who have not received scriptural revelation are unknowingly aligning themselves with the Lord when they choose what is good. 
+
+It is impossible to catalog every act that might constitute sin in all places and all times. Nevertheless, scripture provides hundreds of named transgressions, many of which extend beyond the localized contexts of Sinai, Jerusalem, or Galilee. Just as Jesus shows that hate is murder and that extramarital mental fantasizing is still committing adultery, we learn that the concepts of the letter and the spirit of the letter are profoundly significant both within and beyond the letter of the word.
+
+It is possible to sum up primary root themes that provide a helpful compass for navigating sin's tangled forest of corrupted fruit. Despite not being comprehensive, any student of the word may still find assistance.
+
+Nearly all sin is some form or blend of malice, idolatry, treachery, or exploitation. These four categories provide interpretive clarity. They offer diagnostic value: “Am I being malicious?” “Is activity idolatrous?” “Am I betraying a trust?” “Am I unjustly exploiting a person or opportunity?” Among several potential benefits, this kind of moral taxonomy creates a kind of spiritual system of checks and balances. It allows the student of scripture to trace unseen connections between sins through enlisting the bright spots in our personal experience to shed light on blind spots we didn't know were related. Understanding the structure of sin, even imperfectly, sharpens our capacity to resist it faithfully.
 
 #### Hermeneutical Disclaimer:
 
-This analysis proceeds on the methodological assumption that theology must arise traceably from exegesis of the text.  All readings and conclusions must respect immediate literary and historical context, while additionally being apt to consider wider material from the given book and canon as applicable. Systematic theology, interpretive tradition, naming conventions, science, archaeology, and philosophy possess intrinsic value as disciplines.  Use of these disciplines must not override textual content that is explicitly stated or cogently inferable or import semiotic artifacts untenably foreign to its original information environment. Interpretive lenses are necessarily embedded in any interpretive operation of scripture but must not weigh in at the expense of the text’s self defined logos, ethos or pathos.
+This analysis proceeds on the methodological assumption that theology must arise traceably from exegesis of the text. All readings and conclusions must respect immediate literary and historical context while additionally being apt to consider wider material from the given book and canon as applicable. Systematic theology, interpretive tradition, naming conventions, science, archaeology, and philosophy possess intrinsic value as disciplines. Use of these disciplines must not override textual content that is explicitly stated or cogently inferable or import semiotic artifacts untenably foreign to its original information environment. Interpretive lenses are necessarily embedded in any interpretive operation of scripture but must not weigh in at the expense of the text’s self-defined logos, ethos, or pathos.
 
 ## MITE Framework
 
@@ -36,66 +45,63 @@ Oppression, including injustice and abuse, is against the Biblical call to justi
 Merchandising, in the sense of exploiting others for personal gain, is condemned (2 Peter 2:3, Matthew 21:12-13).
 Control, through coercion or manipulation, is contrary to the Biblical principle of freedom in Christ and the call to serve others in love (Galatians 5:13, 2 Corinthians 1:24).
 
-### Malice
+#### **Malice**
 
-1.  Hate and its Manifestations:
+Sinful expressions that manifest hostility, harm, or indifference toward others.
 
-    -   Mercilessness: Contrary to the Beatitudes (Matthew 5:7), which bless the merciful, showing a lack of mercy indicates a hardening of the heart.
-    -   Murder: Violates the commandment "Thou shalt not kill" (Exodus 20:13). Jesus expands this to include anger and contempt (Matthew 5:21-22).
-    -   Discrimination: Goes against the principle of loving one's neighbor as oneself (Galatians 3:28, James 2:9).
-    -   Reviling and Cruelty: Contradicts the call to bless and not curse (Romans 12:14).
-    -   Enmity and Hostility: Inconsistent with the call to peace and reconciliation (Romans 12:18).
-2.  Discord:
+* **Hatred** – Defined as equivalent to murder in motive and consequence (1 John 3:15).
+* **Bitterness** – A root that defiles many and resists grace (Hebrews 12:15).
+* **Wrath and Rage** – Human anger does not produce righteousness (James 1:20; Ephesians 4:31).
+* **Discord** – Those who cause divisions oppose apostolic exhortation (Romans 16:17).
+* **Apathy** – Indifference toward the things of God invites rebuke (Revelation 3:15-16).
+* **Mercilessness** – Those who show no mercy will receive none (Matthew 18:33).
+* **Murder** – Violates the explicit command of God (Exodus 20:13).
+* **Discrimination and Cruelty** – Partiality and harshness violate God's justice (Leviticus 19:15; Proverbs 11:17).
+* **Vengeance** – Belongs to God alone; humans are called to forgive (Romans 12:19).
 
-    -   Quarrels to Divisions: All these actions disrupt the unity that Christ prayed for His followers (John 17:21) and Paul urged in the church (1 Corinthians 1:10).
-    -   Selfishness and Seditions: Selfish ambition leads to disorder and evil practices (James 3:16).
-    -   Rivalries: Indicative of worldly desires, contrary to a spirit-led life (Galatians 5:19-21).
-3.  Vengeance:
+---
 
-    -   Retaliation to Bitterness: These feelings and actions are warned against, as believers are called to forgive (Ephesians 4:31-32) and leave vengeance to God (Romans 12:19).
-    -   Wrath and Fury: Human anger does not produce the righteousness of God (James 1:20).
-4.  Apathy:
+#### **Idolatry**
 
-    -   Indifference to Unforgiveness: Indicates a lack of love, which is central to Christian ethics (1 John 4:20-21).
+The elevation of anything above or in place of God.
 
-### Idolatry
+* **Blasphemy** – Speaking against the Holy Spirit carries grave warning (Mark 3:29).
+* **Lust** – A consuming desire that defiles (1 Thessalonians 4:5).
+* **Materialism and Greed** – Rooted in idolatry, these enslave the heart (1 Timothy 6:10; Luke 12:15).
+* **Avarice** – An excessive love of gain condemned in spiritual leadership (Luke 12:15).
+* **Divination and Witchcraft** – Rejected as rebellion and spiritual treason (Galatians 5:20; Acts 16:16–18).
+* **Iconolatry** – Worshiping created images misrepresents God (Acts 17:29).
+* **Hedonism and Gluttony** – Pleasure-seeking that leads away from spiritual sobriety (Ecclesiastes 2:1; Philippians 3:19).
+* **Sexual Immorality** – Includes adultery, fornication, lechery, and promiscuity, all of which violate God's sexual design (Matthew 5:28; 1 Corinthians 6:18; Jeremiah 5:8; Proverbs 7:10–12).
 
-1.  Perversion:
+---
 
-    -   From Pedophilia to Licentiousness: These acts are condemned as they deviate from God's design for human sexuality and degrade human dignity (1 Corinthians 6:18-20).
-2.  Lust:
+#### **Treachery**
 
-    -   From Hedonism to Debauchery: Reflects a pursuit of fleshly desires over spiritual ones, contrary to living by the Spirit (Galatians 5:16-17).
-3.  Witchcraft:
+Betrayals and deceptions that break trust and fracture relationships.
 
-    -   From Iconolatry to Channeling: These practices are seen as direct rebellion against God, seeking power and knowledge outside of Him (Deuteronomy 18:10-12).
-4.  Avarice:
+* **Deception and Lying** – Corrupt and distort the truth, undermining righteousness (2 Timothy 3:13; Colossians 3:9).
+* **False Witness and Slander** – Condemned as abominations and injustice (Revelation 21:8; James 4:11).
+* **Gossip and Disparagement** – Erode community and integrity (2 Corinthians 12:20; Psalm 15:3).
+* **Breach and Covenant Breaking** – Violations of sacred and human bonds (James 2:10; Ezekiel 16:59).
+* **Backstabbing and Dishonesty** – Betrayal of close relations and the trust of community (Psalm 41:9; Colossians 3:9).
+* **Theft** – A direct affront to justice and stewardship (Ephesians 4:28).
 
-    -   From Covetousness to Haughtiness: Represents a love for the material world over God, contradicting the command to love God above all (Matthew 6:24).
+---
 
-### Treachery
+#### **Exploitation**
 
-1.  Deception:
+The abuse or misuse of people, power, or position for unjust gain.
 
-    -   From Craftiness to Slander: All forms of deception are against God's nature of truth and honesty (Proverbs 6:16-19, Ephesians 4:25).
-2.  Breach:
+* **Oppression** – A grave offense against God’s concern for the vulnerable (James 5:4).
+* **Manipulation** – Misleading others for control or personal advantage (2 Corinthians 4:2).
+* **Merchandising** – Exploiting spiritual things or people for profit (2 Peter 2:3).
+* **Control and Coercion** – Power used to dominate rather than serve (3 John 1:9; 1 Peter 5:2–3).
+* **Misappropriation and Utilization** – Diverting or using resources or persons unjustly (Luke 16:1–2; Proverbs 14:31).
+* **Cheating and Capitalization** – Gaining through unfair advantage (1 Thessalonians 4:6; James 5:1–6).
+* **Blackmail** – Using threats or leverage to coerce others unjustly (Deuteronomy 24:17).
 
-    -   From Adultery to Gossip: Breach of trust and relational integrity, contrary to the call for faithfulness in relationships (Hebrews 13:4, Proverbs 11:13).
-3.  Theft:
-
-    -   From Swindling to Stealing: Violates the commandment against stealing and principles of justice and fairness (Exodus 20:15, Ephesians 4:28).
-
-### Exploitation
-
-1.  Oppression:
-
-    -   From Injustice to Discrimination: Oppression of any form is against the biblical mandate for justice and care for the vulnerable (Psalm 82:3, Isaiah 1:17).
-2.  Merchandising:
-
-    -   From Capitalization to Utilization: Using others for personal gain is against the ethic of serving and loving others selflessly (Philippians 2:3-4).
-3.  Control:
-
-    -   From Coercion to Gaslighting: Manipulating or controlling others is contrary to the freedom and dignity that Christianity upholds for every individual (Galatians 5:13, 2 Corinthians 3:17).
+---
 
 In summary, the M.I.T.E. taxonomy provides a detailed and expansive view of sin, encompassing a wide range of human behaviors and attitudes that are contrary to the teachings and character of God as revealed in the Bible. This taxonomy highlights the need for human beings to seek redemption and transformation through Christ, recognizing the pervasive nature of sin in every aspect of human life and society.
 
