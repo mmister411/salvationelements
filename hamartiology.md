@@ -105,7 +105,7 @@ The abuse or misuse of people, power, or position for unjust gain.
 
 In summary, the M.I.T.E. taxonomy provides a detailed and expansive view of sin, encompassing a wide range of human behaviors and attitudes that are contrary to the teachings and character of God as revealed in the Bible. This taxonomy highlights the need for human beings to seek redemption and transformation through Christ, recognizing the pervasive nature of sin in every aspect of human life and society.
 
-### Chart
+```mermaid
 ---
 config:
   layout: elk
@@ -431,3 +431,4 @@ Exploitation -- Form_of --> Sin
 Misappropriation -- Form_of --> Theft
 Subjugation -- Form_of --> Oppression
 Adultery -. Para-Intentional .-> Abandonment
+```
