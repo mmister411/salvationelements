@@ -1,3 +1,4 @@
+"""
 ## Document Disclaimer
 
 This is a living document progressing toward a presumably complete, hyper compact treatise on hamartiology (the doctrine of sin). The goal is to hopefully allow digestion of 2000 years of theological development and 66 biblical books into minutes of reading rather than months of study. Vocabulary is not strictly academic or liturgical or denominational or other framing.  The language intentionally weaves between concrete and abstract, surgical and poetic, to preserve theological accuracy while achieving maximum clarity and brevity. The intended audience includes those familiar with gospel foundations who seek deeper understanding accessible to serious students of scripture.
@@ -443,3 +444,4 @@ Misappropriation -- Form_of --> Theft
 Subjugation -- Form_of --> Oppression
 Adultery -. Para-Intentional .-> Abandonment
 ```
+"""
