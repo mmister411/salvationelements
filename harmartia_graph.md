@@ -1,4 +1,3 @@
-
 ```mermaid
 ---
 config:
@@ -326,4 +325,3 @@ Misappropriation -- Form_of --> Theft
 Subjugation -- Form_of --> Oppression
 Adultery -. Para-Intentional .-> Abandonment
 ```
-"""
