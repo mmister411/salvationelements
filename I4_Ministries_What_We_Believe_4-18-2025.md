@@ -1,6 +1,6 @@
 # What We Believe
 
-I4 Ministries: Inquire. Intercede. Improve. Inspire.
+**I4 Ministries: Inquire. Intercede. Improve. Inspire.**
 
 ## About Us
 
@@ -11,7 +11,10 @@ We are a teaching ministry that seeks to enable believers to undertake the follo
 - Improve their readiness for kingdom service through equipping and edification.
 - Inspire them to live their best godly lives and advocacy for others.
 
-I4 Ministries: Advocating for the adding of Advocates.
+> I4 Ministries: Advocating for the adding of Advocates.
+
+## Hermeneutical Disclaimer
+This work is built on the methodological assumption that theology must arise traceably from exegesis of the text (Acts 17:11; 2 Tim 2:15). All readings and conclusions must respect immediate literary and historical context while additionally being apt to consider wider material from the given book and canon as applicable (Luke 24:27; Isa 28:10). Systematic theology, interpretive tradition, naming conventions, science, archaeology, and philosophy possess intrinsic value as disciplines (Ps 111:2; Prov 25:2). Use of these disciplines must not override textual content that is explicitly stated or cogently inferable or import semiotic artifacts untenably foreign to its original information environment (Matt 15:9; 1 Cor 4:6). Interpretive lenses are necessarily embedded in any interpretive operation of scripture but must not weigh in at the expense of the text’s self-defined logos, ethos, or pathos (2 Cor 4:2; John 1:1–4; Heb 4:12).
 
 # Scripture
 
