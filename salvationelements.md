@@ -102,11 +102,28 @@ This analysis proceeds on the methodological assumption that theology must arise
     - Putting on Christ (Romans 13:14, Galatians 3:27)
     - Putting on the Armor of GOD (Ephesians 6:10-18, 1 Thessalonians 5:8)
     - Love or Hate what God Loves or hates (Psalm 97:10, Proverbs 8:13, Proverbs 16:6)
-  - **Requirement for or Confirmation of Event Taking Place:**
-    - Afirmation
+    - Reverence (Hebrews 12:28; Malachi 1:6)
+    - Awe before His majesty or holiness (Isaiah 6:5; Psalm 33:8)
+    - Beginning of knowledge and wisdom (Proverbs 1:7; 9:10)
+    - Dread of violating or misrepresenting God's name (Leviticus 19:12; Malachi 2:5)
+    - Sanctifying the Lord in Your Heart ()
+  - Source or Cause of Event, Operation, or Methodology:
+    - Initiated by exposure to God's self-revelation in word or act (Deuteronomy 4:10; Exodus 20:18–20)
+    - Given by the Spirit of the Lord (Isaiah 11:2–3)
+    - Cultivated through learning, remembrance, and reflection on God's works and judgments (Psalm 34:11; Deuteronomy 8:6)
+    - Deepened by internal recognition of God's holiness, power, and justice (Psalm 119:120; Isaiah 66:2)
+    - Strengthened through community alignment and covenantal teaching (Deuteronomy 6:1–2; Acts 9:31)
+  - **Evidence of Validity or Confirmation**
+  	- **Affirmation:**
+      These traits and responses confirm that the Fear of the Lord is present and active:
       - Prioritizing GOD over cares of the world (Matthew 6:33, Luke 10:38-42)
       - Obedience to what you know to be true and good (1 Peter 1:22, James 4:7)
       - Approving what God Loves (Psalm 11:7; Proverbs 15:9; Micah 6:8; 1 John 4:19)
+  	  - Disapproval of evil and withdrawal from it (Proverbs 8:13; 16:6)
+  	  - Submission & discipline to God’s instructions (Job 28:28; Psalm 111:10)
+  	  - Receptive conscience and readiness to repent (Isaiah 66:2; Proverbs 28:14)
+  	  - A lifestyle marked by integrity and upright walking (Proverbs 14:2; Nehemiah 5:15)
+  	  - Reverence in worship and caution in speaking or acting in His name (Ecclesiastes 5:1–2; 
     - Negation
       - Not loving the things of the World (1 John 2:15-17, James 4:4)
       - Being not conformed to this present evil age (Romans 12:2, Galatians 1:4)
@@ -117,9 +134,21 @@ This analysis proceeds on the methodological assumption that theology must arise
     - Not shut out when the door is closed or cast out before the throne (Matthew 25:10-12, Matthew 25:31-46, Luke 13:24-27, Revelation 20:12-15)
     - Being Good Soil (Matthew 13:8, 23; Luke 8:15; Mark 4:20)
   - Considerations:
+  - Exceptions:
+    - None
+  - Limitations
+    - Fear of he Lord is a start, an ingredient, a mandatory element but not the whole machine or recipe.()
+    - Without ongoing attention, it may fade into familiarity or presumption (Deuteronomy 6:10–12).
+    - It may exist alongside distance or trembling (James 2:19). It can be momentary or partial if not accompanied by right understanding and trust. ()
     - Parables: Failures of would-be believers outlined in Jesus' parables identify various elements of failing at Holy Fear of the Lord (Matthew 13:3-23, Matthew 25:1-13, Luke 12:16-21)
+  - Inference
     - Love v. Fear v. Faith: Ultimately, Loving God, Faith in God, and Fear of The Lord are at least heavily overlapping, if not identical (1 John 4:18, Hebrews 11:6, Proverbs 8:13).
     - Sanctification: Growing in the richness of fear of the Lord is the primary undertaking of sanctification and vice versa (1 Thessalonians 4:3-4, 2 Corinthians 7:1, Proverbs 1:7).
+    - Servile fear that paralyzes rather than humbles (Romans 8:15)
+    - Fear of man or circumstances disguised as reverence for God (Proverbs 29:25; Isaiah 29:13)
+    - External religiosity with no inward awe or repentance (Isaiah 1:11–15; Matthew 15:8–9)
+    - Terror without love, leading to avoidance rather than nearness (1 John 4:18)
+    - Cultural moralism that mimics uprightness without reference to God’s holiness (2 Timothy 3:5)
 - Indwelling of the Holy Spirit
   - **A.K.A. / Associated With / What is Meant By:**
     - The Promise (Acts 1:4-5, Luke 24:49)
@@ -130,16 +159,39 @@ This analysis proceeds on the methodological assumption that theology must arise
     - Entry into the New Covenant through the blood of Christ (Luke 22:20; Hebrews 9:15)
     - Faith in the Eternal Person of Jesus the Christ (Acts 2:38)
     - The Spirit is given to those who hear, believe, and obey (Acts 5:32; Galatians 3:2)
-  - **Requirement for or Confirmation of Event Taking Place:**
-    - Direct command and provision of the Father (John 14:26, John 15:26)
-    - Full acknowledgement of the Eternal Personage of Jesus Christ (1 John 4:2-3, John 8:24)
-    - Entry into the New Covenant sealed by the blood of Christ (Hebrews 9:15, Luke 22:20)
-  - Accounts for:
+  - **Evidence of Validity or Confirmation**
+  - **Affirmation: These indicators serve as signs that the indwelling of the Holy Spirit is present and functionally operative:**
+      - Confession of Jesus Christ as the eternal and incarnate Son of God (1 John 4:2–3, John 8:24)
+      - Receptive belief in the gospel followed by sealed faith response (Ephesians 1:13, Acts 5:32)
+      - Internal witness bearing confirmation to the spirit of the person (Romans 8:16)
+      - Emergence of spiritual fruit over time, indicating internal transformation (Galatians 5:22–23)
+      - Increasing responsiveness to truth, conviction, correction, and renewal (John 16:13, 2 Corinthians 3:18)
+    - **Negation: Evidences of reprobacy regarding the Holy Spirit, whether by non-start or terminal grievance. Concluding one's race of faith in this state is exceptionally, gravely dangerous.
+      - Reprobate unto every good work or active resistance of the Holy Spirit.(Titus 1:16, 2 Timothy 3:5; Acts 7:51; John 14:17; Hebrews 10:26–29)
+      - Denial that Jesus is the Christ, the Son of God, Lord or come in the flesh (1 John 2:22–23; 1 John 4:2–3; 1 Corinthians 12:3)
+      - Love of the world overriding love of truth (1 John 2:15–17)
+      - Idolatry, Witchcraft, Occult (1 Corinthians 10:20–21, 1 John 4:1)
+  - **Accounts for:**
     - The Power to overcome this World (1 John 5:4, Romans 8:37)
     - The Power to be transformed into the likeness of Christ (2 Corinthians 3:18, Romans 12:2)
     - Perpetual access to omnipresent fellowship with the LORD (John 14:16-17, 1 Corinthians 6:19)
+    - The internal guidance system for discerning truth and resisting deception (John 16:13, 1 John 2:27)
+    - The pledge and down payment guaranteeing future inheritance (Ephesians 1:13–14)
   - Considerations
-    - Grieving, Quenching, Resisting, Neglecting the Spirit:  Suppressing, Opposing or Ignoring guidance or prompts, engaging actions or attitudes incompatible with Spirit, and loving the things of this world (Acts 7:51, 1 Timothy 4:14, Matthew 12:31-32, 1 Thessalonians 5:19, Ephesians 4:30)
+    - Exemptions:
+      - None.  The indwelling is not a requirement but a promise.  Scripture does, however, seem to speak separately between those who believe on the Son and those who do not encounter the protoevangelium or the revealed gospel, or are too young or not sufficiently mentally present.  The Spirit is a requirement for co-heirship with Christ.  
+    - Limitations:
+      - The indwelling does not prevent soulical recontamination from embracing the world or resisting fear of the Lord. ()
+      - The Holy Spirit can be (Acts 7:51), quenched (1 Thessalonians 5:19), grieved (Ephesians 4:30), or neglected (1 Timothy 4:14) which may cause dormancy or be functionally annulled in cases of hardened will or habitual rebellion. Including ignoring guidance or prompts, engaging actions or attitudes incompatible with Spirit, and loving the things of this world (Acts 7:51, 1 Timothy 4:14, Matthew 12:31-32, 1 Thessalonians 5:19, Ephesians 4:30)
+    - Inference
+      - Indwelling functions as a boundary marker for covenant identity (Romans 8:9) and facilitates communion with God, conviction of sin, empowerment for calling, and spiritual discernment (John 16:8–13). The presence of the Spirit is inseparable from the life of the new covenant and anticipates glorification. Lack of indwelling is correlated with disqualification (Romans 8:14; John 14:17).
+    - Alert:
+      - Persistent rejection of the Spirit's leading, attribution of His work to evil, or treating His presence as casual may result in spiritual ruin (Matthew 12:31–32; Hebrews 10:29). Spiritual decline often begins by silencing conviction. Rebellion or compromise in practice may lead to a forfeiture of power, awareness, and eventually inheritance (2 Peter 2:20–21; Revelation 3:16).
+      - The pull toward an evil heart of unbelief in departing form the Living God can be guarded against by an active life of devotion and pressing into the Lord in praise, prayer, worship, time and meditation in His presence.
+    - Corruptions: Heterodoxy, Heresy, Misinterpretation, elicit Spirituality, etc.
+      - Depersonalization of the Spirit into an impersonal force, energy, or influence (John 14:26; Ephesians 4:30, Romans 8:9; Galatians 3:2)
+      - Spiritualized selfism, equating the Spirit with latent human potential or divine spark (2 Corinthians 11:4)
+      - Syncretism, integrating the Holy Spirit with ancestral spirits, universal energies, or pantheistic frameworks (2 Corinthians 6:14–16; 1 Corinthians 10:20–21)
 - Foreknown Predestination of Christ The Elect
   - **A.K.A. / Associated With / What is Meant By:**
     - God's Eternal Plan of Redemption (Gen 3:15; 2 Tim 1:9–10; Rev 13:8; Eph 3:11).
@@ -220,4 +272,3 @@ This analysis proceeds on the methodological assumption that theology must arise
         - Heaven ()
       - Permanent
         - New Heaven and New Earth (Revelation 21:1-4; 2 Peter 3:13; Isaiah 65:17; Isaiah 66:22)
-
