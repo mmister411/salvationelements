@@ -11,12 +11,6 @@
     - Inferences:  
     - Alerts:  
     - Corruptions:  
-  - Pathing Description Where Applicable  
-    - One-Up (e.g., Path-1, Path-2): Functional/Mechanical/Concretely Descriptive Item Statement  
-      - Triggers  
-      - Variation (whether by Space or Time, enumerable)  
-        - Option Type  
-          - Entry  
 
 The Functional Template is a structured tool for analyzing any spiritual, ethical, or doctrinal element by mapping its mechanics, triggers, evidence, boundaries, and outcomes. It is not a conceptual overview or doctrinal summary. It is a logic-based, scripture-reference-backed diagnostic form designed to describe what a thing does, how it works, and under what conditions it functions.
 
@@ -101,8 +95,5 @@ The analyst must include:
 - Cases where a function occurs but doesn’t advance  
 - Warnings where something that looks like the function is a counterfeit  
 This preserves the integrity of the diagnostic while respecting the nuance of real-world variation.
-
-6. **Mapping Possibility, Not Sequence**  
-The pathing section is not historical or theological narrative. It defines what becomes possible as a result of the current state. It is a map of semantic and spiritual affordances.
 
 ⸻
