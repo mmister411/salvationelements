@@ -125,6 +125,11 @@ This analysis proceeds on the methodological assumption that theology must arise
     - The Promise (Acts 1:4-5, Luke 24:49)
     - "The Kingdom is among you" (Luke 17:21, Matthew 12:28)
     - "Whoever does not have Christ's Spirit is none of His." (Romans 8:9, 1 Corinthians 3:16)
+  - **Source or Cause of Event, Operation, or Methodology:**
+    - Direct provision by the Father at the request of the Son (John 14:16, 26; John 15:26)
+    - Entry into the New Covenant through the blood of Christ (Luke 22:20; Hebrews 9:15)
+    - Faith in the Eternal Person of Jesus the Christ (Acts 2:38)
+    - The Spirit is given to those who hear, believe, and obey (Acts 5:32; Galatians 3:2)
   - **Requirement for or Confirmation of Event Taking Place:**
     - Direct command and provision of the Father (John 14:26, John 15:26)
     - Full acknowledgement of the Eternal Personage of Jesus Christ (1 John 4:2-3, John 8:24)
