@@ -15,16 +15,14 @@
 
 The Semantic Function Schema is a structured tool for analyzing any spiritual, ethical, conceptual, or operational element by mapping its meaning, function, triggers, evidence, boundaries, and distortions. It is not a summary or overview. It is a logic-based, condition-aware diagnostic form designed to describe what something is called, what it does, how it works, and under what conditions it operates.
 
-Below is a description of the template, followed by what is entailed in filling it out.
+Below is a description of the schema, followed by what is entailed in filling it out
 
 ⸻
 
 **Functional/Mechanical/Concretely Descriptive Item Title**
 
-The item under review must be named according to what it does or how it operates, not by its theological label.  
-This forces clarity and avoids conceptual fog.  
-Name by identifying a distinct mechanism that points to specific mechanical realities while avoiding generalities.  
-Generalization that seems unavoidable likely indicates the need for multiple separate functional enumerations.
+Maps the primary concept to alternate terms, phrases, or conceptual synonyms used in related domains or texts. Establishes semantic and functional equivalence across different terminologies. Facilitates cross-contextual recognition of the same underlying idea. Should be as comprehensive a list as possible. Name by identifying a distinct mechanism that points to specific mechanical realities while avoiding generalities.  
+Generalization seeming unavoidable likely indicates the need for multiple separate elements as separate iterations of semantic function schema.
 
 ⸻
 
@@ -65,7 +63,7 @@ Corruptions identify distortions that mimic, replace, or misrepresent the functi
 ### **Filling It Out: What It Entails**
 
 1. **Discipline in Functional Naming**
-   Avoid inherited, symbolic, or abstract naming. Every title must describe a specific mechanism or operation in functional terms. This forces the analyst to identify observable or definable behavior rather than labeling by tradition or category. A functional title describes what the item does, not what it represents.
+   Avoid inherited by paradimb, symbolic, or abstract naming. Every title must describe a specific mechanism or operation in functional terms. This forces the analyst to identify observable or definable behavior rather than labeling by tradition or category. A functional title describes what the item does, not what it represents.
 
 2. **Traceability to Scripture**
    Each input must be anchored in direct textual statement, recurring pattern, or logically supportable inference from scriptural data. The analyst must gather, organize, and align references with precision. Avoid speculative or analogical claims unless they arise from controlled, repeatable textual patterns. No claim should appear that cannot be defended by scriptural traceability.
