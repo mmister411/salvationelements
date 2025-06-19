@@ -1,3 +1,4 @@
+# Semantic Function Schema
 - Functional/Mechanical/Concretely Descriptive Item Title  
   - A.K.A. / Associated With / What is Meant By:  
   - Source or Cause of Event, Operation or Methodology  
@@ -12,7 +13,7 @@
     - Alerts:  
     - Corruptions:  
 
-The Functional Template is a structured tool for analyzing any spiritual, ethical, or doctrinal element by mapping its mechanics, triggers, evidence, boundaries, and outcomes. It is not a conceptual overview or doctrinal summary. It is a logic-based, scripture-reference-backed diagnostic form designed to describe what a thing does, how it works, and under what conditions it functions.
+The Semantic Function Schema is a structured tool for analyzing any spiritual, ethical, conceptual, or operational element by mapping its meaning, function, triggers, evidence, boundaries, and distortions. It is not a summary or overview. It is a logic-based, condition-aware diagnostic form designed to describe what something is called, what it does, how it works, and under what conditions it operates.
 
 Below is a description of the template, followed by what is entailed in filling it out.
 
