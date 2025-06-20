@@ -94,3 +94,89 @@ Corruptions identify distortions that mimic, replace, or misrepresent the functi
 ---
 
 ⸻
+
+---
+
+### **Instantiation Notes: Fractal Application of the Semantic Function Schema**
+
+The Semantic Function Schema is inherently **fractal in design**. That is, it allows and requires **multi-level instantiation** of elements wherever concepts demonstrate **internal structure, operational sequence, or categorical hierarchy**.
+
+This means the schema is not just applied once to a whole idea but is applied **recursively and distributively** to all semantically meaningful subcomponents of that idea.
+
+---
+
+#### **1. Sequential Operations → Ordered SFS Entries**
+
+Whenever a concept contains **internal stages, phases, or procedural steps**, each phase should receive its **own, independent SFS instantiation**. The composite concept is not represented by a single schema but by a **chain of interrelated function schemas**, one per operational unit.
+
+**Example:**
+“Salvation” includes elements such as **Regeneration**, **Justification**, **Sanctification**, etc. Each of these is a distinct event or condition governed by its own triggers, confirmations, and corruptions. Therefore, each is instantiated separately under its own SFS.
+
+---
+
+#### **2. Hypernyms → Distributed Instantiations by Species**
+
+If a concept acts as a **container category**, such as a genus, archetype, or tropological root (i.e., a concept that includes multiple species, subtypes, or semantic members), then **each child member** is instantiated as its own SFS element.
+
+**Example:**
+“Prayer” is not treated as a monolithic concept. It is a **semantic umbrella** for various types: **Supplication**, **Intercession**, **Thanksgiving**, **Praise**, **Confession**, etc. Each species functions differently and must be instantiated independently.
+
+---
+
+#### **3. Nested Functionality → Internal Instantiations**
+
+Some concepts may operate **both as discrete functions and as components of larger constructs**. In these cases, they are instantiated **at both levels**:
+
+* Once as their own function (with distinct SFS entry)
+* And again as an embedded dependency within other entries
+
+**Example:**
+“Fear of the Lord” is both a stand-alone spiritual posture and a required component in other functions such as **Decontaminating the Soul**, **Wisdom**, and **Sanctification**. It must be instantiated fully on its own and then referenced functionally in dependent schemas.
+
+---
+
+#### **4. Conceptual Recursion → Recursive Analysis**
+
+SFS permits **recursive application**. Any entry, if complex enough, may reveal **subfunctions** that themselves warrant separate instantiation. This recursive unfolding is encouraged wherever it increases clarity or exposes operational dependencies.
+
+**Example:**
+Within **Sanctification**, one might find embedded semantic subfunctions like:
+
+* **Conviction of Sin**
+* **Yielding to the Spirit**
+* **Discipline of the Body**
+
+Each of these may warrant its own SFS entry even though they nest inside a broader element.
+
+---
+
+#### **5. Disambiguation by Function, Not Just Language**
+
+When a single term can refer to **multiple distinct functions** in different contexts, each function must be disambiguated and instantiated separately—even if the word used is the same.
+
+**Example:**
+“Faith” can refer to:
+
+* Initial belief in Christ (justificatory)
+* Daily trust (relational/functional)
+* The faith (doctrinal content)
+* Faithfulness (character trait)
+
+Each of these is semantically and functionally distinct and thus gets its own schema.
+
+---
+
+#### **6. Contextual Reuse with Variant Inputs**
+
+Functions can be **instantiated again in new contexts**, adjusting for different scopes or audiences. For example, an SFS entry for **Confession** may be instantiated once at the **personal level** (1 John 1:9) and again at the **communal/disciplinary level** (James 5:16), with context-dependent affirmations, sources, and alerts.
+
+---
+
+### Summary Principle
+
+> **If a concept contains distinguishable operations, layers, members, or conditions, each of those parts must be instantiated separately using the schema.**
+> The schema is applied not once but wherever a unit of function can be logically, spiritually, or ethically isolated.
+
+---
+
+This fractal structure ensures **modularity**, **diagnostic clarity**, and **semantic precision**. It prevents overgeneralization and preserves conceptual integrity as theological, ethical, or spiritual systems grow in detail.
