@@ -63,7 +63,6 @@ This analysis proceeds on the methodological assumption that theology must arise
       - While the blood of Jesus covers all sin, Judicial Pardon does not address other spiritual conditions rendering one unable to enter the Strait Gate (Matthew 13:3-23, Matthew 18:21-35, Matthew 25:14-30, Heb 12:14).
     - Inferences:
       - [1] The Lamb was slain from the foundation of the world; [2] He is the only God formed; [3] He has mercy on whom He wills; Therefore the force behind all sacrifices, faith and repentance has always been the blood of the lamb. (Revelation 13:8; Hebrews 9:12-15; Romans 3:25; 1 Peter 1:19-20)
-      - [1] The Lamb was slain from the foundation of the world. (Revelation 13:8, Habakkuk 3:4); [2] He is the only God formed. (Isaiah 43:10–11); [3] He has mercy on whom He wills. (Romans 9:15); Therefore, the force behind all sacrifices, faith, and repentance has always been the blood of the Lamb. (Hebrews 9:12–15; Romans 3:25)
     - Alert:
       - Unforgiveness in all forms threatens to render the soul incompatible with Judicial Pardon of personal sins. (Matthew 6:14–15; Matthew 18:21–35; Hebrews 12:15; 1 Peter 4:8)
 - Decontaminating the Soul
