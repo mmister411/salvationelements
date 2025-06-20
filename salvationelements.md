@@ -216,17 +216,13 @@ This analysis proceeds on the methodological assumption that theology must arise
     - Corporate Body Identity — Church as His Body (Eph 1:22–23; 1 Cor 12:12–27).
     - Cosmic Reconciliation — Creation set free in Him (Rom 8:19–22; Col 1:20).
   - **Considerations:**
-    - Assignment to the Elect Body is corporate, not individually predetermined (Eph 1:4; 2 Pet 1:10).
-    - Union with Christ is sustained by abiding faith, energized by the Spirit (John 15:4–6; Gal 5:25; Rom 8:14).
-    - Romans 9 addresses vocational and covenantal election, not pretemporal individual salvation (Rom 9:6–8, 11–13; Gen 25:23).
-    - **Vocational Implications:**
-    - The Elect are a royal priesthood, called to proclaim His excellencies (1 Pet 2:9).
-    - Believers are ambassadors of reconciliation (2 Cor 5:20).
-    - Election is unto holiness and mission (Eph 1:4; Matt 5:14–16).
+      - Assignment to the Elect Body is corporate, not individually predetermined (Eph 1:4; 2 Pet 1:10).
+      - Union with Christ is sustained by abiding faith, energized by the Spirit (John 15:4–6; Gal 5:25; Rom 8:14).
+      - Romans 9 addresses vocational and covenantal election, not pretemporal individual salvation (Rom 9:6–8, 11–13; Gen 25:23).
     - **Alert:**
-    - Abandoning Christ forfeits participation in the predestined glorification (John 15:6; Heb 6:4–6; 2 Pet 2:20–22).
-    - Eternal inheritance belongs only to those who overcome (Rev 2:7,11; 21:7–8).
-    - Name in the Book of Life is contingent on perseverance (Rev 3:5; 20:15; Matt 10:22).
+      - Abandoning Christ forfeits participation in the predestined glorification (John 15:6; Heb 6:4–6; 2 Pet 2:20–22).
+      - Eternal inheritance belongs only to those who overcome (Rev 2:7,11; 21:7–8).
+      - Name in the Book of Life is contingent on perseverance (Rev 3:5; 20:15; Matt 10:22).
 - End-of-Initial-Life
   - Path-1: Failing Apart from the Revelation of the Gospel (Romans 1:18-20; Romans 2:12-16; John 3:18-19)
     - Triggers:
