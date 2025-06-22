@@ -1,17 +1,17 @@
 # Semantic Function Schema
-- Functional/Mechanical/Concretely Descriptive Item Title  
+- Functional/Mechanical/Concretely Descriptive Title of Attribute, Relationship or Event
   - A.K.A. / Associated With / What is Meant By:  
-  - Source or Cause of Event, Operation or Methodology  
-  - Requirement for or Confirmation of Event Taking Place:  
-    - Affirmation:  
-    - Negation  
-  - Accounts For:  
+  - Source, Cause or Warrant for Event, Operation, Methodology or having Attribute 
+  - Requirement for or Confirmation of Event Taking Place or Presence of Attribute:  
+    - Affirmation (Separate or related Evidentiary Assertions or prerequisites of validity):  
+    - Negation or Rebuttal (Counter conditionals underminjng validity or rebuttals to would-be counters)
+  - Accounts For (what outcomes, consequences, or effects are resolved, enabled, or expressed):  
   - Considerations:  
-    - Exemptions:  
-    - Limitations:  
-    - Inferences:  
-    - Alerts:  
-    - Corruptions:  
+    - Exemptions (Circumstances where Element would otherwise function but not applicable):  
+    - Limitations (Boundaries of the Element's designed validity, effect activation or inclusion):  
+    - Inferences (Logically derived explications, implications, deductions or inductions):  
+    - Alerts (Warnings, Admonitions, Pitfalls):  
+    - Corruptions (distortions that mimic, replace, or misrepresent the element):  
 
 The Semantic Function Schema is a structured tool for analyzing any spiritual, ethical, conceptual, or operational element by mapping its meaning, function, triggers, evidence, boundaries, and distortions. It is not a summary or overview. It is a logic-based, condition-aware diagnostic form designed to describe what something is called, what it does, how it works, and under what conditions it operates.
 
