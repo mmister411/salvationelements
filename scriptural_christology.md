@@ -18,19 +18,18 @@ This analysis proceeds on the methodological assumption that theology must arise
     - YAHWEH rained down brimstone from YAHWEH (Genesis 19:24; Genesis 1:26; Genesis 3:22; Genesis 11:7; Isaiah 6:8; Hosea 1:7; Zechariah 2:9–11; Malachi 3:1; Psalm 110:1; Daniel 7:13–14; Matthew 3:16–17; John 1:1; John 17:5)
     - In Him dwells all the fullness of Deity bodily (Colossians 2:9; Colossians 1:19; John 1:14; John 1:18; Hebrews 1:3; 2 Corinthians 4:4; Philippians 2:6; John 14:9–10; Isaiah 9:6; Revelation 21:22)
     - Before Abraham was, I AM (John 8:58; Exodus 3:14; Isaiah 43:10–13; John 4:26; John 6:20; John 8:24; John 8:28; John 13:19; John 18:5–6; Isaiah 41:4; Isaiah 46:4; Isaiah 48:12)
-  - The Word was God (John 1:1; John 1:18; John 20:28; Romans 9:5; Titus 2:13; Hebrews 1:8; 2 Peter 1:1; 1 John 5:20; Revelation 19:13))
-  - Source or Cause of Event, Operation or Methodology, or Warrant for Ascription  
-  - Requirement for or Confirmation of Event Taking Place:  
-    - Affirmation:  
-    - Negation  
-  - Accounts For:  
+    - The Word was God (John 1:1; John 1:18; John 20:28; Romans 9:5; Titus 2:13; Hebrews 1:8; 2 Peter 1:1; 1 John 5:20; Revelation 19:13))
+  - Source, Cause or Warrant for Event, Operation, Methodology or having Attribute 
+  - Requirement for or Confirmation of Event Taking Place or Presence of Attribute:  
+    - Affirmation (Separate or related Evidentiary Assertions or prerequisites of validity):  
+    - Negation or Rebuttal (Counter conditionals underminjng validity or rebuttals to would-be counters)
+  - Accounts For (what outcomes, consequences, or effects are resolved, enabled, or expressed):  
   - Considerations:  
-    - Exemptions:  
-    - Limitations:  
-    - Inferences:  
-    - Alerts:  
-    - Corruptions:  
-
+    - Exemptions (Circumstances where Element would otherwise function but not applicable):  
+    - Limitations (Boundaries of the Element's designed validity, effect activation or inclusion):  
+    - Inferences (Logically derived explications, implications, deductions or inductions):  
+    - Alerts (Warnings, Admonitions, Pitfalls):  
+    - Corruptions (distortions that mimic, replace, or misrepresent the element):  
 
 
 2. Word of the Lord becomes Lord Prophet, Son of David
