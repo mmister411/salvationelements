@@ -1,4 +1,15 @@
+Scriptual Christology
+======================
 
+# Introduction
+
+This document aims to provide an in-depth, defensible understanding, part-by-part, of what, who, and how the scriptures present the Lord Jesus. The Lord Jesus is the sum total mystery of Scripture. Jesus is the fulcrum on which all creation pivots. It is no easy task to seek to gather together all scriptural evidence for the multiple roles and purposes that Jesus fulfills. However, it is both true that He is worthy of all service and worship and it is His divine desire that you may come to know Him as He is. Each section of this work will delve into a major area of the operations or attributes of Jesus to provide synonymous terms, truth implications, and scriptural references at every turn. May the Holy Spirit guide you to use these tools to better know the Lord Jesus as He is written.
+
+#### Hermeneutical Disclaimer:
+
+This analysis proceeds on the methodological assumption that theology must arise traceably from exegesis of the text (Acts 17:11; 2 Tim 2:15). All readings and conclusions must respect immediate literary and historical context while additionally being apt to consider wider material from the given book and canon as applicable (Luke 24:27; Acts 28:23). Systematic theology, interpretive tradition, naming conventions, science, archaeology, and philosophy possess intrinsic value as disciplines (Rom 1:20; Prov 25:2). Engagement with these disciplines must not introduce meanings that are unreasonably foreign to the Word’s original context (Matt 15:9; Col 2:8), go beyond what the text cogently supports (1 Cor 4:6), or contradict what the text explicitly states (Deut 4:2; Prov 30:6; Rev 22:18–19). Interpretive lenses are necessarily embedded in any interpretive operation of scripture but must not weigh in at the expense of the text’s self-defined logos, ethos, or pathos (2 Cor 4:2; Ps 119:130; Heb 4:12). If confusion persists, I seek the Lord in prayer, that by His Spirit I may gain understanding and discernment (Jas 1:5; John 16:13; Prov 3:5–6).
+
+## Scriptural Christology in Functional Terms
 
 - Uncreated Divinity, Very God from Very God
   - Purpose / Target / Goal / Direction
