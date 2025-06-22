@@ -19,21 +19,85 @@ This analysis proceeds on the methodological assumption that theology must arise
     - In Him dwells all the fullness of Deity bodily (Colossians 2:9; Colossians 1:19; John 1:14; John 1:18; Hebrews 1:3; 2 Corinthians 4:4; Philippians 2:6; John 14:9–10; Isaiah 9:6; Revelation 21:22)
     - Before Abraham was, I AM (John 8:58; Exodus 3:14; Isaiah 43:10–13; John 4:26; John 6:20; John 8:24; John 8:28; John 13:19; John 18:5–6; Isaiah 41:4; Isaiah 46:4; Isaiah 48:12)
     - The Word was God (John 1:1; John 1:18; John 20:28; Romans 9:5; Titus 2:13; Hebrews 1:8; 2 Peter 1:1; 1 John 5:20; Revelation 19:13))
-  - Source, Cause or Warrant for Event, Operation, Methodology or having Attribute 
-  - Requirement for or Confirmation of Event Taking Place or Presence of Attribute:  
-    - Affirmation (Separate or related Evidentiary Assertions or prerequisites of validity):  
-    - Negation or Rebuttal (Counter conditionals underminjng validity or rebuttals to would-be counters)
+
+  - Source, Cause or Warrant (Why we conclude Jesus is full Deity one with Father & Spirit)
+    - Jesus is called God directly by inspired authors (John 1:1; John 20:28; Romans 9:5; Titus 2:13; Hebrews 1:8).
+    - Jesus bears names and titles that only YHWH bears: “I AM,” “First and Last,” “Immanuel” (John 8:58; Isaiah 44:6; Matthew 1:23).
+    - Jesus possesses divine attributes: eternal preexistence, omniscience, omnipresence, and sovereignty (John 1:1; Matthew 28:20; Revelation 2:23).
+    - Jesus performs works exclusive to God: creation, sustaining the cosmos, forgiving sin, and granting life (Colossians 1:16–17; Hebrews 1:3; Mark 2:7; John 10:28).
+    - Jesus shares glory with the Father that predates creation (John 17:5).
+    - Jesus is worshiped rightly by angels and humans, without correction or rebuke (Matthew 28:9; Hebrews 1:6; Revelation 5:13–14).
+    - Jesus is one with the Father and the Spirit in being, operation, and name (John 10:30; Matthew 28:19; Colossians 2:9).
+    - Jesus is the visible image and exact imprint of the invisible God (Colossians 1:15; Hebrews 1:3; John 14:9).
+    - Jesus fulfills the identity and function of the Angel of YHWH and the Word of YHWH in the Old Testament, who speaks with divine authority and receives divine honor (Genesis 16; Exodus 3; Zechariah 2:9–11).
+
+  - Requirement for or Confirmation of Event Taking Place or Presence of Attribute:
+    - Affirmation (Separate or related Evidentiary Assertions or prerequisites of validity):
+      - The Father explicitly calls the Son “God” (Hebrews 1:8).
+      - Jesus forgives sin directly (Mark 2:5–7), a divine prerogative (Isaiah 43:25).
+      - Jesus receives worship without rebuke (Matthew 28:9,17; John 20:28; Revelation 5:8–14).
+      - Jesus has power over life and judgment (John 5:21–27).
+      - The divine Name is placed upon Jesus (Philippians 2:9–11; Isaiah 45:23).
+      - Jesus is worshiped by all creation post-resurrection without rebuke (Matthew 28:17; Revelation 5:13).
+      - Jesus is addressed with divine language and titles in resurrected encounters (John 20:28; Revelation 1:17–18).
+      - Jesus reigns from heaven at the right hand of the Father in shared authority (Acts 7:56; Hebrews 1:3; Philippians 2:9–11).
+      - Jesus’ words are treated as absolute, final, and unbreakable (Matthew 24:35; John 12:48).
+      - Jesus imparts the Spirit with sovereign prerogative (John 20:22; Acts 2:33).
+      - Jesus exercises judgment and grants eternal life (John 5:21–27; Revelation 20:11–15).
+      - Jesus is the object of saving faith and prayer (Acts 7:59; John 14:1, 14).
+      - Jesus’ name is confessed in salvation and in universal acknowledgment (Philippians 2:10–11; Isaiah 45:23).
+
+    - Negation or Rebuttal (Counter conditionals undermining validity or rebuttals to would-be counters):
+      - If Jesus were created, He could not be eternal (Micah 5:2; John 1:3).
+      - If Jesus were not God, He could not be worshiped without blasphemy (Exodus 34:14; Matthew 4:10).
+      - If He were only a prophet, He would not claim equality with the Father (John 10:30–33).
+      - If He were merely a representative, He could not bear the divine Name and receive the divine glory (Isaiah 42:8; John 17:5).
+      - Jesus cannot be a created being because all things were made through Him (John 1:3; Colossians 1:16).
+      - Jesus cannot be merely a creature because He receives worship that is forbidden to give to any created being (Matthew 28:9; Revelation 5:13–14; Exodus 34:14).
+      - Jesus cannot be only a prophet or man because He uses the divine name “I AM” in reference to Himself (John 8:58; Exodus 3:14).
+      - Jesus cannot be less than God because He claims that seeing Him is equivalent to seeing the Father (John 14:9).
+      - Jesus cannot be other than divine because He forgives sin as an intrinsic authority, not by delegated permission (Mark 2:5–7).
+      - Jesus cannot be a glorified creature because He shared the Father’s eternal glory before creation (John 17:5; Isaiah 42:8).
+      - Jesus cannot be merely a teacher because He speaks with divine authority over the Law and the Temple (Matthew 5:21–22; John 2:16).
+      - Jesus cannot be an idol because invoking His name brings salvation as only the Lord's name does (Acts 4:12; Romans 10:13).
+      - Jesus cannot be a false claimant because His resurrection vindicates His divine Sonship and rule (Romans 1:4; Acts 2:36).
+
+  
   - Accounts For (what outcomes, consequences, or effects are resolved, enabled, or expressed):  
+    - Authority and efficacy of Jesus' redemptive work.
+    - Sufficiency of Jesus as the mediator between God and man (1 Timothy 2:5).
+    - Weight behind the eternal covenantal promises fulfilled in Christ (2 Corinthians 1:20).
+    - Affirms the possibility of union with God through Christ (John 14:20–23; Colossians 1:27).
+    - Resolves how God Himself bears sin and overcomes death (Acts 20:28; 1 Corinthians 15:54–57).
+  
   - Considerations:  
-    - Exemptions (Circumstances where Element would otherwise function but not applicable):  
-    - Limitations (Boundaries of the Element's designed validity, effect activation or inclusion):  
+    - Exemptions (Circumstances where Element would otherwise function but not applicable):
+      - Not applicable. Jesus has always been and will always be Jesus.
+    - Limitations (Boundaries of the Element's designed validity, effect activation or inclusion):
+      - His being fully human has been presented as the reasoning for the words "Only the Father knows the day or the hour" but this is a thin conclusion for this biblical mystery ()
     - Inferences (Logically derived explications, implications, deductions or inductions):  
+      - Jesus’ words bear divine authority and cannot be relativized or subordinated to other messengers (Matthew 24:35; Hebrews 2:1–3).
+      - Worship of Jesus is necessary, not optional (John 5:23; Revelation 5:12–14).
+      - Christ’s presence transcends time and location (Matthew 18:20; Matthew 28:20).
+      - The divine essence is shared, not divided, among Father, Son, and Spirit (Matthew 28:19; John 14:16–17, 23).
+
     - Alerts (Warnings, Admonitions, Pitfalls):  
+      - Beware of reducing Jesus to merely a moral teacher, prophet, or created being (Colossians 2:8).
+      - Avoid modalism: the Father, Son, and Spirit are not merely different forms of the same person (John 14:26; Matthew 3:16–17).
+      - Reject attempts to pit Jesus’ humanity against His deity; both are true, not alternating or fragmentary (1 John 4:2–3; John 1:14).
+      - Denying the full divinity of Christ is to deny the gospel (2 John 1:7; John 8:24).
+  
     - Corruptions (distortions that mimic, replace, or misrepresent the element):  
-
-
+      - Arianism: claims Jesus was a created being, not eternal God.
+      - Adoptionism: teaches Jesus was a mere man adopted by God.
+      - Modalism/Sabellianism: fails to distinguish the persons of the Trinity.
+      - Docetism: denies the true humanity of Jesus while overstating a spiritual-only nature.
+      - New Age distortions: reduce Jesus to a spiritual exemplar or enlightened guru.
+      - Modern liberal theology: strips Jesus of supernatural identity and treats His divinity as metaphorical.
 2. Word of the Lord becomes Lord Prophet, Son of David
-  - Identify the second divine person as the "Word of the LORD" and "Angel of the LORD" who spoke and appeared throughout the Old Testament. Show that this figure is distinct yet divine, acting in covenantal authority. Connect this to Jesus as the promised Prophet and Son of David whom David calls "Lord."  Key texts: Genesis 16, Exodus 3, 1 Samuel 3, Psalm 110:1, Matthew 22:41–46, John 12:41.
+  - Purpose / Target / Goal / Direction
+    - Identify the second divine person as the "Word of the LORD" and "Angel of the LORD" who spoke and appeared throughout the Old Testament. Show that this figure is distinct yet divine, acting in covenantal authority. Connect this to Jesus as the promised Prophet and Son of David whom David calls "Lord."  Key texts: Genesis 16, Exodus 3, 1 Samuel 3, Psalm 110:1, Matthew 22:41–46, John 12:41.
+
 3. The Restorative Seed of His Own Creation
   - Trace the Messianic promise from Genesis 3:15 through the prophets to its fulfillment in the virgin birth and incarnation. Present Jesus as the Seed, Immanuel, the Servant of the LORD, and the Son of Man sent to redeem fallen creation from within. Key texts: Genesis 3:15, Isaiah 7:14, Isaiah 9:6, Isaiah 42 and 53, Daniel 7:13–14, Luke 1–2, John 1:14.
 4. Unspotted Lamb slain from the foundation of the cosmos as an Atoning Redemptive Sacrifice for Mankind from the first to the Last
