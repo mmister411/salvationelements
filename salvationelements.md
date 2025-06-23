@@ -136,9 +136,9 @@ This analysis proceeds on the methodological assumption that theology must arise
   - Exceptions:
     - None
   - Limitations
-    - Fear of he Lord is a start, an ingredient, a mandatory element but not the whole machine or recipe.()
-    - Without ongoing attention, it may fade into familiarity or presumption (Deuteronomy 6:10–12).
-    - It may exist alongside distance or trembling (James 2:19). It can be momentary or partial if not accompanied by right understanding and trust. ()
+    - Fear of he Lord is a start, an ingredient, a mandatory element but not the whole machine or recipe.(Philippians 2:12–13; Ecclesiastes 12:13; Matthew 23:23)
+    - Without ongoing attention, it may fade into familiarity or presumption (Deuteronomy 6:10–12; Psalm 78:11; Revelation 2:4–5)
+    - It may exist alongside distance or trembling (James 2:19). It can be momentary or partial if not accompanied by right understanding and trust. (James 2:19; Exodus 20:20; Isaiah 29:13)
     - Parables: Failures of would-be believers outlined in Jesus' parables identify various elements of failing at Holy Fear of the Lord (Matthew 13:3-23, Matthew 25:1-13, Luke 12:16-21)
   - Inference
     - Love v. Fear v. Faith: Ultimately, Loving God, Faith in God, and Fear of The Lord are at least heavily overlapping, if not identical (1 John 4:18, Hebrews 11:6, Proverbs 8:13).
@@ -180,7 +180,7 @@ This analysis proceeds on the methodological assumption that theology must arise
     - Exemptions:
       - None.  The indwelling is not a requirement but a promise.  Scripture does, however, seem to speak separately between those who believe on the Son and those who do not encounter the protoevangelium or the revealed gospel, or are too young or not sufficiently mentally present.  The Spirit is a requirement for co-heirship with Christ.  
     - Limitations:
-      - The indwelling does not prevent soulical recontamination from embracing the world or resisting fear of the Lord. ()
+      - The indwelling does not prevent soulical recontamination from embracing the world or resisting fear of the Lord. (Galatians 5:17; James 4:4; Ephesians 4:30)
       - The Holy Spirit can be (Acts 7:51), quenched (1 Thessalonians 5:19), grieved (Ephesians 4:30), or neglected (1 Timothy 4:14) which may cause dormancy or be functionally annulled in cases of hardened will or habitual rebellion. Including ignoring guidance or prompts, engaging actions or attitudes incompatible with Spirit, and loving the things of this world (Acts 7:51, 1 Timothy 4:14, Matthew 12:31-32, 1 Thessalonians 5:19, Ephesians 4:30)
     - Inference
       - Indwelling functions as a boundary marker for covenant identity (Romans 8:9) and facilitates communion with God, conviction of sin, empowerment for calling, and spiritual discernment (John 16:8–13). The presence of the Spirit is inseparable from the life of the new covenant and anticipates glorification. Lack of indwelling is correlated with disqualification (Romans 8:14; John 14:17).
@@ -245,25 +245,25 @@ This analysis proceeds on the methodological assumption that theology must arise
   - Path-3: Well Done Good and Faithful Servant (Matthew 25:21,23; 1 Corinthians 4:5; 2 Timothy 4:7-8)
     - Triggers:
       - Falling Asleep in Christ (1 Corinthians 15:18; 1 Thessalonians 4:14; Acts 7:60; 2 Peter 3:4)
-      - Finishing the Race ()
+      - Finishing the Race (2 Timothy 4:7–8; 1 Corinthians 9:24–27; Hebrews 12:1–2)
     - Destination
       - Intermediate
         - City with Foundations (Hebrews 11:10,16; Revelation 21:2; Philippians 3:20; 2 Corinthians 5:1)
       - Permanent
-        - City with Foundations above New Heavens and New Earth ()
+        - City with Foundations above New Heavens and New Earth (Revelation 21:1–4; Hebrews 12:22–24; Isaiah 65:17; 2 Peter 3:13)
   - Path-4: Succeeding Apart from Revelation of the Gospel
     - Triggers:
       - Embraced the Eternal GOD and Agape for Humans (Romans 2:14-16; Acts 17:27-28; Romans 1:19-20; Hebrews 11:6)
     - Destination
       - Intermediate
-        - Heaven ()
+        - Heaven (Luke 16:22; Matthew 8:11; Hebrews 11:13–16)
       - Permanent
-        - New Heavens & New Earth ()
+        - New Heavens & New Earth (Revelation 21:1–4; Isaiah 65:17; 2 Peter 3:13)
   - Path-5: Infants and the Cognitively Impaired
     - Triggers:
       - Unable to process law or sin (Romans 4:15; Romans 5:13; Deuteronomy 1:39; Isaiah 7:15-16)
     - Destination
       - Intermediate
-        - Heaven ()
+        - Heaven (Luke 16:22; Matthew 8:11; Hebrews 11:13–16)
       - Permanent
         - New Heaven and New Earth (Revelation 21:1-4; 2 Peter 3:13; Isaiah 65:17; Isaiah 66:22)
