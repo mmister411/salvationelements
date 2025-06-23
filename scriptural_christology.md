@@ -94,9 +94,75 @@ This analysis proceeds on the methodological assumption that theology must arise
       - Docetism: denies the true humanity of Jesus while overstating a spiritual-only nature.
       - New Age distortions: reduce Jesus to a spiritual exemplar or enlightened guru.
       - Modern liberal theology: strips Jesus of supernatural identity and treats His divinity as metaphorical.
+
 2. Word of the Lord becomes Lord Prophet, Son of David
   - Purpose / Target / Goal / Direction
-    - Identify the second divine person as the "Word of the LORD" and "Angel of the LORD" who spoke and appeared throughout the Old Testament. Show that this figure is distinct yet divine, acting in covenantal authority. Connect this to Jesus as the promised Prophet and Son of David whom David calls "Lord."  Key texts: Genesis 16, Exodus 3, 1 Samuel 3, Psalm 110:1, Matthew 22:41–46, John 12:41.
+    - Identify the second divine person as the "Word of the LORD" and "Angel of the LORD" who speaks and appears in the Old Testament with divine prerogatives and first-person covenantal authority.
+    - Show continuity from this revealed figure to Jesus, who fulfills the role of the promised Prophet like Moses and the Davidic Messiah, whom David calls “Lord.”
+    - Establish that this figure is both distinct from and yet one with the LORD, affirming plurality within the Godhead and divine self-disclosure in the economy of revelation.
+    - Key texts: Genesis 16:7–13; Exodus 3:2–6; 1 Samuel 3:1–21; Psalm 110:1; Isaiah 6:1–10 cf. John 12:41; Zechariah 2:8–11; Matthew 22:41–46; Acts 3:22–23.
+
+  - A.K.A. / Associated With / What is Meant By:
+    - The Word of the LORD (Genesis 15:1–6; 1 Samuel 3:21; Jeremiah 1:4)
+    - The Angel of the LORD (Genesis 16:7–13; Exodus 3:2–6; Judges 13:3–22)
+    - YHWH speaking from visible presence (Exodus 33:9–11; Numbers 12:6–8)
+    - The Lord who sends the Lord (Zechariah 2:9–11; Malachi 3:1)
+    - The one seated at the right hand (Psalm 110:1; Matthew 22:44)
+    - The Prophet like Moses (Deuteronomy 18:15–19; Acts 3:22)
+    - Son of David and David’s Lord (2 Samuel 7:12–14; Matthew 22:42–46)
+
+  - Source, Cause or Warrant for Event, Operation, Methodology or having Attribute 
+    - The Angel of the LORD speaks as God, identifies as God, and is worshiped, yet is distinguished from the LORD (Genesis 16:13; Exodus 3:2–6).
+    - The Word of the LORD appears as a visible person and speaks in first-person divine authority (1 Samuel 3:1–10; Jeremiah 1:4–10).
+    - The LORD says to "my Lord" in Psalm 110:1, showing an intra-YHWH relationship.
+    - Jesus applies this passage to Himself, demanding a conclusion that David’s Son is also David’s Lord (Matthew 22:41–46).
+    - John 12:41 confirms that Isaiah saw Jesus’ glory in Isaiah 6, identifying the enthroned Lord as the preincarnate Christ.
+
+  - Requirement for or Confirmation of Event Taking Place or Presence of Attribute:  
+    - Affirmation:
+      - Jesus identifies Himself as the one sent from the Father, speaking the Father's words (John 8:26–28; John 12:49–50).
+      - Jesus fulfills the pattern of the Prophet like Moses (Deuteronomy 18:15; Acts 3:22–23).
+      - Jesus is called “the Son of David” by the crowds and does not deny it (Matthew 21:9; 22:41–46).
+      - Jesus teaches with absolute authority, unlike the scribes (Mark 1:22).
+      - The people declare He is the Prophet (John 6:14), and He speaks what He hears from the Father (John 14:10).
+    
+    - Negation or Rebuttal:
+      - If Jesus were not the divine Word, then His claim to have seen Abraham and to be before him (John 8:58) would be false.
+      - If Jesus were not the Lord in Psalm 110, He could not be both David’s son and superior.
+      - If the Angel of the LORD were merely an angel, He could not accept worship or speak in the first person as YHWH.
+      - If Jesus were not the fulfillment of the Prophet like Moses, then His authority would be derivative and not final.
+      - If Jesus were not divine, the glory Isaiah saw could not have been His (John 12:41).
+
+  - Accounts For (what outcomes, consequences, or effects are resolved, enabled, or expressed):  
+    - Explains Jesus’ prophetic authority as rooted in preincarnate divine activity.
+    - Grounds Jesus’ role in redemptive revelation, speaking directly for God as God.
+    - Affirms divine continuity between Old and New Testaments.
+    - Reveals the inner-personal dynamics of the Godhead in progressive revelation.
+    - Supports Jesus’ messianic claim as both the heir to David’s throne and the eternal Word.
+
+  - Considerations:  
+    - Exemptions:
+      - Jesus did not appear in every theophany or prophetic utterance; some visions and voices are from the Father or the Spirit (Daniel 7:9–10).
+    
+    - Limitations:
+      - Prophetic office includes divine speech but does not reduce Christ’s role to mere messenger (Hebrews 1:1–3).
+      - The term “Angel” refers to function, not nature; it does not imply creaturehood.
+
+    - Inferences:
+      - The plurality seen in Old Testament passages (Psalm 110; Zechariah 2) prepares for Trinitarian theology.
+      - Jesus’ authority in teaching, healing, and judgment is grounded in His identity as the speaking Lord.
+      - The coherence of scriptural revelation requires divine continuity of the speaker.
+
+    - Alerts:
+      - Do not confuse “angel” (messenger) with ontological angelic nature.
+      - Avoid reducing Jesus to a moral reformer or sage detached from covenantal continuity.
+      - Misreading “Son of David” solely as political title misses the divine element inherent in Psalm 110.
+
+    - Corruptions:
+      - Ebionism: denies the preexistence of Christ and His divine speech before incarnation.
+      - Islam: recognizes Jesus as prophet but denies His divinity and eternal Word identity.
+      - Modern critical theology: detaches Old Testament theophanies from Christological fulfillment.
+      - Jehovah’s Witness theology: denies the full deity of the preincarnate Word.
 
 3. The Restorative Seed of His Own Creation
   - Trace the Messianic promise from Genesis 3:15 through the prophets to its fulfillment in the virgin birth and incarnation. Present Jesus as the Seed, Immanuel, the Servant of the LORD, and the Son of Man sent to redeem fallen creation from within. Key texts: Genesis 3:15, Isaiah 7:14, Isaiah 9:6, Isaiah 42 and 53, Daniel 7:13–14, Luke 1–2, John 1:14.
