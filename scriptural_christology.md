@@ -3,7 +3,7 @@ Scriptual Christology
 
 # Introduction
 
-This document aims to provide an in-depth, defensible understanding, part-by-part, of what, who, and how the scriptures present the Lord Jesus. The Lord Jesus is the sum total mystery of Scripture. Jesus is the fulcrum on which all creation pivots. It is no easy task to seek to gather together all scriptural evidence for the multiple roles and purposes that Jesus fulfills. However, it is both true that He is worthy of all service and worship and it is His divine desire that you may come to know Him as He is. Each section of this work will delve into a major area of the operations or attributes of Jesus to provide synonymous terms, truth implications, and scriptural references at every turn. May the Holy Spirit guide you to use these tools to better know the Lord Jesus as He is written.
+Christianity rises or falls on the nature of Jesus. This document aims to provide an in-depth, defensible understanding, part-by-part, of what, who, and how the scriptures present the Lord Jesus. The Lord Jesus is the sum total mystery of Scripture. Jesus is the fulcrum on which all creation pivots. It is no easy task to seek to gather together all scriptural evidence for the multiple roles and purposes that Jesus fulfills. However, it is both true that He is worthy of all service and worship and it is His divine desire that you may come to know Him as He is. Each section of this work will delve into a major area of the operations or attributes of Jesus to provide synonymous terms, truth implications, and scriptural references at every turn. May the Holy Spirit guide you to use these tools to better know the Lord Jesus as He is written.
 
 #### Hermeneutical Disclaimer:
 
