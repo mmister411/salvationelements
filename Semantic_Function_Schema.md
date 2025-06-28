@@ -1,4 +1,17 @@
 # Semantic Domain Schema for Propositional Analysis
+
+## Documentation
+
+The **Semantic Domain Schema** is a structured analytical tool for explicational analysis with a high degree of conceptual rigor. It emphasizes logical structure, terminological precision, and categorical separation. It is not a summary or topical overview. It is a logic-based, condition-sensitive diagnostic form that defines what something is called, what it does, how it works, and under what conditions it operates.
+
+It pivots on ontological domains or modes.  An Event or a Relationship or a Role or Entity Attributes etc. would be handed separately. Subheadings and instructions  present for all to delineate what sections are meant to be filled in for what domain.  The schema is meant to be wholly instantiated separately per applicable domain.  If procedure, then we're only talking about a procedure, if there were a role associated with the procedure, it would be a full stop different instantiation not be me mixed.
+
+This schema is designed to support fractal-like instantiation for bubbling-up to dense, comprehensive propositional documentaiton. Many concepts in the created order are dense and multifaceted.  If broken down first, propositionally level set, then built back up, much preventable confusion can be reduced. 
+
+---
+
+## Schema
+
 - Functional/Mechanical/Concretely Descriptive Title of Attribute, Relationship, Role or Event
   - Synonymous Terminology
     - All Domains
@@ -27,12 +40,4 @@
       - Exemptions (Circumstances where Element would otherwise function but not applicable):  
       - Limitations (Boundaries of the Element's designed validity, effect activation or inclusion):
       - Alerts (Warnings, Admonitions, Pitfalls):  
----
-
-## Semantic Domain Schema: Updated Documentation
-
-The **Semantic Domain Schema** is a structured analytical tool for explicational analysis with a high degree of conceptual rigor. It emphasizes logical structure, terminological precision, and categorical separation. It is not a summary or topical overview. It is a logic-based, condition-sensitive diagnostic form that defines what something is called, what it does, how it works, and under what conditions it operates.
-
-It is aware of ontological domains or modes.  An Event or a Relationship or a Role or Entity Attributes etc. would be handed separately. Subheadings and instructions  present for all to delineate what sections are meant to be filled in for what domain.  The schema is meant to be wholly instantiated separately per applicable domain.  If procedure, then we're only talking about a procedure, if there were a role associated with the procedure, it would be a full stop different instantiation not be me mixed.
-
 ---
