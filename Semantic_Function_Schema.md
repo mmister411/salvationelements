@@ -6,7 +6,8 @@ The **Semantic Domain Schema** is a structured analytical tool for explicational
 
 It pivots on ontological domains or modes. An event, a relationship, a role, entity attributes, etc. would be handled separately. All sections are labeled with subheadings and instructions. Each applicable domain should fully instantiate the schema independently. If it's a procedure, we're merely discussing a procedure. If a role is attached to the procedure, it would require a completely different instantiation, not a combination.
 
-The design of this schema facilitates fractal-like instantiation, leading to dense and comprehensive propositional documentation. Many concepts in the created order are dense and multifaceted. If broken down first, propositionally level set, and then built back up, much preventable confusion can be reduced.
+The design of this schema facilitates fractal-like instantiation, leading to dense and comprehensive propositional documentation. Many concepts in the created order are dense and multifaceted, requiring discrete, rigorous unpacking to preserve conceptual clarity. If broken down first, propositionally level set, and then built back up, much preventable confusion can be reduced.
+
 ---
 
 ## Schema
