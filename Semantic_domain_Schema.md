@@ -2,7 +2,7 @@
 
 ## Documentation
 
-The **Semantic Domain Schema** is a structured analytical tool for explicational analysis with a high degree of conceptual rigor. It emphasizes logical structure, terminological precision, and categorical separation. It is not a summary or topical overview. It is a logic-based, condition-sensitive diagnostic form that defines what something is called, what it does, how it works, and under what conditions it operates.
+The **Semantic Domain Schema** is a structured analytical tool for explicational analysis with high support for disambiguation. It emphasizes logical structure, terminological precision, and categorical separation. It is not a summary or topical overview. It is a logic-based, condition-sensitive diagnostic form that defines what something is called, what it does, how it works, and under what conditions it operates.
 
 It pivots on ontological domains or modes. An event, a relationship, a role, entity attributes, etc. would be handled separately. All sections are labeled with subheadings and instructions. Each applicable domain should fully instantiate the schema independently. If it's a procedure, we're merely discussing a procedure. If a role is attached to the procedure, it would require a completely different instantiation, not a combination.
 
