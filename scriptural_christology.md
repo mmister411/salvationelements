@@ -13,8 +13,10 @@ This analysis proceeds on the methodological assumption that theology must arise
 
 
 - Uncreated Divinity, Very God from Very God
+
   - Purpose / Target / Goal / Direction
     - Establish the full deity of Jesus Christ as uncreated, co-eternal, and consubstantial with the Father and Spirit. Some key texts: John 1:1–3, Colossians 1:15–20, Hebrews 1:3–6, Philippians 2:5–11, Matthew 28:19.
+
   - Synonymous Terminology
     - Shared Signals or Nomenclature for the Same Signified / A.K.A. / Closely Associated With / What is Meant By):
       - YAHWEH rained down brimstone from YAHWEH (Genesis 19:24; Genesis 1:26; Genesis 3:22; Genesis 11:7; Isaiah 6:8; Hosea 1:7; Zechariah 2:9–11; Malachi 3:1; Psalm 110:1; Daniel 7:13–14; Matthew 3:16–17; John 1:1; John 17:5)
@@ -401,7 +403,6 @@ This analysis proceeds on the methodological assumption that theology must arise
 
   - Purpose / Target / Goal / Direction
     - Demonstrate that the continued presence of the risen Christ and the Father with the Church is realized through the Holy Spirit.
-    - Emphasize the Spirit’s role as the indwelling, empowering, guiding, and comforting presence of God until Christ’s visible return.
     - Show that this presence fulfills Jesus’ promise to be with His people always and anticipates the final union of God with humanity.
     - Key texts: John 14:16–23; Acts 2:1–4; Romans 8:9–11, 26–27; 1 Corinthians 3:16; Revelation 21:3.
 
@@ -412,26 +413,24 @@ This analysis proceeds on the methodological assumption that theology must arise
         - The One who makes us God's dwelling (1 Corinthians 3:16; Ephesians 2:22)
         - The seal of adoption and sonship (Romans 8:15–16)
         - The abiding presence of Christ with His people (Matthew 28:20; John 14:18–23)
+        - I am with you always (Matthew 28:20)
+        - I will come to you (John 14:18)
 
   - Evidentiary Statements
     - Assertions of truth, warrant, or evidence of attributes
-      - Jesus promised that after His ascension, He would send the Spirit from the Father (John 14:16–17; John 16:7).
-      - At Pentecost, the promised Spirit was poured out upon the Church (Acts 2:1–4, 33).
-      - The Spirit indwells all who belong to Christ, marking them as His (Romans 8:9; 1 Corinthians 6:19–20).
+      - I will never leave you nor forsake you (Hebrews 13:5)
       - The Spirit mediates the presence of both the Father and the Son (John 14:23; Romans 8:11).
-      - The Spirit leads, teaches, convicts, empowers, and intercedes (John 16:13; Romans 8:14, 26–27).
+      - Where two or three are gathered in my name, there am I among them (Matthew 18:20)
+      - We will come to him and make our home with him (John 14:23)
       - The Spirit is the guarantee of our future inheritance and resurrection (Ephesians 1:13–14; Romans 8:11).
       - Jesus said He would not leave His disciples as orphans but would come to them (John 14:18).
-      - The Spirit came visibly at Pentecost and continues to fill believers (Acts 2; Galatians 4:6).
-      - Believers are described as temples of the Holy Spirit (1 Corinthians 3:16; 6:19).
-      - The Spirit enables believers to confess Christ, call God Father, and walk in holiness (1 Corinthians 12:3; Romans 8:14–16).
-      - The Church grows in unity and power through the Spirit (Ephesians 4:3–4; Acts 9:31).
+      - The Lord stood by me and strengthened me (2 Timothy 4:17)
     - Rebuttals to known objections
       - If the Spirit were not given, Jesus' promise to be with His people would fail (Matthew 28:20; John 14:16).
       - If the Spirit did not dwell within believers, they would not belong to Christ (Romans 8:9).
       - If the Spirit were not divine, He could not indwell, sanctify, or reveal the mind of God (1 Corinthians 2:10–11).
       - If God were not with His people now, the Church would be powerless and blind (John 15:5; Romans 8:26).
-      - If the Spirit were absent, there could be no true union, no guidance, no holiness (Galatians 5:16–25).
+      - If Christ were only in heaven, He could not appear to Paul on the road (Acts 9:4–5)
     - Accounts For (what outcomes, consequences, or effects are resolved, enabled, or expressed):  
       - Enables the Church to live in ongoing communion with Christ and the Father (John 14:23).
       - Empowers believers for witness, endurance, and sanctification (Acts 1:8; Galatians 5:22–23).
