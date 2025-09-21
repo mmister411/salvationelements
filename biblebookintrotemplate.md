@@ -17,12 +17,13 @@ When our axiomatic starting point is that reality is in the hands of an eternal 
 
 # Comprehensive Overview of the Book of [Book Name]
 
-## Core Details
+## Canon Details
 - **Book Name**: [Full name of the book]
 - **Section**: [Part of the Bible it belongs to, e.g., Pentateuch, Historical Books, Gospels, etc.]
 - **Subsection**: [Grouping within the canon, e.g., Major Prophets, Minor Prophets, Pauline Epistles]
-- **Group**: [Narrative (e.g Genesis, Judges), Declarative (e.g Leviticus, Proverbs), Prophetic (e.g. Deuteronomy, Revelation)]
-- **Canon Order Book Number**: [Position in the canonical sequence]
+- **Genre**: [Narrative (e.g Genesis, Judges), Declarative (e.g Leviticus, Proverbs), Prophetic (e.g. Deuteronomy, Revelation)]
+- **Testament Order Book Number**: [Position in the canonical sequence]
+- **Bible Order Book Number
 - **Chapter Count**: [Total number of chapters in the book]
 
 ## Authorship
