@@ -2,12 +2,6 @@
 
 
 ```mermaid
-
----
-config:
-  layout: elk
-  theme: neo-dark
----
 flowchart RL
 
 %% Substrate Level Definition Network
