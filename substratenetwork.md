@@ -3,6 +3,7 @@
 
 ```mermaid
 ---
+layout: elk
 ---
 flowchart RL
 
