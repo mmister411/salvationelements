@@ -24,8 +24,7 @@ Admonition
 
 
 Adultery
-
-Introducing an external party into exclusive areas, aspects or resources of a relationship, agreement or commitment whether detriment or degradation is detectable or not.
+: Introducing an external party into exclusive areas, aspects or resources of a relationship, agreement or commitment whether detriment or degradation is detectable or not.
 
 
 Affinity
