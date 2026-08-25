@@ -179,8 +179,7 @@ Resurrection
 
 Righteousness
 
-Righteousness is the degree of harmony of a body of choices, premises, or properties against the intonation of God’s righteousness or His perspective.
-
+Righteousness is an attributed, sustained, or emergent status of privilege-bearing degree of alignment, constituted through self-internalized, externally directed, or awareness-independent membership in or congruence with a community, a system of ordered operations, or a particular person, bearing consequences for relational integrity harmonized to God’s character or communicated intentions.
 
 Salvation
 
