@@ -14,7 +14,23 @@ Ordinary definitions often split a word into separate senses. Ordinary definitio
 
 Substrates may utilize other substrates in their mechanics while remaining substrate-level definitions. A graph naturally grows from this network of relationships. It shows where one substrate requires, instantiates, calibrates, implies, or otherwise acts through another substrate. The graph surfaces how nested some substrates are and how foundational some others are. As is native to meaning and language, there are recurring structures, dependencies, tensions, and relationships whose signal is lost in the noise floor when examined alone. The graph adds a layer of communication starting from how substrates ask what persists as a signal to what emerges from the symphony of those signals.
 
-# Substrates
+# Building Substrate level definitions
+
+## Principles of Semiotic Substrates
+
+Building Substrate Level Definitions 
+
+1. Substrate is the underlying reality in relation to which another reality is borne, formed, builds up from, is instantiated, inherits from, or operates. In the context of these principles, a substrate is the shared signal of sense, referent, mechanics, or their coordination that persists through the majority range of a concept’s usage and accounts for why its differentiated uses remain uses of the same term.
+2. A substrate-level definition statement emerges from comparing lexical, definitional, synonymic, modern, antiquated, mechanical, semiotic, and other relevant uses or structures of a concept and distilling the persistent components and features, whether as semiotic primitives or other substrates, that generally must remain whole in order for any given instance of the proposed substrate to be validly recognizable as itself.
+3. Evidence bears upon substrate distillation according to the coherence of its yield, the magnitude of its impact upon the resulting structure, and its nearness to substrate-like functionality. Mere association, resemblance, frequency, antiquity, or lexical proximity does not independently establish substrate relevance.
+4. A substrate definition is valid if the majority range of usage is covered, so that marginal uses do not insert unwarranted mutations or spiral substrate construction into loops or incoherence. Majority coverage concerns explanatory range rather than determination by prevalence.
+5. A feature is constitutive of the substrate only when the category cannot retain its identity without it.
+6. A single substrate may admit differentiated participation, operation, or manifestation according to agent, capacity, ontological level, context, or relation without thereby dividing into distinct substrates, provided the common nucleus remains structurally explanatory across those differences.
+7. While simplicity or compression can be a common property, substrates are agnostic to complexity because some concepts distill to one sentence while others are substratively multidimensional, innately requiring sentences and list chains. A substrate may therefore possess a clear and present nucleus regardless of how many constitutive nucleons compose it.
+8. A successful substrate-level definition carries enough of the shared signal to explain the term’s differentiated uses without requiring separate glosses to supply the unity missing from the definition itself. Its explanatory continuity should also make structurally faithful analogical or cross-domain extensions intelligible from the substrate itself.
+9. Substrate distillation terminates when further decomposition ceases to increase the coherent explanatory yield of the concept under treatment and instead chiefly begins analyzing the substrates from which its own substrate is composed.
+
+# Substrate Corpus
 
 
 
