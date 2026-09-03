@@ -10,6 +10,23 @@ A substrate-level definition constructs a shared signal that persists under the 
 
 Ordinary definitions often split a word into separate senses. Ordinary definitions often use synonyms to describe a word, rather than explaining the underlying functional mechanisms at work. A substrate-level definition reveals the underlying signal that enables different senses and contexts to utilize the same word. When it works well, you get one definition-like statement that may clarify what's different and what's the same under a given iteration of the term. In some cases, hidden nuance in the usage of a term can be recovered when checked against its substrate. 
 
+### For what?
+
+Substrate work is valuable because it trains attention toward the reality or operation that persists across a concept’s variable expressions. Its usefulness lies in making relations more visible: what a thing depends upon, what it changes, what it requires, what it excludes, what it permits, and what follows from it.
+
+Substrate analysis can become edifying by exposing conflations, mistaken relations, and assumptions that familiar language can otherwise leave unexamined. Confusion often persists because several realities have been compressed together, one relation has been mistaken for another, or a familiar term has been allowed to carry more meaning than anyone has actually examined. Careful distillation can distinguish what belongs together from what has become associated through habit.
+
+A person becomes better able to distinguish identity from resemblance, cause from correlation, function from intention, appearance from operation, and legitimate extension from distortion. Making these distinctions improves the conditions under which right judgment can occur.
+
+The same work strengthens self-examination. People often interpret their own actions through labels that already contain favorable conclusions about what those actions are. Looking beneath the label toward operation and consequence makes it easier to ask what is actually happening rather than what one prefers to call it.
+
+It can also improve disagreement. Many disputes are sustained by hidden differences in how the same term is being used, or by different terms being used for substantially overlapping realities. Making the operative structure explicit can reveal where disagreement is real, where it is terminological, and where both sides have been speaking past one another. Clarification can locate substantive disagreement more accurately by separating actual differences from differences produced by terminology.
+
+When concepts are understood relationally rather than in isolation, knowledge becomes easier to connect, remember, test, and apply. One clarified relation can illuminate another. Recurring dependencies, tensions, and correspondences can reveal larger patterns in how the material is organized.
+
+Repeated attention to underlying structure can cultivate patience with complexity, resistance to false simplicity, greater care in judgment, and greater willingness to revise one’s own understanding when the relations no longer hold. The work becomes edifying when clarification changes not only what a person can say, but what a person can notice.
+
+When clarification changes perception, the work of definition becomes a discipline of seeing. The question is no longer only what a term means, but what reality has been brought into view, how that reality is structured, and how seeing it more faithfully changes judgment and action.
 
 # Building Substrate level definitions
 
@@ -27,6 +44,27 @@ Building Substrate Level Definitions
 8. A successful substrate-level definition carries enough of the shared signal to explain the term’s differentiated uses without requiring separate glosses to supply the unity missing from the definition itself. Its explanatory continuity should also make structurally faithful analogical or cross-domain extensions intelligible from the substrate itself.
 9. Substrate distillation terminates when further decomposition ceases to increase the coherent explanatory yield of the concept under treatment and instead chiefly begins analyzing the substrates from which its own substrate is composed.
 10. Substrates are ultimately not definitions in a traditional reference-work sense and can, case by case, cover some upstream or downstream material in order to hone a particular signal.
+
+## Substrate Analytical Work
+
+A substrate-level definition constructs the shared reality, relation, operation, or structure that a term recurrently summons across the majority range of its legitimate uses, using the word as an entry point rather than treating the lexical object as the full boundary of the substrate. The term as linguistic sign is the entry point through which the substrate is approached. The substrate is what those uses repeatedly call into view. Hypernyms, synonyms, and hyponyms may summon the same substrate, summon only part of it, or point toward different structures, because a substrate is indicated through language rather than exhaustively embodied in any one term.
+
+Across different uses, a term may name, imply, instantiate, or analogically extend the same substrate, while the realities expressed through those uses may participate in or depend upon it in different ways. Substrate construction therefore asks less what a word means in isolation than what its major uses recurrently bring into view. The result must be broad enough to account for those uses without becoming so general that neighboring substrates fit equally well.
+
+Expression, explication, enactment, and evolution serve this construction. Expression establishes the range of uses and the candidate realities, relations, operations, or structures they summon or imply. Explication exposes the distinctions, relations, and structures articulated by competent users, translators, commentators, and specialists, or preserved in reference works and traditions. Enactment reveals what the candidate substrate does or changes when instantiated: what it organizes, permits, requires, alters, produces, constrains, or instantiates. Evolution tests what persists as the term changes across time, domains, languages, and traditions.
+
+Evidence from these passes bears upon the substrate according to how coherently a feature explains major usage, how much of that usage depends upon it, and how persistently it survives relevant variation. Frequency, resemblance, association, antiquity, lexical proximity, or cultural prominence cannot establish substrate status by themselves. A feature belongs in the construction when removing it materially weakens the substrate’s ability to account for an important range of uses. Marginal uses may clarify boundaries or expose structure, but they should not force features into the substrate that weaken its explanatory coherence across the majority range.
+
+The resulting substrate need not be coextensive with the content ordinarily assigned to the term because any one lexical definition may express only part of what usage repeatedly points toward. A substrate may also manifest differently by agent, capacity, ontological level, context, relation, or domain while remaining one substrate where the same underlying relation or operation accounts for those differences. Domain-specific substrates may therefore be constructed where a domain exhibits a stable and discriminating configuration not required across the broader usage range, but those domain-specific features should not be forced into the more general substrate.
+
+Analogical extension does not by itself divide a substrate. Where the same substrate relation continues to organize both the direct and extended uses, the analogical use may remain participation in the same substrate. Unrelated homonyms, by contrast, should not be forced into artificial unity simply because they share a lexical form.
+
+A substrate may be constituted by, conditioned by, or operative through other substrates without becoming identical to them. The substrate-level statement identifies the relations by which contributing substrates constitute, condition, or participate in the substrate under construction, but decomposition should stop when further analysis no longer clarifies that substrate and chiefly begins constructing the substrates through which it operates.
+
+Identifying and recording relations among substrates produces a network. One substrate may require another, instantiate it, calibrate it, corrupt it, contradict it, participate in it, or arise as one of its forms. The graph records these relations among substrates rather than constructing a taxonomy of the terms that point toward them.
+
+The work is therefore to move from term to what its uses recurrently summon, from variable usage to substrate construction, and from constructed substrates to the relations by which they depend upon, instantiate, condition, or oppose one another. The term supplies the point of entry. The substrate is the construction formed from what its uses recurrently summon.
+
 
 # Substrate Corpus
 
