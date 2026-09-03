@@ -78,6 +78,9 @@ Baptism
 
 --not yet substrated--
 
+Breach
+
+A Breach is the determinate rupture of a specific integrity, boundary, relation, order, or obligation, such that what it maintained becomes opened, violated, exposed, or rendered discontinuous.
 
 Christophany
 
@@ -91,8 +94,7 @@ A formal and binding agreement between two or more parties that establishes mutu
 
 Edification
 
-Edification is a relational process operating through example, exhortation, instruction, worship, service, or suffering together to facilitate formation, reinforcement, or constructive increase of covenantal coherence; capacities for bearing and expressing what is holy; or orientation towards rightful function, discernment, stability, and manifestation of divine life by or within a person, people, or structure sufficient to resist collapse, fragmentation, or contradiction.
-
+Edification is the constructive formation of persons or communities through influences that increase their fitting participation in what sustains their proper good, coherence, and maturity.
 
 Exortation
 
