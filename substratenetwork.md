@@ -10,9 +10,6 @@ A substrate-level definition constructs a shared signal that persists under the 
 
 Ordinary definitions often split a word into separate senses. Ordinary definitions often use synonyms to describe a word, rather than explaining the underlying functional mechanisms at work. A substrate-level definition reveals the underlying signal that enables different senses and contexts to utilize the same word. When it works well, you get one definition-like statement that may clarify what's different and what's the same under a given iteration of the term. In some cases, hidden nuance in the usage of a term can be recovered when checked against its substrate. 
 
-### But a Graph?
-
-Substrates may utilize other substrates in their mechanics while remaining substrate-level definitions. A graph naturally grows from this network of relationships. It shows where one substrate requires, instantiates, calibrates, implies, or otherwise acts through another substrate. The graph surfaces how nested some substrates are and how foundational some others are. As is native to meaning and language, there are recurring structures, dependencies, tensions, and relationships whose signal is lost in the noise floor when examined alone. The graph adds a layer of communication starting from how substrates ask what persists as a signal to what emerges from the symphony of those signals.
 
 # Building Substrate level definitions
 
@@ -47,6 +44,11 @@ Adultery
 Affinity
 
 Affinity is the readiness of one referent to effectually interact with another referent.
+
+
+Affliction
+
+Affliction is the imposition or endured presence of a condition that constrains, wounds, burdens, or diminishes a creature’s ordinary capacity for flourishing, thereby placing life under adverse pressure through which vulnerability, dependence, fidelity, corruption, endurance, judgment, or restoration may become manifest.
 
 
 Agape
@@ -251,6 +253,10 @@ Wrath is volitional, adverse response enacted upon some aspect of reality by at 
 ## The Graph
 
 The graph is a living document that is not all inclusive of substrate level definitions that have been authored.  Terms bearing need of substrate level analysis but are largely islands are not mentioned in the graph until understood to have edges for the sake of space economy in the graph's code. What this graph is not is a theological taxonomy. It is constructing a relational semantic field in which theology becomes visible through the invariant mechanics of the terms themselves and through the structures that emerge when those mechanics are connected. Specific morality, named or higher order theology, or other systems with particularness are not intended.  There remains intention to examine mechanics, margins and majesty while allowing mystery except as a mask for mitigable muddle.
+
+### Why a Graph?
+
+Substrates may utilize other substrates in their mechanics while remaining substrate-level definitions. A graph naturally grows from this network of relationships. It shows where one substrate requires, instantiates, calibrates, implies, or otherwise acts through another substrate. The graph surfaces how nested some substrates are and how foundational some others are. As is native to meaning and language, there are recurring structures, dependencies, tensions, and relationships whose signal is lost in the noise floor when examined alone. The graph adds a layer of communication starting from how substrates ask what persists as a signal to what emerges from the symphony of those signals.
 
 ## Mermaid
 
