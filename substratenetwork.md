@@ -94,6 +94,10 @@ Agape
 
 An immaterial, reciprocity-immune affinity, harmonized to the intrinsic value of personhood, rooted in eternal purpose, and unaltered by external conditions or internal inclinations.
 
+Agreement
+
+Agreement is multiparty assent to one or more particular present or future, momentary or sustained alignments of conditions, where those conditions admit some meaningful degree of valid and invalid realization, maintenance, alteration, or violation.
+
 
 Alignment
 
@@ -154,11 +158,6 @@ God
 God is a title, relational designation, or description of substance by which the referent is identified according to what it is, the position it occupies relative to others, or the status under which it is recognized, whether warranted or not. In exactly one case, all three coincide without restriction relative to all contingent reality: the title is universally proper, the relation universally superordinate, and the substance intrinsically correspondent to the designation. In every other case, ascription as god is narrowed in at least one respect, whether of existential or relational contingency, scope, participation, representation, or correspondence to the fullness of the term.
 
 
-Gospel
-
---not yet substrated--
-
-
 Grace
 
 The direct or indirect giving of blessing or benevolence, healing of harm, preventing of peril, or otherwise positive disposition towards one or more persons, especially if altruistically, for God’s glory or the sake of the Gospel.
@@ -172,11 +171,6 @@ Holiness is compatibility with God and his intentions in substance, relationship
 Humility
 
 Humility is appropriate valuation or representation of self directly, or of situation, position, possessions, or relationships, relative to relevant upper or lower bounds intrinsically or in comparison to given referents.
-
-
-Kingdom
-
---not yet substrated--
 
 
 Least of These
@@ -217,11 +211,6 @@ Personhood is the property of a differentiable object that bears a sustained, ir
 Repentance
 
 Closing of one or more activity options through acknowledged classification of a relevant requirement, which may circumstantially correspond to a root change in cognition, disposition, or behavior.
-
-
-Resurrection
-
---not yet substrated--
 
 
 Righteousness
