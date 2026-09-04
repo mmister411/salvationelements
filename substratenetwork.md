@@ -101,7 +101,7 @@ Alignment is the property or condition among cognitive, constructed, or substant
 
 Apocalypse
 
---not yet substrated--
+Apocalypse is a revealed or inferable trajectory whose realization inexorably transforms the full operative continuity of a given world, order, or reference frame.
 
 
 Assent
