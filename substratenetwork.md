@@ -180,7 +180,7 @@ Holiness is compatibility with God and his intentions in substance, relationship
 
 Humility
 
---not yet substrated--
+Humility is appropriate valuation or representation of self directly, or of situation, position, possessions, or relationships, relative to relevant upper or lower bounds intrinsically or in comparison to given referents.
 
 
 Kingdom
