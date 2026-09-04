@@ -283,3 +283,231 @@ This security is real, but it is not mechanical possession apart from living cov
         - Heaven (Luke 16:22; Matthew 8:11; Hebrews 11:13–16)
       - Permanent
         - New Heaven and New Earth (Revelation 21:1-4; 2 Peter 3:13; Isaiah 65:17; Isaiah 66:22)
+
+
+# A Chart because Why not?
+
+flowchart TD
+
+    %% =========================================================
+    %% DIVINE PURPOSE
+    %% =========================================================
+
+    A["God's Eternal Purpose in Christ<br/>
+    Christ the Foreknown Elect One<br/>
+    Corporate Election / Adoption / Inheritance / Glorification"]
+
+    %% =========================================================
+    %% HUMAN CONDITION
+    %% =========================================================
+
+    B["Humanity in Adam"]
+
+    B1["Inherited Corruption<br/>
+    Mortal / Corruptible Human Condition"]
+
+    B2["Personal Sin<br/>
+    Judicial Guilt / Alienation"]
+
+    B3["Soulical Contamination<br/>
+    Disordered Mind / Heart / Conscience"]
+
+    B4["Spiritual Incapacity<br/>
+    Need for Life and Communion with God"]
+
+    B --> B1
+    B --> B2
+    B --> B3
+    B --> B4
+
+    %% =========================================================
+    %% SALVIFIC OPERATIONS
+    %% =========================================================
+
+    C["Replacement Human Spirit<br/>
+    New Birth / Regeneration / Quickening"]
+
+    D["Judicial Pardon<br/>
+    Justification / Forgiveness / Redemption / Reconciliation"]
+
+    E["Indwelling Holy Spirit<br/>
+    New-Covenant Promise and Gift<br/>
+    Presence / Power / Guidance / Seal / Pledge"]
+
+    F["Decontaminating the Soul<br/>
+    Cleansing / Renewal / Sanctification"]
+
+    G["Fear of the Lord<br/>
+    Reverence / Obedience / Hatred of Evil"]
+
+    B4 -->|"answered by"| C
+    B2 -->|"answered by where personal guilt exists"| D
+    B3 -->|"answered by"| F
+
+    B1 -.->|"answered finally by resurrection,<br/>incorruptibility, and glorification"| T
+
+    A -.->|"redemptive purpose and destiny"| C
+    A -.->|"atoning and reconciling purpose"| D
+    A -.->|"New-Covenant promise"| E
+    A -.->|"conformity to Christ"| F
+
+    %% =========================================================
+    %% SOURCES / INSTRUMENTS OF OPERATION
+    %% =========================================================
+
+    X1["Blood of Christ"]
+    X2["Word / Truth of God"]
+    X3["Holy Spirit"]
+
+    X1 --> D
+    X1 --> F
+
+    X2 --> C
+    X2 --> F
+    X2 --> G
+
+    X3 --> C
+    X3 --> F
+    X3 --> G
+
+    FA["Father<br/>at the Request of the Son"]
+    FA -->|"gives the promised Spirit"| E
+
+    %% =========================================================
+    %% COVENANTAL CENTER
+    %% =========================================================
+
+    H["Living Covenantal Union with Christ<br/>
+    Abiding Faith / Communion"]
+
+    C -->|"capacity for spiritual communion"| H
+    D -->|"removes guilt and relational offense"| H
+    E -->|"indwells, guides, strengthens, seals"| H
+    F -->|"cleanses for holy communion"| H
+    G -->|"orders the life toward God"| H
+
+    %% =========================================================
+    %% ONGOING SANCTIFYING DYNAMIC
+    %% =========================================================
+
+    E -->|"transforms, empowers, and guides"| F
+    E -->|"cultivates responsive obedience"| G
+    G -->|"turns from evil and resists contamination"| F
+
+    H -->|"abiding exposes the person to<br/>Spirit, Word, cleansing, and obedience"| E
+
+    %% =========================================================
+    %% DIVINE SECURITY + HUMAN RESPONSE
+    %% =========================================================
+
+    S1["Divine Keeping<br/>
+    Christ Intercedes<br/>
+    Spirit Strengthens<br/>
+    Father Keeps"]
+
+    S1 -->|"security received through living faith"| H
+
+    R1["Resistance / Grieving / Quenching<br/>
+    Love of World / Willful Sin / Unbelief"]
+
+    R1 -->|"weakens responsiveness to the Spirit"| E
+    R1 -->|"permits recontamination"| F
+    R1 -->|"erodes holy fear"| G
+    R1 -->|"can become departure from"| H
+
+    %% =========================================================
+    %% REPENTANCE / PERSEVERANCE / APOSTASY
+    %% =========================================================
+
+    PERS["Perseverance<br/>
+    Continuing in Faith / Enduring to the End"]
+
+    REP["Repentance<br/>
+    Turning Again toward God"]
+
+    H -->|"continued abiding"| PERS
+    PERS -->|"sustains the faithful course"| H
+
+    J["Apostasy / Falling Away<br/>
+    Severance from Christ<br/>
+    Recontamination / Rejection"]
+
+    H -->|"abandoned through hardened unbelief,<br/>willful rebellion, or rejection of Christ"| J
+
+    J -->|"repentance before death may restore<br/>the person's course toward God"| REP
+    REP --> H
+
+    %% =========================================================
+    %% END OF INITIAL LIFE
+    %% =========================================================
+
+    I["End of Initial Bodily Life"]
+
+    H -->|"dies abiding in the faithful course"| I
+    J -->|"dies in alienation"| I
+
+    K{"Condition at Death<br/>
+    Revelation + Response + Culpability"}
+
+    I --> K
+
+    %% =========================================================
+    %% FIVE PATHS
+    %% =========================================================
+
+    K -->|"Fails apart from explicit Gospel revelation"| L
+    K -->|"Received Gospel light and finally rejected it"| M
+    K -->|"Finishes the race in Christ"| N
+    K -->|"Responds rightly to God apart from explicit Gospel revelation"| O
+    K -->|"Unable to incur personal guilt"| P
+
+    L["Hades / Sheol<br/>
+    Torment"]
+
+    M["Hades / Torment<br/>
+    Outer Darkness"]
+
+    N["With Christ<br/>
+    City with Foundations"]
+
+    O["Blessed Intermediate State<br/>
+    Heaven"]
+
+    P["Blessed Intermediate State<br/>
+    Heaven"]
+
+    %% =========================================================
+    %% FINAL CONSUMMATION
+    %% =========================================================
+
+    Q["Resurrection and Final Judgment"]
+
+    L --> Q
+    M --> Q
+    N --> Q
+    O --> Q
+    P --> Q
+
+    R["Lake of Fire<br/>
+    Final Exclusion"]
+
+    T["New Heavens and New Earth<br/>
+    Resurrection / Glorification / Incorruptibility<br/>
+    Inheritance / Family of God<br/>
+    Service of God and the Lamb"]
+
+    %% Explicit preservation of the five-path final outcomes
+    Q -->|"Path 1: condemnation"| R
+    Q -->|"Path 2: condemnation"| R
+
+    Q -->|"Path 3: acceptance and consummation"| T
+    Q -->|"Path 4: acceptance and consummation"| T
+    Q -->|"Path 5: acceptance and consummation"| T
+
+    %% =========================================================
+    %% PREDESTINED CORPORATE DESTINY
+    %% =========================================================
+
+    A -.->|"predestined destiny of the body in Christ"| T
+    E -.->|"pledge / down payment of inheritance"| T
+    H -.->|"present participation in the life<br/>that reaches consummation"| T
