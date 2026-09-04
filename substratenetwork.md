@@ -206,6 +206,11 @@ Logic
 Logic is declaring about reality or possible realities, the declaration of relations among those declarations, and the construction of chains from any number of related declarations according to common rules representing reliable inference, such that logic is the general architecture by which information becomes assertible, relationally organized, and inferentially productive.
 
 
+Malics
+
+Malice is a corrupted propensity whereby a referent’s good becomes non-efficacious in affinity, perspective, or comparative valuation, inclining the will toward its disregard, obstruction, diminishment, or loss.
+
+
 Mercy
 
 Softening, delaying, redirecting, or healing the impact of harm, burden, or difficulty without denying truth or nullifying justice. In God, it is His patient sparing of sinners and His tender aid to the afflicted; in creatures, it is the reflection of this posture in words and actions, such as moderating truth’s delivery with compassion or alleviating another’s suffering.
