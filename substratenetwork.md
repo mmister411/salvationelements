@@ -133,10 +133,6 @@ Edification
 
 Edification is the constructive formation of persons or communities through influences that increase their fitting participation in what sustains their proper good, coherence, and maturity.
 
-Exortation
-
---not yet substrated--
-
 
 Faith
 
@@ -146,11 +142,6 @@ Faith is a trust-driven, conviction-oriented commitment to a body of truth-value
 Forgiveness
 
 Relinquishing personal requirement for justice to be paid, regardless of impenitence, while resolving to not let the fact of the offense influence future decisions or attitudes.
-
-
-Gap (Standing In...)
-
---not yet substrated--
 
 
 Glory
