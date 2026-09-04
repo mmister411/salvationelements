@@ -77,7 +77,7 @@ Admonition is the directed presentation or renewed salience of a fault, danger, 
 
 Adultery
 
-Adultery is introducing an external party into exclusive areas, aspects or resources of a relationship, agreement or commitment whether detriment or degradation is detectable or not.
+Adultery is introducing an external party into exclusive areas, aspects or resources of a relationship, agreement or commitment whether detriment or degradation is detectable or not when the breached connection is an instance of or analogous to marriage.
 
 
 Affinity
