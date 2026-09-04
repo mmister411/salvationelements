@@ -72,11 +72,12 @@ The work is therefore to move from term to what its uses recurrently summon, fro
 
 Admonition
 
---not yet substrated--
+Admonition is the directed presentation or renewed salience of a fault, danger, obligation, or consequence as corrective or preventive pressure upon judgment, disposition, or conduct.
 
 
 Adultery
-: Introducing an external party into exclusive areas, aspects or resources of a relationship, agreement or commitment whether detriment or degradation is detectable or not.
+
+Adultery is introducing an external party into exclusive areas, aspects or resources of a relationship, agreement or commitment whether detriment or degradation is detectable or not.
 
 
 Affinity
