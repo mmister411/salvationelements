@@ -111,7 +111,7 @@ Assent is the willful granting to one or more objects, events, concepts, or thei
 
 Atonement
 
---not yet substrated--
+Atonement is the remedial provision or enactment by which an incompatibility impairing an intended status, relation, or participation is effectually accounted for, reestablishing compatibility with the intended condition.
 
 
 Baptism
@@ -125,6 +125,10 @@ A Breach is the determinate rupture of a specific integrity, boundary, relation,
 Christophany
 
 --not yet substrated--
+
+Cost
+
+Cost is an actual or forecasted decrement, encumbrance, foreclosure or restorative liability impacting possession, preservation, capacity, or realizable possibility borne or required by a condition, relation, action, or outcome, relative to some referent or system of order. 
 
 
 Covenant
