@@ -287,6 +287,17 @@ This security is real, but it is not mechanical possession apart from living cov
 
 # A Chart because Why not?
 
+---
+config:
+  theme: neo-dark
+  layout: elk
+---
+
+%% Substrate Level Definition of Salvation:  Salvation is the unfolding arc of divine operation spanning from before creation into the eternal future that permits freedom to run its course so as to bring forth creatures in the image of God who, though once enemies of God, are thereafter forever His loving allies, friends, and family.
+%% System defining Selection 1: While both the two-part view of man, commonly called dichotomy, and the three-part view of man, commonly called trichotomy, are biblically plausible, our study has led us to use trichotomy as the clearest framework for describing salvation according to the Scriptures.
+%% System defining Selection 2: This analysis proceeds on the methodological assumption that theology must arise traceably from exegesis of the biblical text, while confessions, councils, catechisms, creeds, and church statements serve as subordinate witnesses that summarize and guard the faith once delivered, yet they possess authority only insofar as they agree with the God-breathed Scripture, which alone is the final rule, judge, and standard of all teaching.
+
+
 flowchart TD
 
     %% =========================================================
