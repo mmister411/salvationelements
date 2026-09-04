@@ -114,18 +114,10 @@ Atonement
 
 Atonement is the remedial provision or enactment by which an incompatibility impairing an intended status, relation, or participation is effectually accounted for, reestablishing compatibility with the intended condition.
 
-
-Baptism
-
---not yet substrated--
-
 Breach
 
 A Breach is the determinate rupture of a specific integrity, boundary, relation, order, or obligation, such that what it maintained becomes opened, violated, exposed, or rendered discontinuous.
 
-Christophany
-
---not yet substrated--
 
 Cost
 
@@ -156,7 +148,7 @@ Forgiveness
 Relinquishing personal requirement for justice to be paid, regardless of impenitence, while resolving to not let the fact of the offense influence future decisions or attitudes.
 
 
-Gap
+Gap (Standing In...)
 
 --not yet substrated--
 
@@ -171,7 +163,7 @@ God
 God is a title, relational designation, or description of substance by which the referent is identified according to what it is, the position it occupies relative to others, or the status under which it is recognized, whether warranted or not. In exactly one case, all three coincide without restriction relative to all contingent reality: the title is universally proper, the relation universally superordinate, and the substance intrinsically correspondent to the designation. In every other case, ascription as god is narrowed in at least one respect, whether of existential or relational contingency, scope, participation, representation, or correspondence to the fullness of the term.
 
 
-Gosp
+Gospel
 
 --not yet substrated--
 
@@ -206,7 +198,7 @@ Logic
 Logic is declaring about reality or possible realities, the declaration of relations among those declarations, and the construction of chains from any number of related declarations according to common rules representing reliable inference, such that logic is the general architecture by which information becomes assertible, relationally organized, and inferentially productive.
 
 
-Malics
+Malice
 
 Malice is a corrupted propensity whereby a referent’s good becomes non-efficacious in affinity, perspective, or comparative valuation, inclining the will toward its disregard, obstruction, diminishment, or loss.
 
@@ -214,11 +206,6 @@ Malice is a corrupted propensity whereby a referent’s good becomes non-efficac
 Mercy
 
 Softening, delaying, redirecting, or healing the impact of harm, burden, or difficulty without denying truth or nullifying justice. In God, it is His patient sparing of sinners and His tender aid to the afflicted; in creatures, it is the reflection of this posture in words and actions, such as moderating truth’s delivery with compassion or alleviating another’s suffering.
-
-
-Parable
-
---not yet substrated--
 
 
 Peace
@@ -229,11 +216,6 @@ The state of substance, event, or conscious experience, in creation or divinity,
 Personhood
 
 Personhood is the property of a differentiable object that bears a sustained, irreducible self as “I,” constituting the first-person locus from which reality beyond itself can be encountered.
-
-
-Prophesy
-
---not yet substrated--
 
 
 Repentance
@@ -275,19 +257,9 @@ Truth
 Information or expression that faithfully conveys reality—actual or potential—in full accord with God’s essence, word, works, or creation across time, space, or imagination, without contradiction.
 
 
-Typology
-
---not yet substrated--
-
-
 Will
 
 Will is a person’s faculty, disposition or active calibrating of affinity at the intersection of internal valuation and perceived conditions of one or more present or future realities.
-
-
-Word/Logos/Davar
-
---not yet substrated--
 
 
 Wrath
