@@ -1,10 +1,10 @@
 """
 
-# Substrate Level Definition Network
+# Substrate Level Statement Network
 
 ## A What?
 
-A substrate-level definition constructs a shared signal that persists under the majority range of a term's usage without needing additional statements through a fusion of methods found in dictionaries, lexicons, thesauruses, and concordances to produce a statement that is multivalent in nature, definitive for its term, and, when feasible, invariant in its applicability. 
+Substrate is a term to point to what is underneath that enables instantiation, building or support.  A substrate-level definition identifies and constructs the persistent reality, relation, operation, or structure that different expressions, uses, instances, or analogies repeatedly bring into view. Substrate statements emerge from a fusion of methods found in explication sources such dictionaries, lexicons, thesauruses, and concordances, expressive sources such as source texts, and lived example through the ages to produce a statement that is multivalent in nature, robustly supportsits label, and, when feasible, invariant in its applicability. 
 
 ### Ok?
 
@@ -47,7 +47,7 @@ Building Substrate Level Definitions
 
 ## Substrate Analytical Work
 
-A substrate-level definition constructs the shared reality, relation, operation, or structure that a term recurrently summons across the majority range of its legitimate uses, using the word as an entry point rather than treating the lexical object as the full boundary of the substrate. The term as linguistic sign is the entry point through which the substrate is approached. The substrate is what those uses repeatedly call into view. Hypernyms, synonyms, and hyponyms may summon the same substrate, summon only part of it, or point toward different structures, because a substrate is indicated through language rather than exhaustively embodied in any one term.
+A substrate-level definition constructs the shared reality, relation, operation, or structure that a term, phrase or concept recurrently summons across the majority range of its legitimate representations, using verbiage or particular lexical identities as entry points rather than treating lexical impression as the full boundary of the substrate. The term as linguistic sign is the entry point through which the substrate is approached. The substrate is what those uses repeatedly call into view. Hypernyms, synonyms, and hyponyms may summon the same substrate, summon only part of it, or point toward different structures, because a substrate is indicated through language rather than exhaustively embodied in any one term.
 
 Across different uses, a term may name, imply, instantiate, or analogically extend the same substrate, while the realities expressed through those uses may participate in or depend upon it in different ways. Substrate construction therefore asks less what a word means in isolation than what its major uses recurrently bring into view. The result must be broad enough to account for those uses without becoming so general that neighboring substrates fit equally well.
 
