@@ -208,6 +208,11 @@ Mercy
 Softening, delaying, redirecting, or healing the impact of harm, burden, or difficulty without denying truth or nullifying justice. In God, it is His patient sparing of sinners and His tender aid to the afflicted; in creatures, it is the reflection of this posture in words and actions, such as moderating truth’s delivery with compassion or alleviating another’s suffering.
 
 
+Offense
+
+Offense is a realized or apparently impactful disparity that may disrupt continuity, inflict breach, obstruct trajectory, or require a changed judgment, treatment, perspective, or status.
+
+
 Peace
 
 The state of substance, event, or conscious experience, in creation or divinity, where harmony and wholeness abide with the love, holiness, and glory of God.
