@@ -45,6 +45,20 @@ Building Substrate Level Definitions
 9. Substrate distillation terminates when further decomposition ceases to increase the coherent explanatory yield of the concept under treatment and instead chiefly begins analyzing the substrates from which its own substrate is composed.
 10. Substrates are ultimately not definitions in a traditional reference-work sense and can, case by case, cover some upstream or downstream material in order to hone a particular signal.
 
+## E4 Evidence Gathering
+
+Expression, Explication, Enactment, and Evolution serve substrate construction as four coordinated evidentiary passes.
+
+Expression examines the term or concept in “the wild”: books, conversation, correspondence, media, preaching, argument, storytelling, technical discourse, ordinary speech, and other situated uses. It establishes the live range of usage and reveals what speakers and writers actually summon, imply, distinguish, compress, extend, or assume when the term is used.
+
+Explication examines reference and systematized usage: dictionaries, lexicons, thesauruses, ontologies, taxonomies, technical definitions, commentaries, doctrinal formulations, and other sources that explicitly define, classify, distinguish, or organize the concept. It exposes articulated boundaries, recognized relations, formal distinctions, and conceptual structures that may remain implicit in ordinary expression.
+
+Enactment examines meaning embodied in practice: rituals, habits, procedures, institutions, customs, orthopraxy, recurrent social actions, and other cases in which the concept is instantiated through doing. Enactment reveals operative structure by showing what participants actually preserve, require, permit, prohibit, alter, restore, or accomplish when the concept is practiced rather than simply described.
+
+Evolution traces the change arc of the other three through history. It examines how expression shifts, how explication is reformulated or reorganized, and how enactment develops, contracts, fragments, persists, or acquires new forms across time. Evolution therefore functions as a diachronic axis through Expression, Explication, and Enactment, revealing both continuity and transformation.
+
+Taken together, the four E’s allow substrate construction to triangulate the recurrent reality, relation, operation, or structure from discourse, formal articulation, embodied practice, and historical development. Expression shows what is said and carried in use; Explication shows what is explicitly organized and distinguished; Enactment shows what is done; Evolution shows how each of those changes or persists through time. The substrate is distilled from the coherent signal that remains structurally explanatory across these evidentiary fields.
+
 ## Substrate Analytical Work
 
 A substrate-level definition constructs the shared reality, relation, operation, or structure that a term, phrase or concept recurrently summons across the majority range of its legitimate representations, using verbiage or particular lexical identities as entry points rather than treating lexical impression as the full boundary of the substrate. The term as linguistic sign is the entry point through which the substrate is approached. The substrate is what those uses repeatedly call into view. Hypernyms, synonyms, and hyponyms may summon the same substrate, summon only part of it, or point toward different structures, because a substrate is indicated through language rather than exhaustively embodied in any one term.
@@ -65,12 +79,13 @@ Identifying and recording relations among substrates produces a network. One sub
 
 The work is therefore to move from term to what its uses recurrently summon, from variable usage to substrate construction, and from constructed substrates to the relations by which they depend upon, instantiate, condition, or oppose one another. The term supplies the point of entry. The substrate is the construction formed from what its uses recurrently summon.
 
-
-# Substrate Corpus
-
 ## Borne Out
 
 Some substrates are headwaters or mouths, while others are the stream. Some are tributaries that can only be appreciated in the view of the wider system. Some are estuaries with multiple inlets or outlets and apparently different flows of pressing information. Substrates that are like headwaters have the luxury of being lean and self-contained with little downstream reference. Some substrates are confluences that experience multiple upstream or downstream pressures, which cannot be ignored without violence. What a substrate is not is any label that would aptly follow "simply."
+
+ 
+# Substrate Corpus
+
 
 ## Substrates
 
