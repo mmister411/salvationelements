@@ -51,9 +51,5 @@ Identifying and recording relations among substrates produces a network. One sub
 
 The work is therefore to move from term to what its uses recurrently summon, from variable usage to substrate construction, and from constructed substrates to the relations by which they depend upon, instantiate, condition, or oppose one another. The term supplies the point of entry. The substrate is the construction formed from what its uses recurrently summon.
 
-## Borne Out
-
-Some substrates are headwaters or mouths, while others are the stream. Some are tributaries that can only be appreciated in the view of the wider system. Some are estuaries with multiple inlets or outlets and apparently different flows of pressing information. Substrates that are like headwaters have the luxury of being lean and self-contained with little downstream reference. Some substrates are confluences that experience multiple upstream or downstream pressures, which cannot be ignored without violence. What a substrate is not is any label that would aptly follow "simply."
-
  
 """
