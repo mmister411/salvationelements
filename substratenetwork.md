@@ -232,11 +232,6 @@ Sin
 Sin is three related realities: knowingly culpable activity, the propensity toward such activity, and the corruption that follows from it. It operates parasitically upon affinity, distorting its host and bending will and desire into opposition against God, self, and others. Its corruptive effects may be inherited, but guilt rests solely on the one who sins. Sin results in separation from God, yet any repentant person may be freed and renewed through the atoning work of Jesus Christ and the regenerating work of the Holy Spirit.
 
 
-Spirit
-
---not yet substrated--
-
-
 Truth
 
 Information or expression that faithfully conveys reality—actual or potential—in full accord with God’s essence, word, works, or creation across time, space, or imagination, without contradiction.
