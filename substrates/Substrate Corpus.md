@@ -4,6 +4,13 @@
 
 ## What warrants addition to the corpus?
 
+Some concepts are incredibly important to life, limb, love, and living in Christ, but they often have different meanings to different people at different times. Some terms are not themselves overtly pivotal. However, this is similar to how a tree may be considered non-pivotal. However, can we know the forest if not for the trees? By analogy, the system author makes a case-by-case judgment on whether to include the tree or the forest. However, neither cellulose nor Arbor Day would receive substrate treatment. A thing being grand or being ubiquitous does not necessarily warrant including it in the corpus substrate
+
+## Borne Out
+
+Some substrates are headwaters or mouths, while others are the stream. Some are tributaries that can only be appreciated in the view of the wider system. Some are estuaries with multiple inlets or outlets and apparently different flows of pressing information. Substrates that are like headwaters have the luxury of being lean and self-contained with little downstream reference. Some substrates are confluences that experience multiple upstream or downstream pressures, which cannot be ignored without violence. What a substrate is not is any label that would aptly follow "simply."
+
+
 ## Substrates
 
 Admonition
