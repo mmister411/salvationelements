@@ -151,6 +151,11 @@ Personhood
 Personhood is the property of a differentiable object that bears a sustained, irreducible self as “I,” constituting the first-person locus from which reality beyond itself can be encountered.
 
 
+Prayer
+
+Prayer is supraphysical communication by one or more physical agents to one or more spiritual agents perceived by the physical agent as occupying an elevated relation corresponding to the communication, regarding communing, potential outcomes, ascription of value, or request for information, independent of transmission methodology or the physical agent’s spatiotemporal orientation. Prayer is still prayer when it is efficacious, without effect, positive, negative, illusory or deliusional
+
+
 Repentance
 
 Closing of one or more activity options through acknowledged classification of a relevant requirement, which may circumstantially correspond to a root change in cognition, disposition, or behavior.
