@@ -35,7 +35,7 @@ Affliction is the imposition or endured presence of a condition that constrains,
 
 Agape
 
-An immaterial, reciprocity-immune affinity, harmonized to the intrinsic value of personhood, rooted in eternal purpose, and unaltered by external conditions or internal inclinations.
+Agape is a form of love as a reciprocity-immune affinity, harmonized to the intrinsic value of personhood, rooted in the eternal purpose of Christ, and unaltered by external conditions or internal inclinations.
 
 Agreement
 
@@ -49,7 +49,7 @@ Alignment is the property or condition among cognitive, constructed, or substant
 
 Apocalypse
 
-Apocalypse is a revealed or inferable trajectory whose realization inexorably transforms the full operative continuity of a given world, order, or reference frame.
+An apocalypse is a revealed or inferable trajectory whose realization inexorably transforms the full operative continuity of a given world, order, or reference frame.
 
 
 Assent
@@ -73,7 +73,7 @@ Cost is an actual or forecasted decrement, encumbrance, foreclosure or restorati
 
 Covenant
 
-A formal and binding agreement between two or more parties that establishes mutual obligations and commitments, with varying degrees of symmetry, exclusive to its members while often including consequences for breaching the agreement
+A covenant is a formal and binding agreement between two or more parties that establishes mutual obligations and commitments, with varying degrees of symmetry, exclusive to its members while often including consequences for breaching the agreement
 
 
 Edification
@@ -88,22 +88,22 @@ Faith is a trust-driven, conviction-oriented commitment to a body of truth-value
 
 Forgiveness
 
-Relinquishing personal requirement for justice to be paid, regardless of impenitence, while resolving to not let the fact of the offense influence future decisions or attitudes.
+Forgiveness is relinquishing personal requirement for justice to be paid, regardless of impenitence, while resolving to not let the fact of the given offense influence future decisions or attitudes.
 
 
 Glory
 
-The radiated influence from weight of substance or reputation of Creator, creature or concept recognized via observer experience, reciprocated adoration or self confirmation.
+Glory is the radiated influence from weight of substance or reputation of Creator, creature or concept recognized via observer experience, reciprocated adoration or self confirmation.
 
 
 God
 
-God is a title, relational designation, or description of substance by which the referent is identified according to what it is, the position it occupies relative to others, or the status under which it is recognized, whether warranted or not. In exactly one case, all three coincide without restriction relative to all contingent reality: the title is universally proper, the relation universally superordinate, and the substance intrinsically correspondent to the designation. In every other case, ascription as god is narrowed in at least one respect, whether of existential or relational contingency, scope, participation, representation, or correspondence to the fullness of the term.
+The word or term  spelled with "g","o","d", "God" is a title, relational designation, or description of substance by which the referent is identified according to what it is, the position it occupies relative to others, or the status under which it is recognized, whether warranted or not. In exactly one case, all three coincide without restriction relative to all contingent reality: the title is universally proper, the relation universally superordinate, and the substance intrinsically correspondent to the designation. In every other case, ascription as god is narrowed in at least one respect, whether of existential or relational contingency, scope, participation, representation, or correspondence to the fullness of the term.
 
 
 Grace
 
-The direct or indirect giving of blessing or benevolence, healing of harm, preventing of peril, or otherwise positive disposition towards one or more persons, especially if altruistically, for God’s glory or the sake of the Gospel.
+Grace is the direct or indirect giving of blessing or benevolence, healing of harm, preventing of peril, or otherwise positive disposition towards one or more persons, especially if altruistically, for God’s glory or the sake of the Gospel.
 
 
 Holiness
@@ -125,6 +125,9 @@ Logic
 
 Logic is declaring about reality or possible realities, the declaration of relations among those declarations, and the construction of chains from any number of related declarations according to common rules representing reliable inference, such that logic is the general architecture by which information becomes assertible, relationally organized, and inferentially productive.
 
+Love 
+
+Love is an affinity calibrated to a value system, establishing a persistent impression of its referent upon the assenting operations of the concerned party.
 
 Malice
 
