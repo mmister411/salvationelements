@@ -1,0 +1,121 @@
+@prefix sskg: <urn:uuid:64e35724-9a26-516b-9e16-c6fa07ca8d05#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh:   <http://www.w3.org/ns/shacl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+sskg:GraphNodeShape a sh:NodeShape ;
+    sh:targetClass sskg:GraphNode ;
+    sh:property [
+        sh:path rdfs:label ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:string
+    ] ;
+    sh:property [
+        sh:path sskg:inSubstrateCorpus ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:boolean
+    ] ;
+    sh:sparql [
+        sh:message "A relation between graph nodes must use a predicate defined by the SSKG relation vocabulary." ;
+        sh:select """
+            SELECT $this ?predicate ?object
+            WHERE {
+                $this ?predicate ?object .
+                ?object a sskg:GraphNode .
+                FILTER (?predicate != rdf:type)
+                FILTER NOT EXISTS { ?predicate skos:definition ?definition . }
+            }
+        """
+    ] .
+
+sskg:RelationSourceShape a sh:NodeShape ;
+    sh:targetSubjectsOf
+        sskg:Balances,
+        sskg:Calibrates,
+        sskg:Contradicts,
+        sskg:Corrupts,
+        sskg:Counterfeits,
+        sskg:Covers,
+        sskg:Displaces,
+        sskg:Echoes,
+        sskg:FormOf,
+        sskg:Fulfills,
+        sskg:GrantedBy,
+        sskg:Implies,
+        sskg:Instantiates,
+        sskg:Offends,
+        sskg:PoweredBy,
+        sskg:Recalibrates,
+        sskg:RedeemsFor,
+        sskg:Requires,
+        sskg:RootedIn,
+        sskg:Translates ;
+    sh:class sskg:GraphNode .
+
+sskg:RelationTargetShape a sh:NodeShape ;
+    sh:targetObjectsOf
+        sskg:Balances,
+        sskg:Calibrates,
+        sskg:Contradicts,
+        sskg:Corrupts,
+        sskg:Counterfeits,
+        sskg:Covers,
+        sskg:Displaces,
+        sskg:Echoes,
+        sskg:FormOf,
+        sskg:Fulfills,
+        sskg:GrantedBy,
+        sskg:Implies,
+        sskg:Instantiates,
+        sskg:Offends,
+        sskg:PoweredBy,
+        sskg:Recalibrates,
+        sskg:RedeemsFor,
+        sskg:Requires,
+        sskg:RootedIn,
+        sskg:Translates ;
+    sh:class sskg:GraphNode .
+
+sskg:RelationVocabularyShape a sh:NodeShape ;
+    sh:targetNode
+        sskg:Balances,
+        sskg:Calibrates,
+        sskg:Contradicts,
+        sskg:Corrupts,
+        sskg:Counterfeits,
+        sskg:Covers,
+        sskg:Displaces,
+        sskg:Echoes,
+        sskg:FormOf,
+        sskg:Fulfills,
+        sskg:GrantedBy,
+        sskg:Implies,
+        sskg:Instantiates,
+        sskg:Offends,
+        sskg:PoweredBy,
+        sskg:Recalibrates,
+        sskg:RedeemsFor,
+        sskg:Requires,
+        sskg:RootedIn,
+        sskg:Translates ;
+    sh:property [
+        sh:path rdf:type ;
+        sh:hasValue owl:ObjectProperty
+    ] ;
+    sh:property [
+        sh:path rdfs:label ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:string
+    ] ;
+    sh:property [
+        sh:path skos:definition ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:string
+    ] .

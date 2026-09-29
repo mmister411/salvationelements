@@ -1,0 +1,217 @@
+@prefix sskg: <urn:uuid:64e35724-9a26-516b-9e16-c6fa07ca8d05#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+sskg:Adultery a sskg:GraphNode ;
+    rdfs:label "Adultery" ;
+    sskg:inSubstrateCorpus true .
+
+sskg:Affinity a sskg:GraphNode ;
+    rdfs:label "Affinity" ;
+    sskg:inSubstrateCorpus true .
+
+sskg:Agape a sskg:GraphNode ;
+    rdfs:label "Agape" ;
+    sskg:inSubstrateCorpus true .
+
+sskg:Agreement a sskg:GraphNode ;
+    rdfs:label "Agreement" ;
+    sskg:inSubstrateCorpus true .
+
+sskg:Alignment a sskg:GraphNode ;
+    rdfs:label "Alignment" ;
+    sskg:inSubstrateCorpus true .
+
+sskg:Assent a sskg:GraphNode ;
+    rdfs:label "Assent" ;
+    sskg:inSubstrateCorpus true .
+
+sskg:Atonement a sskg:GraphNode ;
+    rdfs:label "Atonement" ;
+    sskg:inSubstrateCorpus true .
+
+sskg:Breach a sskg:GraphNode ;
+    rdfs:label "Breach" ;
+    sskg:inSubstrateCorpus true .
+
+sskg:Commitment a sskg:GraphNode ;
+    rdfs:label "Commitment" ;
+    sskg:inSubstrateCorpus false .
+
+sskg:Cost a sskg:GraphNode ;
+    rdfs:label "Cost" ;
+    sskg:inSubstrateCorpus true .
+
+sskg:Covenant a sskg:GraphNode ;
+    rdfs:label "Covenant" ;
+    sskg:inSubstrateCorpus true .
+
+sskg:Deliverance a sskg:GraphNode ;
+    rdfs:label "Deliverance" ;
+    sskg:inSubstrateCorpus false .
+
+sskg:Exploitation a sskg:GraphNode ;
+    rdfs:label "Exploitation" ;
+    sskg:inSubstrateCorpus false .
+
+sskg:Faith a sskg:GraphNode ;
+    rdfs:label "Faith" ;
+    sskg:inSubstrateCorpus true .
+
+sskg:Forgiveness a sskg:GraphNode ;
+    rdfs:label "Forgiveness" ;
+    sskg:inSubstrateCorpus true .
+
+sskg:God a sskg:GraphNode ;
+    rdfs:label "God" ;
+    sskg:inSubstrateCorpus true .
+
+sskg:Grace a sskg:GraphNode ;
+    rdfs:label "Grace" ;
+    sskg:inSubstrateCorpus true .
+
+sskg:Holiness a sskg:GraphNode ;
+    rdfs:label "Holiness" ;
+    sskg:inSubstrateCorpus true .
+
+sskg:Idolatry a sskg:GraphNode ;
+    rdfs:label "Idolatry" ;
+    sskg:inSubstrateCorpus false .
+
+sskg:Judgment a sskg:GraphNode ;
+    rdfs:label "Judgment" ;
+    sskg:inSubstrateCorpus false .
+
+sskg:Justice a sskg:GraphNode ;
+    rdfs:label "Justice" ;
+    sskg:inSubstrateCorpus false .
+
+sskg:Logic a sskg:GraphNode ;
+    rdfs:label "Logic" ;
+    sskg:inSubstrateCorpus true .
+
+sskg:Malice a sskg:GraphNode ;
+    rdfs:label "Malice" ;
+    sskg:inSubstrateCorpus true .
+
+sskg:Mercy a sskg:GraphNode ;
+    rdfs:label "Mercy" ;
+    sskg:inSubstrateCorpus true .
+
+sskg:Personhood a sskg:GraphNode ;
+    rdfs:label "Personhood" ;
+    sskg:inSubstrateCorpus true .
+
+sskg:Power a sskg:GraphNode ;
+    rdfs:label "Power" ;
+    sskg:inSubstrateCorpus false .
+
+sskg:Repentance a sskg:GraphNode ;
+    rdfs:label "Repentance" ;
+    sskg:inSubstrateCorpus true .
+
+sskg:Righteousness a sskg:GraphNode ;
+    rdfs:label "Righteousness" ;
+    sskg:inSubstrateCorpus true .
+
+sskg:Salvation a sskg:GraphNode ;
+    rdfs:label "Salvation" ;
+    sskg:inSubstrateCorpus true .
+
+sskg:Sanctification a sskg:GraphNode ;
+    rdfs:label "Sanctification" ;
+    sskg:inSubstrateCorpus true .
+
+sskg:Sin a sskg:GraphNode ;
+    rdfs:label "Sin" ;
+    sskg:inSubstrateCorpus true .
+
+sskg:Treachery a sskg:GraphNode ;
+    rdfs:label "Treachery" ;
+    sskg:inSubstrateCorpus false .
+
+sskg:Will a sskg:GraphNode ;
+    rdfs:label "Will" ;
+    sskg:inSubstrateCorpus true .
+
+sskg:Wrath a sskg:GraphNode ;
+    rdfs:label "Wrath" ;
+    sskg:inSubstrateCorpus true .
+
+sskg:Adultery sskg:Contradicts sskg:Commitment .
+sskg:Adultery sskg:Instantiates sskg:Sin .
+sskg:Adultery sskg:FormOf sskg:Sin .
+sskg:Adultery sskg:FormOf sskg:Treachery .
+sskg:Adultery sskg:Implies sskg:Malice .
+sskg:Adultery sskg:Implies sskg:Idolatry .
+sskg:Agape sskg:FormOf sskg:Affinity .
+sskg:Agape sskg:Covers sskg:Breach .
+sskg:Agape sskg:RootedIn sskg:Personhood .
+sskg:Agape sskg:Implies sskg:God .
+sskg:God sskg:Implies sskg:Agape .
+sskg:Agreement sskg:Instantiates sskg:Assent .
+sskg:Agreement sskg:FormOf sskg:Alignment .
+sskg:Alignment sskg:Implies sskg:Logic .
+sskg:Logic sskg:Implies sskg:Alignment .
+sskg:Atonement sskg:Translates sskg:Cost .
+sskg:Atonement sskg:Requires sskg:Logic .
+sskg:Assent sskg:Requires sskg:Will .
+sskg:Assent sskg:Requires sskg:Logic .
+sskg:Assent sskg:Implies sskg:Alignment .
+sskg:Breach sskg:Offends sskg:God .
+sskg:Breach sskg:Instantiates sskg:Cost .
+sskg:Commitment sskg:Requires sskg:Assent .
+sskg:Covenant sskg:Requires sskg:Commitment .
+sskg:Covenant sskg:FormOf sskg:Agreement .
+sskg:Cost sskg:Implies sskg:Logic .
+sskg:Faith sskg:Instantiates sskg:Logic .
+sskg:Faith sskg:Requires sskg:Commitment .
+sskg:Faith sskg:Requires sskg:Will .
+sskg:Forgiveness sskg:Requires sskg:Assent .
+sskg:Forgiveness sskg:FormOf sskg:Deliverance .
+sskg:Forgiveness sskg:PoweredBy sskg:Agape .
+sskg:Grace sskg:Echoes sskg:God .
+sskg:Grace sskg:Implies sskg:Agape .
+sskg:Grace sskg:Implies sskg:Will .
+sskg:Grace sskg:FormOf sskg:Power .
+sskg:Holiness sskg:Echoes sskg:God .
+sskg:Judgment sskg:Requires sskg:Assent .
+sskg:Judgment sskg:Instantiates sskg:Wrath .
+sskg:Judgment sskg:Instantiates sskg:Deliverance .
+sskg:Justice sskg:Instantiates sskg:Judgment .
+sskg:Justice sskg:Balances sskg:Cost .
+sskg:Mercy sskg:Calibrates sskg:Judgment .
+sskg:Logic sskg:Implies sskg:God .
+sskg:Mercy sskg:FormOf sskg:Grace .
+sskg:Personhood sskg:Implies sskg:God .
+sskg:God sskg:Implies sskg:Personhood .
+sskg:Power sskg:GrantedBy sskg:God .
+sskg:Repentance sskg:Recalibrates sskg:Assent .
+sskg:Righteousness sskg:FormOf sskg:Alignment .
+sskg:Righteousness sskg:Calibrates sskg:Faith .
+sskg:Salvation sskg:Instantiates sskg:Forgiveness .
+sskg:Salvation sskg:Requires sskg:God .
+sskg:Salvation sskg:Implies sskg:Commitment .
+sskg:Salvation sskg:PoweredBy sskg:Grace .
+sskg:Salvation sskg:RedeemsFor sskg:Sin .
+sskg:Salvation sskg:FormOf sskg:Deliverance .
+sskg:Salvation sskg:Instantiates sskg:Atonement .
+sskg:Sanctification sskg:Implies sskg:Grace .
+sskg:Sanctification sskg:Instantiates sskg:Holiness .
+sskg:Sanctification sskg:Requires sskg:Commitment .
+sskg:Sin sskg:Contradicts sskg:Holiness .
+sskg:Sin sskg:Corrupts sskg:Will .
+sskg:Sin sskg:Displaces sskg:Agape .
+sskg:Sin sskg:Counterfeits sskg:Personhood .
+sskg:Sin sskg:Counterfeits sskg:Logic .
+sskg:Sin sskg:Instantiates sskg:Assent .
+sskg:Sin sskg:Recalibrates sskg:Affinity .
+sskg:Sin sskg:FormOf sskg:Breach .
+sskg:Will sskg:Calibrates sskg:Affinity .
+sskg:Will sskg:Implies sskg:Personhood .
+sskg:Will sskg:FormOf sskg:Power .
+sskg:Malice sskg:FormOf sskg:Sin .
+sskg:Idolatry sskg:FormOf sskg:Sin .
+sskg:Treachery sskg:FormOf sskg:Sin .
+sskg:Exploitation sskg:FormOf sskg:Sin .
+sskg:Wrath sskg:FormOf sskg:Power .
+sskg:Wrath sskg:Fulfills sskg:Cost .

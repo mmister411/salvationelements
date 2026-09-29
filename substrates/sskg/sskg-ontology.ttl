@@ -1,0 +1,104 @@
+@prefix sskg: <urn:uuid:64e35724-9a26-516b-9e16-c6fa07ca8d05#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+sskg:Ontology a owl:Ontology ;
+    rdfs:label "Semiotic Substrate Directed Knowledge Graph Ontology" ;
+    rdfs:comment "The formal vocabulary for the directed knowledge graph only. It does not formalize VITAL as a whole, and graph participation does not confer substrate status." .
+
+sskg:GraphNode a owl:Class ;
+    rdfs:label "Graph Node" ;
+    skos:definition "An entity admitted as a node in the Semiotic Substrate Directed Knowledge Graph. A node deliberately compresses the concept, its modeled reality, and the characteristic behavior of its possible instantiations as required by the relations in which it participates. Graph-node status does not confer substrate status." .
+
+sskg:inSubstrateCorpus a owl:DatatypeProperty, owl:FunctionalProperty ;
+    rdfs:label "in Substrate Corpus" ;
+    rdfs:domain sskg:GraphNode ;
+    rdfs:range xsd:boolean ;
+    skos:definition "Records whether the graph node has an admitted substrate statement in the VITAL Substrate Statement Corpus. The value is imported from corpus status and is never inferred from graph structure, connectedness, importance, or relation membership." .
+
+sskg:Balances a owl:ObjectProperty ;
+    rdfs:label "Balances" ;
+    skos:definition "brings a substrate into proportionate relation with another by distributing, matching, offsetting, or accounting for what the latter bears or demands." .
+
+sskg:Calibrates a owl:ObjectProperty ;
+    rdfs:label "Calibrates" ;
+    skos:definition "adjusts the operative degree, direction, threshold, or application of a instance of the target." .
+
+sskg:Contradicts a owl:ObjectProperty ;
+    rdfs:label "Contradicts" ;
+    skos:definition "stands in an operative incompatibility with another substrate such that full realization of the source opposes, negates, or violates some constitutive condition of the target." ;
+    rdfs:comment "Contradicts blocks or breaks the operative pathway of the target under the applicable way and time. The present ontology does not assert global symmetry." .
+
+sskg:Corrupts a owl:ObjectProperty ;
+    rdfs:label "Corrupts" ;
+    skos:definition "a form of excessive miscalibration, the source instance acts upon an already existing target instance so that its capacities, orientation, relations, or operation persist in damaged, distorted, or disordered form." .
+
+sskg:Counterfeits a owl:ObjectProperty ;
+    rdfs:label "Counterfeits" ;
+    skos:definition "the source instance produces, adopts, or projects a structurally deceptive analogue of the target substrate that can function or present itself as though it were that substrate or any portion of its properties or downstream edge functions as a source while lacking or displacing something constitutive of it." .
+
+sskg:Covers a owl:ObjectProperty ;
+    rdfs:label "Covers" ;
+    skos:definition "extends across a breach, deficit, exposure, or incompatible interval in a way that prevents that condition from determining the continuing relation or treatment." .
+
+sskg:Displaces a owl:ObjectProperty ;
+    rdfs:label "Displaces" ;
+    skos:definition "occupies, redirects, or usurps the operative place another substrate would otherwise hold." .
+
+sskg:Echoes a owl:ObjectProperty ;
+    rdfs:label "Echoes" ;
+    skos:definition "manifests a recognizable correspondence to another substrate without requiring identity, derivation, or exhaustive instantiation." .
+
+sskg:FormOf a owl:ObjectProperty ;
+    rdfs:label "FormOf" ;
+    skos:definition "the source is a differentiated manifestation, species, mode, or operative configuration of the target substrate such that participation in the source entails participation in the target." ;
+    rdfs:comment "FormOf defaults toward hyponymic or hypernymic participation: an instance of the source is an instance of the target. It can also express a differentiated manifestation, mode, or operative configuration, so global transitivity is not asserted." .
+
+sskg:Fulfills a owl:ObjectProperty ;
+    rdfs:label "Fulfills" ;
+    skos:definition "brings into actual realization, satisfaction, discharge, or completed bearing what another substrate establishes as due, latent, forecasted, or required" .
+
+sskg:GrantedBy a owl:ObjectProperty ;
+    rdfs:label "GrantedBy" ;
+    skos:definition "the source substrate's possession, exercise, legitimacy, or availability proceeds by conferment from the target. In Power==GrantedBy==>God, God is not simply a causal antecedent but the grounding giver of power." .
+
+sskg:Implies a owl:ObjectProperty ;
+    rdfs:label "Implies" ;
+    skos:definition "the presence, coherent operation, or valid construction of the source provides sufficient structural grounds for affirming, presupposing, or deriving some participation or reality of the target, without necessarily making the target a component of the source." ;
+    rdfs:comment "Implies is a warrant-bearing pathway. It can carry apologetic or philosophical support in the manner that smoke implies fire. It is not identified with OWL entailment or material implication." .
+
+sskg:Instantiates a owl:ObjectProperty ;
+    rdfs:label "Instantiates" ;
+    skos:definition "realizes the target substrate in a concrete, particular, or more specifically configured operation. A new instance of the target begins with the new instance of the source. Not the same as nor a species of FormOf edge." ;
+    rdfs:comment "Instantiates is used where source and target are both operative in the modeled excursion, especially where FormOf is not entirely true or where source and target continue in tandem. It is not identified with rdf:type." .
+
+sskg:Offends a owl:ObjectProperty ;
+    rdfs:label "Offends" ;
+    skos:definition "produces or constitutes an impactful disparity relative to the target such that the target's integrity, order, standing, intention, or relation is violated or placed under adverse judgment." .
+
+sskg:PoweredBy a owl:ObjectProperty ;
+    rdfs:label "PoweredBy" ;
+    skos:definition "depends for effective operation, realization, continuation, or efficacy upon the target substrate as an enabling element, such that at least one existing instance or the instantiation of a new instance must proceed." .
+
+sskg:Recalibrates a owl:ObjectProperty ;
+    rdfs:label "Recalibrates" ;
+    skos:definition "changes a calibration already present in another substrate, shifting its operative orientation, weighting, range, or allowed possibilities. It therefore differs from Calibrates by presupposing an antecedent calibration that is being altered." .
+
+sskg:RedeemsFor a owl:ObjectProperty ;
+    rdfs:label "RedeemsFor" ;
+    skos:definition "retrieves, releases, restores, or reclaims a referent from the condition established by the target and directs that recovered reality toward another viable status or relation. Similar to Fulfills and Covers." .
+
+sskg:Requires a owl:ObjectProperty ;
+    rdfs:label "Requires" ;
+    skos:definition "the source cannot validly arise, operate, or retain the relevant substrate identity without the target being present, calibrated, available, or presupposed in some constitutive or enabling capacity. Requirement does not entail that the target is sufficient for the source, as a given substrate may have several requirements or other internal conditions." .
+
+sskg:RootedIn a owl:ObjectProperty ;
+    rdfs:label "RootedIn" ;
+    skos:definition "the source derives a constitutive grounding, orientation, or reason for its identity from the target, while remaining distinct from it." .
+
+sskg:Translates a owl:ObjectProperty ;
+    rdfs:label "Translates" ;
+    skos:definition "converts, carries, or renders the operative significance of one substrate into the terms or consequences of another. In Atonement--Translates-->Cost, an incompatibility and its remedy become accountably expressed through decrement, liability, foreclosure, or restoration. The relation does not say atonement is cost; it says atonement carries the relevant incompatibility through a cost-bearing structure." .
