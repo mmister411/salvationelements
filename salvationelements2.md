@@ -286,7 +286,12 @@ This security is real, but it is not mechanical possession apart from living cov
 
 ## Appendixes
 
-### Appendix 1:  The Promise and Sealing of the Holy Spirit
+### Appendix 1: The Promise and Sealing of the Holy Spirit
 
+#### The Promise
 
+The promise of the indwelling of the Holy Spirit is fulfilling what the covenant of the blood of Jesus affords specifically during earthly life, which is like nearly every other Divine <-> Human covenant in scripture. Noahide, circumcision, Sinai, Phineas, and Davidic each of these and others represent earthly life benefit. Sinai was needed because otherwise there was no such thing as God consistently dwelling with the people. The promise of the indwelling, sealed as a covenant item, expanded the primary benefits of Sinai in a way that no earthly limit (such as national citizenship or ethnicity, etc.) could impact.  (Exo 29:45–46; Gen 9:8–17; Gen 17:7–14; Num 25:10–13; 2Sa 7:12–16; Eph 2:11–22; Joh 14:16–17, 26; Gal 3:13–14, 26–29; Lev 26:11–12; Joh 16:7–13; Act 10:44–47; Exo 25:8; Heb 9:15; Rom 8:9–14; Eze 37:26–27; Luk 22:20; Eze 36:26–27; Act 15:8–9; Act 1:4–8; Isa 49:6; Jer 31:31–34)
 
+#### The Sealing 
+
+The sealing or guarantee of the Holy Spirit mentioned most prominently in Ephesians 1 represents what is afforded upon passing through the gates of the celestial polity. Inability to pass through those gates is a condition of being a satan; an adversary. There is no promise nor inheritance to adversaries. Forfeiture would have to be accounted for if the creature bouncing off those gates saying "Lord! Lord!" were the same sort of creature, but they are not. The failure of a person to receive the inheritance bears no weight upon the integrity of God's guarantee. God is not mocked. The sealed guarantee is presented to represent that things met by the hearers during earthly life that are not Divine can always run into trouble. A presumed crown prince is usurped by an unknown higher-up cousin; a long-term investment is lost because some other business tanks. The inheritence itself cannot be stopped from existing and paying into the hands that run the race rightly. The sealing of the Holy Spirit is not a cloak over a bad run. The Lord is one who is able to keep you from falling but never presents himself as one to overlook fleeing or corrupting on the vine. (Eph 1:13–14; 2Co 1:21–22; Eph 1:4–11; Eph 4:30; 2Ti 2:12–13; Rev 21:7–8, 27; Jud 1:24; Heb 3:12–14; Isa 46:9–11; Rom 11:20–22; Rev 22:14–15; 1Pe 1:3–5; Heb 10:35–39; Rom 8:15–17, 23; 2Co 5:5; Heb 12:28; Heb 10:26–29; Mat 7:21–23; Joh 15:4–6; 2Ti 4:7–8, 18; Dan 7:13–14; 1Th 5:19; 2Ti 2:19; Isa 63:10; Psa 24:3–4; Heb 7:25; Mat 25:21, 34; Num 23:19; Phi 2:12–13; Gal 6:7–9)
