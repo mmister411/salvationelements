@@ -358,8 +358,53 @@ A voice of many waters asks "Is Derek Ashford's name in the Lamb's book of life?
 
 #### The Case of Josephine Johnson: A Hypothetical Person Battered to Bitterness
 
-The most beautiful belle at the ball. Josephine Anastasia Johnson was a darling who wouldn't hurt a fly.  Daughter of a Special Needs Adults Psychiatrist and a Substance Abuse Rehabilitation Counselor, Jojo was gently raised under replete wisdom of seeking to be understanding of those she'd meet in her life. Everyone has a story and everyone has a voice.  
-(work in progress)
+The most beautiful belle at the ball. Josephine Anastasia Johnson was a darling who wouldn't hurt a fly. Daughter of a substance abuse rehabilitation counselor on one side and a psychiatrist specializing in adults with special needs on the other, Jojo was gently raised with a wealth of wisdom about seeking to understand those she'd meet throughout her life. Everyone has a story and everyone has a voice.
+
+Josephine carried that compassion into adulthood. She was patient with difficult people, generous with her time, and reluctant to hold anyone's worst moment against them. She attended church, volunteered for the city council, and ran marathons for charity. She was successful in the early years of her career and looked forward to raising a family of her own.
+
+One winter evening, after a sleet storm the previous day, shimmering icicles formed on the leafless branches of the trees and lonely gutters running along houses.  Josephine Carefly drove home. You never know when there's hidden ice on the road.  Ms. Jojo approaches her door, pauses just short to pull her keys out of her purse, and when she looks up, the door is ajar... Josephine lives alone. This is terrifying. Maybe, just maybe she left the door open?  She opens the door to find her house ransacked. Any container or drawer is left open, and things are flung everywhere.  Jojo didn't have much more than any other 9-to-5 soul.  She walks through the house, assessing the situation right through the moment when time seems to stand still.
+
+The intruder was still in the house. He heard whoever lived there had come home.  The world may never know what went through this criminal's mind, but he decided to get the drop on Jojo. Whether it was a baton, a pipe, or a mystical staff makes no difference.  The attacker leaped from the shadows and bludgeoned Jojo from head to toe with extreme violence. He struck and stomped on her enough to give her a concussion, crack her pelvis and break several ribs.  Jojo went unconscious. A neighbor found her and called emergency services.
+
+She survived after extensive surgery and months of rehabilitation, but the damage was permanent. She would never walk normally again. Her pelvic injury rendered her unable to bear children. Absolutely devastating.
+
+In almost a miracle of statistics, the criminal was found and apprehended, convicted, and sentenced to life in prison. Josephine attended the sentencing. The court acknowledged the severity of his crimes, and the man who had devastated her life would spend the remainder of his life behind bars.
+
+Josephine was relieved that he could not harm anyone else. But for herself, she refused to forgive him. "If I ever got the chance, I'd still stomp him in the nuts until someone pulled me off," she would say. "He deserves every bit of it."
+
+Her anger was understandable. The man had committed an appalling wrong, and nothing about forgiveness would make his actions less wicked. The Lord does not command. His people call evil good, nor does forgiveness require reconciliation, restored trust, or the abandonment of lawful justice. Scripture permits righteous anger and assigns vengeance to God, who judges every offense perfectly.
+
+But Josephine's anger became something she intended never to release. Years passed, and she continued to insist that the man could rot in prison and beyond for all she cared. She knew Christ's command to forgive and His warning that those who refuse to forgive others will themselves be denied forgiveness. She simply considered her circumstances an exception. Surely God understood what had been done to her. Surely He would not require her to forgive something so terrible.
+
+Josephine continued to do much good. She supported others who had suffered violence, remained generous toward her family and friends, and found ways to serve despite her physical limitations. Yet the injury committed against her had become the foundation of a separate injury she was now committing against herself. The original bitterness had been understandable, but its continued cultivation was willful. She did not simply remember the evil; she maintained a personal claim to vengeance that she refused to surrender to God.
+
+The corruption of her soul did not require her to become cruel to everyone around her. She could love her neighbors, minus one, give generously, and comfort the afflicted while preserving one corner of her heart against the commandment of Christ. A righteous grievance did not sanctify an unrighteous refusal, and the fact that another person had caused her suffering did not make her subsequent choices his responsibility. (Heb 12:14--15; Eph 4:31--32; Col 3:12--13; Jas 2:13)
+
+Josephine lived a long life, bearing both the permanent consequences of the assault and the unforgiveness she had chosen to keep. When she died, she stood before the throne of the Lord, whose knowledge of her life was complete. Every injury, every lost opportunity, every night of pain, and every act of cruelty committed against her was known to Him.
+
+The Lord asked, "Josephine Anastasia Johnson, why did you refuse to forgive the man who harmed you?"
+
+Josephine answered, "Lord, you know what he did to me. He took my health, my ability to have children, and so much of the life I was supposed to have. How could I forgive him?"
+
+The Lord replied, "I knew every blow he struck and every consequence you suffered. His guilt was his own, and my judgment of him is righteous. But I commanded you to forgive, and you would not. You received My mercy while refusing to extend mercy to another. You held to your grievance until your love for vengeance became corruption within you. I did not require you to surrender justice. I required you to surrender vengeance to Me."
+
+Josephine trembled. "But Lord? Lord! I loved You. I helped people. I set my heart to live rightly."
+
+"You did many good things, Josephine, and none escaped my notice. Yet you knew my word and resolved that your injury exempted you from it. You asked forgiveness for your own trespasses while refusing to forgive the one who trespassed against you. I was willing to cleanse you, but you would not relinquish what corrupted you."
+
+The Lord's judgment was final.
+
+"For if you forgive others their trespasses, your heavenly Father will also forgive you. But if you do not forgive others their trespasses, neither will your Father forgive your trespasses."
+
+"Bind her hand and foot and cast her into outer darkness."
+
+Josephine had known those words for decades. She had simply believed they could not apply to her.
+
+The violence committed against Josephine was never her fault, and the man responsible never acquired authority over her eternal destiny. Yet neither did his wickedness grant her immunity from the consequences of her own will. She had been grievously injured by another person's sin and subsequently permitted an unforgiving disposition to become a settled part of her own soul.
+
+Her loss was not the result of anger having existed nor of remembering an offense that could never be forgotten. It was the result of the merciless preserving of a corruption that Christ had commanded her to relinquish. The mercy that could have cleansed her was sufficient; the grievance she refused to release was not a lawful exception to holiness.
+
+The Lord who knew every tear Josephine shed also knew every opportunity she had to forgive. His judgment overlooked neither the evil done to her nor the evil she eventually chose to keep. (Mat 6:14--15; Mat 18:32--35; Rom 12:19; Heb 12:15; Gal 6:7--9; Rev 21:7--8, 27)
 
 ### Appendix 4:  The Fear of the Lord is to Eschew Evil
 
