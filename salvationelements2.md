@@ -1,15 +1,14 @@
-The Seven Elements of Salvation
-=======================================================
+# The Seven Elements of Salvation
 
-### Introduction:
+## Introduction
 
 This document aims to provide an in-depth understanding of the elements of salvation according to scripture, breaking them down into functional terms that are easy to grasp. Salvation is not a one-time event but a journey, nor a monolithic force but a process that involves various aspects of spiritual transformation and growth. This guide is structured around seven key layers, each representing a significant aspect of the salvation dynamic. Each section will delve into the theological terms associated with these layers, the scriptural basis for each, and the practical implications for a believer's life. Whether you are new to the Christian faith or seeking a deeper understanding of your spiritual journey, this guide aims to be a valuable resource for you.
 
-#### Hermeneutical Disclaimer:
+### Hermeneutical Disclaimer
 
-This analysis proceeds on the methodological assumption that theology must arise traceably from exegesis of the biblical text.  (Acts 17:11; 2 Tim 2:15; Neh 8:8). As we see when Jesus proved the resurrection from "I AM the God of Abraham" in the book of Exodus, many truths of scripture are informally entailed rather than formally demanded.  Faithful exegesis attends to tense, number, and wording because the Spirit’s choice of words bears doctrinal weight, and therefore even the grammar of Scripture can establish truths as great as resurrection. (Mat 22:31–32; Gal 3:16; Joh 10:35; 2Pe 1:20–21; Pro 30:5–6; Deu 32:46–47) We must balance that with setting that all readings and conclusions must respect immediate literary and historical context while also being apt to consider broader material from the given book and canon where applicable (Luke 24:27; Acts 28:23). All scriptural content and reality must be held as true at every point, all the time in at least one or more semiotic, semantic or logical avenue. “True, but…” is to be excessively scrutinized. (2Ti 3:16; Joh 17:17; Psa 119:160; Num 23:19; Tit 1:2) Systematic theology, interpretive tradition, naming conventions, science, archaeology,  philosophy, and other public endeavors possess intrinsic value as disciplines (Col 2:8; 1Co 2:12–13; Pro 25:2; Dan 1:17). Engagement with these disciplines must not introduce meanings unreasonably foreign to the Word’s original context (Matt 15:9; Col 2:8), exceed what the text soundly and cogently supports (1 Cor 4:6), or contradict what the given text explicitly states, or other texts in the totality of scripture (Deut 4:2; Prov 30:6; Rev 22:18–19). Confessions, councils, catechisms, creeds, and church statements serve as subordinate witnesses that summarize and guard the faith once delivered, yet they possess authority only insofar as they agree with the God-breathed Scripture, which alone is the final rule, judge, and standard of all teaching. (2Ti 3:16–17; Act 17:11; Isa 8:20; Gal 1:8–9; 1Co 4:6; Mat 15:3,6; 2Pe 1:19–21) Interpretive lenses are necessarily embedded in all handling of Scripture but must not outweigh the text’s own logos, ethos, or pathos (2 Cor 4:2; Ps 119:130; Heb 4:12). 
+This analysis proceeds on the methodological assumption that theology must arise traceably from exegesis of the biblical text. (Acts 17:11; 2 Tim 2:15; Neh 8:8). As we see when Jesus proved the resurrection from "I AM the God of Abraham" in the book of Exodus, many truths of scripture are informally entailed rather than formally demanded. Faithful exegesis attends to tense, number, and wording because the Spirit’s choice of words bears doctrinal weight, and therefore even the grammar of Scripture can establish truths as great as resurrection. (Mat 22:31–32; Gal 3:16; Joh 10:35; 2Pe 1:20–21; Pro 30:5–6; Deu 32:46–47) We must balance that with setting that all readings and conclusions must respect immediate literary and historical context while also being apt to consider broader material from the given book and canon where applicable (Luke 24:27; Acts 28:23). All scriptural content and reality must be held as true at every point, all the time in at least one or more semiotic, semantic or logical avenue. “True, but…” is to be excessively scrutinized. (2Ti 3:16; Joh 17:17; Psa 119:160; Num 23:19; Tit 1:2) Systematic theology, interpretive tradition, naming conventions, science, archaeology,  philosophy, and other public endeavors possess intrinsic value as disciplines (Col 2:8; 1Co 2:12–13; Pro 25:2; Dan 1:17). Engagement with these disciplines must not introduce meanings unreasonably foreign to the Word’s original context (Matt 15:9; Col 2:8), exceed what the text soundly and cogently supports (1 Cor 4:6), or contradict what the given text explicitly states, or other texts in the totality of scripture (Deut 4:2; Prov 30:6; Rev 22:18–19). Confessions, councils, catechisms, creeds, and church statements serve as subordinate witnesses that summarize and guard the faith once delivered, yet they possess authority only insofar as they agree with the God-breathed Scripture, which alone is the final rule, judge, and standard of all teaching. (2Ti 3:16–17; Act 17:11; Isa 8:20; Gal 1:8–9; 1Co 4:6; Mat 15:3,6; 2Pe 1:19–21) Interpretive lenses are necessarily embedded in all handling of Scripture but must not outweigh the text’s own logos, ethos, or pathos (2 Cor 4:2; Ps 119:130; Heb 4:12).
 
-#### Trichotomy View Disclaimer
+### Trichotomy View Disclaimer
 
 While both the two-part view of man, commonly called dichotomy, and the three-part view of man, commonly called trichotomy, are biblically plausible, our study has led us to use trichotomy as the clearest framework for describing salvation according to the Scriptures. We understand man as a living soul who has a physical body for earthly life and a human spirit formed by God for spiritual relation and life before Him. Within this framework, inherited corruption from Adam’s fall, personal sin prior to the cleansing blood of Jesus, and the sin of those who have come to know Jesus may be understood as affecting the soul, the earthly body, and the human spirit in distinct ways, including the distinction between the initial human spirit and the spirit made alive in new birth. This framework is used here as an interpretive aid, without intended implication or boundary of fellowship or a denial that faithful believers may hold the dichotomous view.
 (1 Thes. 5:23; Heb. 4:12; Gen. 2:7; 1 Cor. 15:44–49; 2 Cor. 5:1–4; Zech. 12:1; Rom. 5:12–19; Eph. 2:1–3; Rom. 7:22–25)
@@ -23,7 +22,6 @@ Salvation is the unfolding arc of divine operation, spanning from before creatio
 This security is real, but it is not mechanical possession apart from living covenantal union. Those truly sanctified by the blood may yet profane that blood by willful rebellion, abandon the Lord who bought them, fall from grace, be severed from Christ, and return to destruction unless they repent. Salvation turns enemies into allies, strangers into household members, slaves into sons, rebels into witnesses, and the alienated into friends of Christ, until those who overcome become forever the loving family of God and servants of the Lamb in the new creation.
 
 (Eph 1:3–10; Rom 8:28–30; Col 1:19–22; John 15:1–15; 1 John 3:1–2; Rev 21:3–7; Gen 1:26–28; 2 Tim 1:9–10; Rom 5:6–11; Isa 43:6–7; Heb 2:10–13; Rev 22:3–5; Heb 10:26–31; 2 Pet 2:1, 20–22; Gal 5:4; Col 1:21–23; 1 Cor 15:1–2; Rom 11:20–22; Heb 3:6–14; Heb 6:4–8; Rev 2:10; Eph 1:7–14; Rom 8:18–25; Titus 2:11–14; Ezek 18:21–32; Luke 15:11–32.)
-
 
 ## The Elements of Salvation in Functional Terms
 
@@ -40,19 +38,19 @@ This security is real, but it is not mechanical possession apart from living cov
       - Accepting Truth-of-GOD received (2 Thessalonians 2:10-12, John 8:32)
       - Living by Agape (1 John 4:7-8,16, John 15:12)
     - Negation
-    -   Not being an Atheist (Psalm 14:1, Romans 1:20, Hebrews 11:6, Proverbs 1:7)
-    -   Not being directly opposed to the God of Abraham, Isaac, & Jacob (Exodus 3:6, 15; Matthew 22:32; Acts 3:13; Romans 4:16)
-    -   Not being directly opposed to the Jesus of Nazareth (Matthew 10:33; Luke 12:8-9; 1 John 2:23; 2 Timothy 2:12)
+      - Not being an Atheist (Psalm 14:1, Romans 1:20, Hebrews 11:6, Proverbs 1:7)
+      - Not being directly opposed to the God of Abraham, Isaac, & Jacob (Exodus 3:6, 15; Matthew 22:32; Acts 3:13; Romans 4:16)
+      - Not being directly opposed to the Jesus of Nazareth (Matthew 10:33; Luke 12:8-9; 1 John 2:23; 2 Timothy 2:12)
   - Accounts For:
     - Carrying the Soul of the to the Gates of the City with Foundations upon physical death (Ecclesiastes 12:7, Psalm 146:4, 1 John 5:4, Ecclesiastes 3:21, Philippians 1:23)
     - Reopening clear communication and ability to commune with the LORD (Hebrews 4:16, 1 Timothy 2:5)
-  - Considerations: 
-    - Exemptions:  
+  - Considerations:
+    - Exemptions: 
       - Infants, Children, cognitively impaired, or others unable to commit personal sin, as their original spirits are not altered by personal sin (Matthew 18:3, 2 Samuel 12:23, Deuteronomy 1:39).
-    - Limitations: 
+    - Limitations:
       - New Birth (or having a human spirit unencumbered by personal sin) is an absolute requirement but does not ensure entry into the Kingdom of God. (Matthew 13:3-23, Matthew 25:1-13, Hebrews 3:14)
       - New Birth is necessary function of new covenant but exists before it as a requirement for kingdom entry across redemptive history. (Deuteronomy 10:16, 30:6; Psalm 51:10, Ezek 11:19–20)
-    - Inferences: 
+    - Inferences:
       - All labled or refered to as righteous, upright, qodeshim, or the congregation from the old testament were born-again, lest these not see the kingdom of God (Hebrews 11, Psalm 1:5; Habakkuk 2:4)
     - Alert:
       - There will be many who experienced the new birth but are cast into perdition for loving darkness despite the measure of light they've known. (John 3:19, Romans 2:13-15, Matthew 7:21–23, John 15:2, 6; 2 Peter 2:20–22)
@@ -73,9 +71,9 @@ This security is real, but it is not mechanical possession apart from living cov
     - Removing Offense-related blockage to relationship with GOD (Isaiah 59:2, Psalm 103:12)
     - Erasing the record of sin (Isaiah 43:25, Acts 3:19)
   - Considerations
-    - Exemptions: 
+    - Exemptions:
       - Infants, cognitively impaired, or others unable to commit personal sin are exempt due to their personal innocence in the context of justice (Matthew 19:14, Luke 18:16, James 4:17, Romans 4:15).
-    - Limitations:  
+    - Limitations: 
       - While the blood of Jesus covers all sin, Judicial Pardon does not address other spiritual conditions rendering one unable to enter the Strait Gate (Matthew 13:3-23, Matthew 18:21-35, Matthew 25:14-30, Heb 12:14).
     - Inferences:
       - [1] The Lamb was slain from the foundation of the world; [2] He is the only God formed; [3] He has mercy on whom He wills; Therefore the force behind all sacrifices, faith and repentance has always been the blood of the lamb. (Revelation 13:8; Hebrews 9:12-15; Romans 3:25; 1 Peter 1:19-20)
@@ -103,12 +101,12 @@ This security is real, but it is not mechanical possession apart from living cov
     - Holiness required to See the LORD (Hebrews 12:14, 1 Peter 1:15-16)
     - Ability to Enter in at the Strait Gate of the City with Foundations (Matthew 7:13-14, Luke 13:24)
   - Considerations:
-    - Exemptions:  
+    - Exemptions: 
       - None due to the inherent uncleaness of all souls by way of the first Adam (Romans 5:12; Psalm 51:5)
-    - Limitation:  
+    - Limitation: 
       - Initial and repeat decontamination are given freely by grace but loving darkness is resisting the gift, allowing for recontamination (John 3:19–20)
       - Decontamination is impermanent like the oil of a burning lamp and needs to be tended (Matthew 25:1–13)
-    - Alert:  
+    - Alert: 
       - Soulical Cleanliness is sensitive to holy Fear of the Lord (Proverbs 8:13, Proverbs 16:6) and not grieving or quenching the Holy Spirit (Ephesians 4:30, 1 Thessalonians 5:19)
       - Soulical contamination is relative to each person with some dangers being universal such as but not limited to unforgiveness, drinking blood or mixing Jesus with other spirituality, especially occultism or mystery religion (Acts 15:20, 29; 21:25; 1 Corinthians 10:20-21; 2 Corinthians 6:14-17; Deuteronomy 18:9-12).
 - Fear of the Lord
@@ -129,16 +127,16 @@ This security is real, but it is not mechanical possession apart from living cov
     - Deepened by internal recognition of God's holiness, power, and justice (Psalm 119:120; Isaiah 66:2)
     - Strengthened through community alignment and covenantal teaching (Deuteronomy 6:1–2; Acts 9:31)
   - **Evidence of Validity or Confirmation**
-  	- **Affirmation:**
+    - **Affirmation:**
       These traits and responses confirm that the Fear of the Lord is present and active:
       - Prioritizing GOD over cares of the world (Matthew 6:33, Luke 10:38-42)
       - Obedience to what you know to be true and good (1 Peter 1:22, James 4:7)
       - Approving what God Loves (Psalm 11:7; Proverbs 15:9; Micah 6:8; 1 John 4:19)
-  	  - Disapproval of evil and withdrawal from it (Proverbs 8:13; 16:6)
-  	  - Submission & discipline to God’s instructions (Job 28:28; Psalm 111:10)
-  	  - Receptive conscience and readiness to repent (Isaiah 66:2; Proverbs 28:14)
-  	  - A lifestyle marked by integrity and upright walking (Proverbs 14:2; Nehemiah 5:15)
-  	  - Reverence in worship and caution in speaking or acting in His name (Ecclesiastes 5:1–2; 
+      - Disapproval of evil and withdrawal from it (Proverbs 8:13; 16:6)
+      - Submission & discipline to God’s instructions (Job 28:28; Psalm 111:10)
+      - Receptive conscience and readiness to repent (Isaiah 66:2; Proverbs 28:14)
+      - A lifestyle marked by integrity and upright walking (Proverbs 14:2; Nehemiah 5:15)
+      - Reverence in worship and caution in speaking or acting in His name (Ecclesiastes 5:1–2;
     - Negation
       - Not loving the things of the World (1 John 2:15-17, James 4:4)
       - Being not conformed to this present evil age (Romans 12:2, Galatians 1:4)
@@ -176,16 +174,16 @@ This security is real, but it is not mechanical possession apart from living cov
     - The Spirit is given to those who hear, believe, and obey (Acts 5:32; Galatians 3:2)
   - **Evidence of Validity or Confirmation**
   - **Affirmation: These indicators serve as signs that the indwelling of the Holy Spirit is present and functionally operative:**
-      - Confession of Jesus Christ as the eternal and incarnate Son of God (1 John 4:2–3, John 8:24)
-      - Receptive belief in the gospel followed by sealed faith response (Ephesians 1:13, Acts 5:32)
-      - Internal witness bearing confirmation to the spirit of the person (Romans 8:16)
-      - Emergence of spiritual fruit over time, indicating internal transformation (Galatians 5:22–23)
-      - Increasing responsiveness to truth, conviction, correction, and renewal (John 16:13, 2 Corinthians 3:18)
-    - **Negation: Evidences of reprobacy regarding the Holy Spirit, whether by non-start or terminal grievance. Concluding one's race of faith in this state is exceptionally, gravely dangerous.
-      - Reprobate unto every good work or active resistance of the Holy Spirit.(Titus 1:16, 2 Timothy 3:5; Acts 7:51; John 14:17; Hebrews 10:26–29)
-      - Denial that Jesus is the Christ, the Son of God, Lord or come in the flesh (1 John 2:22–23; 1 John 4:2–3; 1 Corinthians 12:3)
-      - Love of the world overriding love of truth (1 John 2:15–17)
-      - Idolatry, Witchcraft, Occult (1 Corinthians 10:20–21, 1 John 4:1)
+    - Confession of Jesus Christ as the eternal and incarnate Son of God (1 John 4:2–3, John 8:24)
+    - Receptive belief in the gospel followed by sealed faith response (Ephesians 1:13, Acts 5:32)
+    - Internal witness bearing confirmation to the spirit of the person (Romans 8:16)
+    - Emergence of spiritual fruit over time, indicating internal transformation (Galatians 5:22–23)
+    - Increasing responsiveness to truth, conviction, correction, and renewal (John 16:13, 2 Corinthians 3:18)
+  - **Negation: Evidences of reprobacy regarding the Holy Spirit, whether by non-start or terminal grievance. Concluding one's race of faith in this state is exceptionally, gravely dangerous.**
+    - Reprobate unto every good work or active resistance of the Holy Spirit.(Titus 1:16, 2 Timothy 3:5; Acts 7:51; John 14:17; Hebrews 10:26–29)
+    - Denial that Jesus is the Christ, the Son of God, Lord or come in the flesh (1 John 2:22–23; 1 John 4:2–3; 1 Corinthians 12:3)
+    - Love of the world overriding love of truth (1 John 2:15–17)
+    - Idolatry, Witchcraft, Occult (1 Corinthians 10:20–21, 1 John 4:1)
   - **Accounts for:**
     - The Power to overcome this World (1 John 5:4, Romans 8:37)
     - The Power to be transformed into the likeness of Christ (2 Corinthians 3:18, Romans 12:2)
@@ -194,7 +192,7 @@ This security is real, but it is not mechanical possession apart from living cov
     - The pledge and down payment guaranteeing future inheritance (Ephesians 1:13–14)
   - Considerations
     - Exemptions:
-      - None.  The indwelling is not a requirement but a promise.  Scripture does, however, seem to speak separately between those who believe on the Son and those who do not encounter the protoevangelium or the revealed gospel, or are too young or not sufficiently mentally present.  The Spirit is a requirement for co-heirship with Christ.  
+      - None. The indwelling is not a requirement but a promise. Scripture does, however, seem to speak separately between those who believe on the Son and those who do not encounter the protoevangelium or the revealed gospel, or are too young or not sufficiently mentally present. The Spirit is a requirement for co-heirship with Christ.
     - Limitations:
       - The indwelling does not prevent soulical recontamination from embracing the world or resisting fear of the Lord. (Galatians 5:17; James 4:4; Ephesians 4:30)
       - The Holy Spirit can be (Acts 7:51), quenched (1 Thessalonians 5:19), grieved (Ephesians 4:30), or neglected (1 Timothy 4:14) which may cause dormancy or be functionally annulled in cases of hardened will or habitual rebellion. Including ignoring guidance or prompts, engaging actions or attitudes incompatible with Spirit, and loving the things of this world (Acts 7:51, 1 Timothy 4:14, Matthew 12:31-32, 1 Thessalonians 5:19, Ephesians 4:30)
@@ -232,9 +230,9 @@ This security is real, but it is not mechanical possession apart from living cov
     - Corporate Body Identity — Church as His Body (Eph 1:22–23; 1 Cor 12:12–27).
     - Cosmic Reconciliation — Creation set free in Him (Rom 8:19–22; Col 1:20).
   - **Considerations:**
-      - Assignment to the Elect Body is corporate, not individually predetermined (Eph 1:4; 2 Pet 1:10).
-      - Union with Christ is sustained by abiding faith, energized by the Spirit (John 15:4–6; Gal 5:25; Rom 8:14).
-      - Romans 9 addresses vocational and covenantal election, not pretemporal individual salvation (Rom 9:6–8, 11–13; Gen 25:23).
+    - Assignment to the Elect Body is corporate, not individually predetermined (Eph 1:4; 2 Pet 1:10).
+    - Union with Christ is sustained by abiding faith, energized by the Spirit (John 15:4–6; Gal 5:25; Rom 8:14).
+    - Romans 9 addresses vocational and covenantal election, not pretemporal individual salvation (Rom 9:6–8, 11–13; Gen 25:23).
     - **Alert:**
       - Abandoning Christ forfeits participation in the predestined glorification (John 15:6; Heb 6:4–6; 2 Pet 2:20–22).
       - Eternal inheritance belongs only to those who overcome (Rev 2:7,11; 21:7–8).
@@ -290,12 +288,11 @@ This security is real, but it is not mechanical possession apart from living cov
 
 #### The Promise
 
-The promise of the indwelling of the Holy Spirit is fulfilling what the covenant of the blood of Jesus affords specifically during earthly life, which is like nearly every other Divine <-> Human covenant in scripture. Noahide, circumcision, Sinai, Phineas, and Davidic each of these and others represent earthly life benefit. Sinai was needed because otherwise there was no such thing as God consistently dwelling with the people. The promise of the indwelling, sealed as a covenant item, expanded the primary benefits of Sinai in a way that no earthly limit (such as national citizenship or ethnicity, etc.) could impact.  (Exo 29:45–46; Gen 9:8–17; Gen 17:7–14; Num 25:10–13; 2Sa 7:12–16; Eph 2:11–22; Joh 14:16–17, 26; Gal 3:13–14, 26–29; Lev 26:11–12; Joh 16:7–13; Act 10:44–47; Exo 25:8; Heb 9:15; Rom 8:9–14; Eze 37:26–27; Luk 22:20; Eze 36:26–27; Act 15:8–9; Act 1:4–8; Isa 49:6; Jer 31:31–34)
+The promise of the indwelling of the Holy Spirit is fulfilling what the covenant of the blood of Jesus affords specifically during earthly life, which is like nearly every other Divine <-> Human covenant in scripture. Noahide, circumcision, Sinai, Phineas, and Davidic each of these and others represent earthly life benefit. Sinai was needed because otherwise there was no such thing as God consistently dwelling with the people. The promise of the indwelling, sealed as a covenant item, expanded the primary benefits of Sinai in a way that no earthly limit (such as national citizenship or ethnicity, etc.) could impact. (Exo 29:45–46; Gen 9:8–17; Gen 17:7–14; Num 25:10–13; 2Sa 7:12–16; Eph 2:11–22; Joh 14:16–17, 26; Gal 3:13–14, 26–29; Lev 26:11–12; Joh 16:7–13; Act 10:44–47; Exo 25:8; Heb 9:15; Rom 8:9–14; Eze 37:26–27; Luk 22:20; Eze 36:26–27; Act 15:8–9; Act 1:4–8; Isa 49:6; Jer 31:31–34)
 
-#### The Sealing 
+#### The Sealing
 
 The sealing or guarantee of the Holy Spirit mentioned most prominently in Ephesians 1 represents what is afforded upon passing through the gates of the celestial polity. Inability to pass through those gates is a condition of being a satan; an adversary. There is no promise nor inheritance to adversaries. Forfeiture would have to be accounted for if the creature bouncing off those gates saying "Lord! Lord!" were the same sort of creature, but they are not. The failure of a person to receive the inheritance bears no weight upon the integrity of God's guarantee. God is not mocked. The sealed guarantee is presented to represent that things met by the hearers during earthly life that are not Divine can always run into trouble. A presumed crown prince is usurped by an unknown higher-up cousin; a long-term investment is lost because some other business tanks. The inheritence itself cannot be stopped from existing and paying into the hands that run the race rightly. The sealing of the Holy Spirit is not a cloak over a bad run. The Lord is one who is able to keep you from falling but never presents himself as one to overlook fleeing or corrupting on the vine. (Eph 1:13–14; 2Co 1:21–22; Eph 1:4–11; Eph 4:30; 2Ti 2:12–13; Rev 21:7–8, 27; Jud 1:24; Heb 3:12–14; Isa 46:9–11; Rom 11:20–22; Rev 22:14–15; 1Pe 1:3–5; Heb 10:35–39; Rom 8:15–17, 23; 2Co 5:5; Heb 12:28; Heb 10:26–29; Mat 7:21–23; Joh 15:4–6; 2Ti 4:7–8, 18; Dan 7:13–14; 1Th 5:19; 2Ti 2:19; Isa 63:10; Psa 24:3–4; Heb 7:25; Mat 25:21, 34; Num 23:19; Phi 2:12–13; Gal 6:7–9)
-
 
 ### Appendix 2: Novel Parables And Hypotheticals for addressing defensibly inferrible mechanics for the eternal state of the starkly unreached
 
@@ -307,7 +304,7 @@ Nevertheless, Shen Ping lives in the world God created, beneath the heavens that
 
 Suppose Shen Ping looks upon creation and recognizes an eternal Creator who stands above the world and all that inhabits it. He comes to believe that this God is worthy of reverence, that righteousness and mercy are good, and that cruelty, deception, and selfishness violate what ought to be. He cannot name the God of Abraham, Isaac, and Jacob, but he seeks the eternal God according to the truth available to him. He recognizes his own wrongdoing, asks for mercy, and endeavors to live according to the light he possesses. His faith takes shape in conduct. He cares for those in need, refuses opportunities to prosper through cruelty, forgives those who injure him, and responds to the accusations of conscience with repentance rather than self-justification.
 
-Shen Ping remains a sinner. His upright conduct cannot erase his offenses, and his earnestness cannot independently cleanse the corruption inherited through Adam. He requires the saving operations that only God can accomplish. 
+Shen Ping remains a sinner. His upright conduct cannot erase his offenses, and his earnestness cannot independently cleanse the corruption inherited through Adam. He requires the saving operations that only God can accomplish.
 
 Shen Ping is in need of the Holy Spirit making the human spirit anew, a sufficient ground of pardon that is only in the sacrifice of Christ and cleansing of the sin's corruption of the soul which is only done by the blood of the Lamb slain form the foundation of the world. Though Christ's sacrifice occurs later in human history, its redemptive efficacy belongs to God's eternal purpose. The Lamb foreknown before the foundation of the world is the same Redeemer through whom God passed over former sins and secured redemption for those who lived before the Cross. (1Pe 1:18–20; Rom 3:23–26; Heb 9:15; Tit 3:5; Eze 36:26–27)
 
@@ -321,11 +318,11 @@ Consider also the consequence if Shen Ping recognizes righteousness yet repeated
 
 Shen Ping thus illustrates the reach of redemption beyond the historical distribution of its revelation. The Father does not cease to be God of the Gentiles beyond the borders of Israel. The Spirit does not lose His power to make a person anew where the New Covenant has not yet been proclaimed. The blood of Christ does not acquire its first power to redeem when a human being first hears about it. The gospel reveals the decisive work through which salvation has been secured, while God Himself remains present and active among His creatures according to His eternal counsel.
 
-Shen Ping stands before the same God as Abraham, Moses, Peter, and Paul. His knowledge differs, his circumstances differ, and the covenantal privileges available during his earthly life differ. The holiness, agape, righteousness, and faithfulness of the God who judges him do not differ. The God who has given him light knows perfectly what he has done with it, what grace has accomplished within him, and what remains when he stands before the judgment seat of Christ. 
+Shen Ping stands before the same God as Abraham, Moses, Peter, and Paul. His knowledge differs, his circumstances differ, and the covenantal privileges available during his earthly life differ. The holiness, agape, righteousness, and faithfulness of the God who judges him do not differ. The God who has given him light knows perfectly what he has done with it, what grace has accomplished within him, and what remains when he stands before the judgment seat of Christ.
 
 #### The Case of Daphne Cooper: A Hypothetical Person Taken Too Young
 
-Ms. Cooper was born 1936 in London to secular parents.  Daphne was a pristine baby girl with no birth complications for her or her mother. Her eyes were a mesmerizing hazel. Her hair was a rich brown. Her smile and laugh could light up the solar system. Her first birthday came the following year. She couldn't articulate her favorate color yet or maybe handn't locked it in but she's smile just a bit more at cyan or light blue. So for her birthday she got some trinkets in various shade of blue. A beautiful time for all. The next morning after her birthday her parents came to check on her. At first it seems she had slept in. Upon looking closer, to their horror, Daphne had succumb to sudden infant death syndrome.  366 days old and her time in this world was up.  
+Ms. Cooper was born 1936 in London to secular parents. Daphne was a pristine baby girl with no birth complications for her or her mother. Her eyes were a mesmerizing hazel. Her hair was a rich brown. Her smile and laugh could light up the solar system. Her first birthday came the following year. She couldn't articulate her favorate color yet or maybe handn't locked it in but she's smile just a bit more at cyan or light blue. So for her birthday she got some trinkets in various shade of blue. A beautiful time for all. The next morning after her birthday her parents came to check on her. At first it seems she had slept in. Upon looking closer, to their horror, Daphne had succumb to sudden infant death syndrome. 366 days old and her time in this world was up.
 
 Daphne had never learned to speak in full sentences, read a book, or distinguish righteousness from wickedness. She had never heard the Gospel, confessed Jesus as Lord, repented of wrongdoing, or consciously exercised what we mere mortals could readily classify as faith in God. She had likewise never deliberately lied, stolen, worshiped an idol, rejected divine instruction, or committed any other act of accountable rebellion against her Creator that we have prudent grounds to designate. Nevertheless, Daphne was a complete human person, created in the image of God, possessing body, soul, and human spirit. Her brief life did not diminish the value of her personhood or remove her from the knowledge and care of the God who formed her. (Gen 1:26–27; Psa 139:13–16; Zec 12:1; Mat 18:10)
 
@@ -333,7 +330,7 @@ The distinction between inherited corruption and personal guilt is particularly 
 
 Pardoning of sin, or justification that comes by faith addresses culpable offenses before the court of Heaven. Since Daphne had committed no accountable personal wrongdoing, she requires no pardon for nonexistent offenses. Her original human spirit had likewise never been altered through personal rebellion, removing the particular injury that being "born of water and of spirit" addresses in those who have knowingly sinned. The Holy Spirit remains the giver and sustainer of spiritual life, but there is no necessity to attribute an injury to Daphne's spirit simply to require its restoration. (Rom 4:15; Rom 5:13; Jas 4:17; Job 33:4; Zec 12:1)
 
-Her innocence of personal sin, however, did not eliminate the inherited corruption of the soul. We inherit our human spirit from God breathing afresh to each one of us like He did with Adam in the beginning. That breath contacts the this-world material that we inherit form our parents which is unfortunately inherited unbroken from Adam and bears His corruption. The soul is the chemo-spiritual reaction of teh breath of God upon organic material of this world. Every soul descending form Adam must be cleansed of Adam's corruption. Daphne could not cleanse herself, and her innocence did not independently overcome the consequences of Adam's fall. The cleansing required remains the work of God, accomplished through the blood of Jesus Christ, the Lamb foreknown before the foundation of the world. The redemptive power of Christ is sufficient to address inherited corruption.  God gives any grace readily were there is no personal sin. That is the tragic silver lining to Daphne's short life.(Rom 5:15–19; 1Pe 1:18–20; Heb 9:14–15; 1Jo 1:7)
+Her innocence of personal sin, however, did not eliminate the inherited corruption of the soul. We inherit our human spirit from God breathing afresh to each one of us like He did with Adam in the beginning. That breath contacts the this-world material that we inherit form our parents which is unfortunately inherited unbroken from Adam and bears His corruption. The soul is the chemo-spiritual reaction of teh breath of God upon organic material of this world. Every soul descending form Adam must be cleansed of Adam's corruption. Daphne could not cleanse herself, and her innocence did not independently overcome the consequences of Adam's fall. The cleansing required remains the work of God, accomplished through the blood of Jesus Christ, the Lamb foreknown before the foundation of the world. The redemptive power of Christ is sufficient to address inherited corruption. God gives any grace readily were there is no personal sin. That is the tragic silver lining to Daphne's short life.(Rom 5:15–19; 1Pe 1:18–20; Heb 9:14–15; 1Jo 1:7)
 
 Daphne's inability to exercise conscious faith, cultivate the fear of the Lord through instruction, or receive the revealed Gospel cannot be equated with unbelief, disobedience, or rejection. Those responses presuppose capacities and opportunities she did not possess. God knows the difference between a will hardened against the truth and a child who has not yet developed the capacity to understand it. His judgment considers what the person actually knows, can do, and has done. (Deu 1:39; Isa 7:15–16; Luk 12:47–48; Rom 2:6–16)
 
@@ -341,23 +338,28 @@ The account of David's infant son provides a biblical parallel. After the child 
 
 The particular inheritance Daphne receives remains subject to the righteous counsel of God. Little Miss Daphne never encountered the circumstances through which believers consciously enter the New Covenant, or receive the promised indwelling of the Holy Spirit, or  undertake the race associated with co-heirship with Christ. Eternal continuance and the specific inheritance of Christ's adopted co-heirs are distinguishable realities. The absence of those earthly experiences does not establish a sentence of destruction upon someone incapable of participating in them. God remains free to provide every blessing compatible with His righteousness, holiness, and eternal purposes. (Rom 8:15–17; Eph 1:13–14; Mat 19:14; Rom 9:15–16; 1Co 2:9)
 
-Daphne therefore illustrates a condition distinct from that of the accountable sinner. She inherited corruption without personally producing guilt, possessed an original human spirit without having willfully corrupted it, and lacked the capacity to perform the acts of faith and obedience ordinarily required of those who receive God's revelation. Upon death her body is left behind, her soul in her spirit return to the gates, her relationship with God unmarred by personal sin is met with the full mercy of God to provide all remaining cleaning or transformation required to bring her home. 
+Daphne therefore illustrates a condition distinct from that of the accountable sinner. She inherited corruption without personally producing guilt, possessed an original human spirit without having willfully corrupted it, and lacked the capacity to perform the acts of faith and obedience ordinarily required of those who receive God's revelation. Upon death her body is left behind, her soul in her spirit return to the gates, her relationship with God unmarred by personal sin is met with the full mercy of God to provide all remaining cleaning or transformation required to bring her home.
 
 Her eternal preservation rests in the same Christ whose blood redeems sinners, whose power overcomes death, and through whom God makes all things new. The saving operations required correspond to her actual condition, while those addressing injuries she never sustained have no corresponding work to perform. (Rom 5:15–21; 1Co 15:21–26; Rev 21:1–5)
 
 Daphne's parents knew her for 366 days. God knew her before the first of them, and her death did not place her beyond His reach. She had done nothing to earn eternal life, and nothing to incur the guilt of personal rebellion. What she could not do for herself remained entirely within the power of the God who formed her, the Lamb who redeemed her, and the Spirit who gives life.
 
-### Appendix 3: Unfortunate Consequences 
+### Appendix 3: Unfortunate Consequences
 
 #### The Case of Derek Ashford: A Hypothetical Person Rewarded according to their works
 
-Derek Ashford was a U.S. Navy Seal veteran turned career firefighter.  Derek voted honestly in every national, state and local election. Derek sent flowers to his mother on mother's day and would surprise her most years on a her birthday with new aspects of her favorite things. Derek was a upstanding father and a endlessly supportive husband. Mr. Ashford went to church each week, paid what he decided to be an 11% tithe and gave a bit more in funds, and voluinteering where he could.  Derek is nifty. 
+Derek Ashford was a U.S. Navy Seal veteran turned career firefighter. Derek voted honestly in every national, state and local election. Derek sent flowers to his mother on mother's day and would surprise her most years on a her birthday with new aspects of her favorite things. Derek was a upstanding father and a endlessly supportive husband. Mr. Ashford went to church each week, paid what he decided to be an 11% tithe and gave a bit more in funds, and volunteering where he could. Derek is nifty.
 
-Derek was a corn addict.  That is to say in modern internet parlence, a connoisseur of adult video. He didn't allow this to be known to his children. His wife turned a blind eye to it.  What Derek didn't consider was the corruption of his soul, the searing of his conscience, that bad fruit is not a good sign of being a healthy tree. He distanced his mind from Jesus' warning that cognitive or heart lust is adultery as much as the physical act.  He considered that he wasn't wanting these specific individuals as likened to wanting another relationship or variable-count-night-stand. So it was fine? Right?
+Derek was a corn addict. That is to say in modern internet parlence, a connoisseur of adult video. He didn't allow this to be known to his children. His wife turned a blind eye to it. What Derek didn't consider was the corruption of his soul, the searing of his conscience, that bad fruit is not a good sign of being a healthy tree. He distanced his mind from Jesus' warning that cognitive or heart lust is adultery as much as the physical act. He considered that he wasn't wanting these specific individuals as likened to wanting another relationship or variable-count-night-stand. So it was fine? Right?
 
-Derek lives to 91 years old. Several generations of family, extended colleuges and community members attend His funeral.  Derek opens His eyes to a vast open area with a floor of sapphire mixed with combustion, the air filled with radiated love and severity.  There are thunderings and emerald tinted lighting which draw His eyes upward to the throne. The one who sits upon it is of brilliant light from his lower limbs up into a torso of fire and power.  
+Derek lives to 91 years old. Several generations of family, extended colleuges and community members attend His funeral. Derek opens His eyes to a vast open area with a floor of sapphire mixed with combustion, the air filled with radiated love and severity. There are thunderings and emerald tinted lighting which draw His eyes upward to the throne. The one who sits upon it is of brilliant light from his lower limbs up into a torso of fire and power.
 
-A voice of many waters asks "Is Derek Ashford's name in the Lamb's book of life?"  A voice like a trumpet, of an archangel replies "No, my Lord, it is not."  Derek replies speaking before he can even detect his own reaction. "Lord? Lord!  I don't understand?  I served as I your word and hearing what I believed to be you in prayer led me to server?" The Lord  replies "You did.  If you would have known me in every corner of who you are then your reward would be wonderful. However, you loved your appetite, the lust of your eyes and the lust of yoru flesh and the flesh of others such that what remained was no love for Me.  That which is redeemed is what I know and to whom I am known. That which is corrupt is something and someone I have never known.  Depart from me for I never knew you, you worker of iniquity".
+A voice of many waters asks "Is Derek Ashford's name in the Lamb's book of life?"  A voice like a trumpet, of an archangel replies "No, my Lord, it is not."  Derek replies speaking before he can even detect his own reaction. "Lord? Lord!  I don't understand?  I served as I your word and hearing what I believed to be you in prayer led me to server?" The Lord  replies "You did. If you would have known me in every corner of who you are then your reward would be wonderful. However, you loved your appetite, the lust of your eyes and the lust of yoru flesh and the flesh of others such that what remained was no love for Me. That which is redeemed is what I know and to whom I am known. That which is corrupt is something and someone I have never known. Depart from me for I never knew you, you worker of iniquity".
+
+#### The Case of Josephine Johnson: A Hypothetical Person Battered to Bitterness
+
+The most beautiful belle at the ball. Josephine Anastasia Johnson was a darling who wouldn't hurt a fly.  Daughter of a Special Needs Adults Psychiatrist and a Substance Abuse Rehabilitation Counselor, Jojo was gently raised under replete wisdom of seeking to be understanding of those she'd meet in her life. Everyone has a story and everyone has a voice.  
+(work in progress)
 
 ### Appendix 4:  The Fear of the Lord is to Eschew Evil
 
