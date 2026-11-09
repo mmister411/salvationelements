@@ -148,7 +148,7 @@ This security is real, but it is not mechanical possession apart from living cov
     - Being Good Soil (Matthew 13:8, 23; Luke 8:15; Mark 4:20)
   - Considerations:
   - Exceptions:
-    - None
+    - On the one hand, no exceptions (Ecc 12:13–14; Rev 14:6–7) , which is to say having an active non-fear of the Lord is at least gravely dangerous if not a hardline fail or necessarily corruptive to the soul (Pro 1:24–33; Pro 16:6; Rom 3:10–18), but on the other, infants, children, the cognitively impaired, or others with variable capacity of apprehension, an absence of underdevelopment of what amounts to fear of the Lord is subject to God's handling each according to what they are able.(Luk 12:47–48; Deu 1:39; Rom 2:12–16)
   - Limitations
     - Fear of he Lord is a start, an ingredient, a mandatory element but not the whole machine or recipe.(Philippians 2:12–13; Ecclesiastes 12:13; Matthew 23:23)
     - Without ongoing attention, it may fade into familiarity or presumption (Deuteronomy 6:10–12; Psalm 78:11; Revelation 2:4–5)
