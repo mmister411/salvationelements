@@ -13,3 +13,7 @@ A private skill-only plugin that routes seven operations through a shared harnes
 - “DECOMPOSE this concept.”
 
 The reference files reproduce the corresponding entries from the single-file VITAL Apparatus.
+
+## GitHub home
+
+The corresponding GitHub home for VITAL Compendium is [salvationelements/VITAL-Compendium](https://github.com/mmister411/salvationelements/tree/main/VITAL-Compendium). Changes to the installed plugin and this repository require explicit synchronization.
