@@ -6,7 +6,7 @@ In the beginning, God created. By faith we understand that the universe was form
 
 God gave the world to Man. Man sinned, bringing death and decay. Suffering became the default experience, requiring labor, collaboration, and sacrifice to avoid, until God makes all things new.
 
-Physical and spiritual forces have stake in the corruption of creation. Malice, idolatry, treachery and exploitation abound new and remixed repeatedly, sometimes accelerating the spread and effects of corruption.
+Physical and spiritual forces have stake in the corruption of creation. Malice, idolatry, treachery and exploitation abound new and remixed repeatedly, sometimes accelerating the spread and effects of corruption. The Fall disrupted creation's original connection to God's inexhaustible provision, under which the created order possessed conditions of sustained vitality unavailable to its subsequent condition. Physical creation thereafter operates under progressive decay, energetic depletion, and biological degradation, including the deterioration of genetic integrity through the propagation of life. The generation of human souls continues according to God's design, though the condition of human existence is not untouched by corruption.
 
 According to the counsel of His own will, God intervened globally with the Flood as a population and geological reset, approx 3298 BCE, promising never again to intervene with a global flood.
 
