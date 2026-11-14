@@ -13,7 +13,7 @@
     "shortDescription": "Interpretation and composition"
   },
   "name": "vital-apparatus",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "A file-based VITAL Compendium with seven operations, the VITAL Harness, and Substrative Commitments.",
   "author": {
     "name": "Marcus Mister",

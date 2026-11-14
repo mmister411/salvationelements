@@ -41,7 +41,7 @@ VITAL substrative commitments invisibly underlie, orient, and calibrate VITAL op
 
 - [Theological Commitments](references/substrate/theological-commitments.md)
 - [Creation Arc](references/substrate/creation-arc.md)
-- [Substrate Corpus](references/substrate/corpus.md)
+- [Substrate Corpus](references/substrate/substrate-statement-corpus.md)
 - [General Commitments](references/substrate/general-commitments.md)
 - [Humans](references/substrate/humans.md)
 - [Soteriological Choices](references/substrate/soteriological-choices.md)
