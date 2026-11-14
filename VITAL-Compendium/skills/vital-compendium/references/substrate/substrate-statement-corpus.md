@@ -172,6 +172,11 @@ Personhood is the property of a differentiable object that bears a sustained, ir
 
 Prayer is supraphysical communication by one or more physical agents to one or more spiritual agents perceived by the physical agent as occupying an elevated relation corresponding to the communication, regarding communing, potential outcomes, ascription of value, or request for information, independent of transmission methodology or the physical agent’s spatiotemporal orientation. Prayer is still prayer when it is efficacious, without effect, positive, negative, illusory or deliusional
 
+
+##### Prestige
+
+Prestige is the functionally positive perceptual gravity exerted by a referent's identity, designation, reputation, position, or associations, influencing the attention, interpretation, valuation, credence, or treatment afforded to itself and other referents connected to it. Its grounds may be intrinsic, earned, conferred, borrowed, or falsely attributed, while its magnitude and effects need not correspond to the truth, goodness, or intrinsic worth of anything under its influence.
+
 ##### Repentance
 
 Closing of one or more activity options through acknowledged classification of a relevant requirement, which may circumstantially correspond to a root change in cognition, disposition, or behavior.
