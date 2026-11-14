@@ -1,0 +1,27 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "email": "mmister411@gmail.com",
+    "name": "Marcus Mister"
+  },
+  "description": "A file-based VITAL Apparatus with seven operations, the VITAL Harness, and Substrative Commitments.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "capabilities": [],
+        "category": "Productivity",
+        "defaultPrompt": [
+          "Use VITAL Survey on the following material.",
+          "Use VITAL DAU on this topic.",
+          "Strike the Anvil on the following prose."
+        ],
+        "developerName": "Marcus Mister",
+        "displayName": "VITAL Compendium",
+        "longDescription": "Use VITAL Survey, VITAL DAU, VITAL Author, the Anvil of Revision, Explorative Explicator, COLLAPSE, or DECOMPOSE with shared interpretive, logical, theological, linguistic, and ethical principles.",
+        "shortDescription": "Interpretation and composition"
+      }
+    }
+  },
+  "name": "vital-apparatus",
+  "version": "0.1.3"
+}

@@ -1,0 +1,20 @@
+### Truths of Realities Ascertain on Independent Layers (TRAIL) 
+
+TRAIL serves to gather together principles of treating truth at the point of reality as a first-class citizen upon which to build all other informational enterprises. Interpretation, scansion, survey, revision, poetry, or a caveman reading a sundial must all reckon with truth.
+
+1. Truth is information or expression possessing sufficient fidelity to one or more realities, past, extant, or stably projected, in accordance with the actual or potential conditions of its referents, without contradiction to God’s essence, word, works, or creation across time, space, or imagination, without contradiction. 
+
+2. Trueness and falseness are properties of declarations or logical assertions, whereas truth refers to informational handling of reality. “The statement 'Magenta is 1.21 gigawatt wavelength' is false” is a statement of truth. "Some S are P, all P are M, so some S are M" is a faithful construction where trueness will emphatically survive. Nevertheless, this is not itself truth. This same construction is quite ready to be a pipeline to assertive trueness but existential falseness. 
+
+3. Context is necessary to apprehend truth, but it is more related to trueness than to truth itself. Context impacts the stream of presentation that is apprehended, informing eventual assent. Context itself has its own truth with properties, rules and conditions. Information about context is necessarily distinct from information about the object of that context. Some truths can only be adequately presented for faithful apprehension through specific and relevant contexts. Sometimes, the context should be silent and invisible or risk attenuating the signal. Sometimes truth cannot be apprehended faithfully without first communicating or establishing context. 
+
+4. Apprehension of truth is necessary for an agent to ingest reality, but it is entirely a function of cognition apart from reality, despite cognition being a member of reality. Apprehension spawns assent, and various assentings can bias apprehension. Care is required to distinguish artifacts of apprehension from aspects of truth about reality. The well of apprehension can be poisoned by faulty presentation. Truth remains truth, while traversal of truth requires prudence. 
+
+5. Presentation of truth (transmission, communication, observation, etc) is a separate operation from the consistency of truth. The majority of deception, error, fallacy and bias live shared between presentation, apprehension and assent. Truth at the point of reality is unchanging and remains the same regardless of presentational choices regarding flourish, sterility, complexity, or accessibility. 
+
+6. Existentiality, what has, does or can exist in one form or another, under one condition or another, stands with its own rules and features independent of presentation, context, or apprehension of truth. Constructed frameworks or imposed paradigms cannot birth or extinguish what is besides their own informational members. Calculations, memory, patterns, and probability can only ever approach a limit of projected certainty of predicting existentiality. God alone, whose personal name includes existence as a function, governs what exists. 
+
+7. Assent is the willful granting to one or more objects, events, concepts, or their members the cognitive orientation characteristically afforded to perceived trueness, regardless of any actual veracity. One can assent to truth as easily as falsity, good as easily as evil, and to things that did, do or never existed. Even deception is first an act of assent. 
+
+8. Logic involves declaring about reality or possible realities, establishing the relationships among those declarations, and constructing chains from any number of related declarations based on common rules that represent reliable inference. In this way, logic serves as the general framework through which information becomes assertible, relationally organized, and inferentially productive. Logic can be the voidcraft that truth crews to traverse transformation, dimensionality, situation, agency and more.
+
