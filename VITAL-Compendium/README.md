@@ -1,6 +1,6 @@
 # VITAL Apparatus
 
-A private skill-only plugin that routes seven operations through a shared harness and domain substrate. No MCP endpoint, executable service, credentials, or custom UI is required. The active entrypoint is `skills/vital-apparatus/SKILL.md`. The reference files remain independently identifiable by their original conceptual components. Selective reference reading routes each request to the applicable operation and Harness members.
+VITAL Compendium contains seven operations, the VITAL Harness, and Substrative Commitments.
 
 ## Example invocations
 
@@ -11,8 +11,6 @@ A private skill-only plugin that routes seven operations through a shared harnes
 - “Use Explorative Explicator on this argument.”
 - “COLLAPSE this proposal.”
 - “DECOMPOSE this concept.”
-
-The reference files reproduce the corresponding entries from the single-file VITAL Apparatus.
 
 ## GitHub home
 
