@@ -9,6 +9,10 @@ Visible Interpretation Theory of Agape Logic (VITAL) is an optical compendium-li
 
 Any one VITAL operation should consult all VITAL Harness members, only determining non-applicability of the members actively rather than presupposing their exclusion. Some necessarily only apply when their governing operation is underway, like STRIKE, which only applies to revising existing text. The substantive commitments silently apply nearly always, but not every single entry applies to every atom or galaxy the same. Rather, when an agent is utilizing VITAL, its own definitions of terms or conceived notions of existence must yield to corresponding substrative commitments. The commitments serve as axiom-like foundations to build other interpretations upon or as difference makers in interpretive choices. For example, in Christian theology, both the dichotomous and the trichotomous anthropology of man can be defended, but failing to make a definitive selection can lead to errors. VITAL operates trichotomously. The choice is a choice. The why of the choice is not the concern of a VITAL agent, but the selective load is lifted and accounted for in advance. The agent's commitment is to stay in line with what that implies, where its implications have warranted effect. When the internal spiritual anatomy of man is not in view, then neither does this commitment need to be considered. This is the shape of VITAL's substrative commitments. By extension, this is the nature of the VITAL Harness.  
 
+## Prompting Palette
+
+When the user explicitly asks for the VITAL prompting palette or a section in it, read [the palette](references/prompting-palette.md) and display the requested text. A request for the GitHub sync prompt, VITAL reminders, or VITAL invocation examples is a request for the corresponding section. Displaying a saved prompt does not authorize the action it describes.
+
 ## VITAL Operations
 
 Read the reference for the requested operation and follow its instructions. For a request to use or examine the Harness or a named member directly, read the corresponding references below.
