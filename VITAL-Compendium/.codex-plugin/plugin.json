@@ -13,8 +13,8 @@
     "shortDescription": "Interpretation and composition"
   },
   "name": "vital-apparatus",
-  "version": "0.1.5",
-  "description": "A file-based VITAL Apparatus with seven operations, the VITAL Harness, and Substrative Commitments.",
+  "version": "0.1.6",
+  "description": "A file-based VITAL Compendium with seven operations, the VITAL Harness, and Substrative Commitments.",
   "author": {
     "name": "Marcus Mister",
     "email": "mmister411@gmail.com"

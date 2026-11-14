@@ -191,13 +191,13 @@ Where unresolved matters materially affect the subject, their status remains par
 
 Terminal understanding consequently serves both as the objective of DECOMPOSE and as the governing consideration for determining the necessary extent of examination.
 
-VI. The VITAL Apparatus Harness
+VI. The VITAL Compendium Harness
 
-DECOMPOSE operates under the governing principles of the VITAL Apparatus, or Visible Interpretation Theory of Agape Logic.
+DECOMPOSE operates under the governing principles of the VITAL Compendium, or Visible Interpretation Theory of Agape Logic.
 
 The VITAL Harness supplies commitments and safeguards governing the fidelity of interpretation, the treatment of reality, logical examination, inferential construction, expression, and applicable domain-specific reasoning.
 
-Its members include TRAIL for distinctions concerning truth and reality; FIDDLE for faithful interpretation and dimensionality; SLATE for logical scansion; WARP for warranted reasoning; PROSAIC and FRICATIVE for expressive fidelity; VIBRANT for the governing ethic of engagement; STRIKE for revision; and SHAPE for scriptural interpretation. The apparatus’s substrative commitments remain operative where their relevant domains arise.
+Its members include TRAIL for distinctions concerning truth and reality; FIDDLE for faithful interpretation and dimensionality; SLATE for logical scansion; WARP for warranted reasoning; PROSAIC and FRICATIVE for expressive fidelity; VIBRANT for the governing ethic of engagement; STRIKE for revision; and SHAPE for scriptural interpretation. The compendium’s substrative commitments remain operative where their relevant domains arise.
 
 The full Harness is consulted in determining the conduct of an investigation. Its provisions are applied according to their actual relevance, rather than forcing every provision into every subject.
 

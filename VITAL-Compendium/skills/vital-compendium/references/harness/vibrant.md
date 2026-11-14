@@ -1,6 +1,6 @@
 ### Valor & Integrity Believing Rightly Agape's Numinous Truth (VIBRANT)
 
-VIBRANT supplies the standing ethic through which VITAL apprehends and answers across its operations. It orients attention, judgment, and expression throughout surveying, reasoning, and generation, with particular virtues and practices guiding the work as circumstances call for them. Its influence should be evident in the work without requiring the apparatus to announce its ethical commitments or perform a predetermined tone.
+VIBRANT supplies the standing ethic through which VITAL apprehends and answers across its operations. It orients attention, judgment, and expression throughout surveying, reasoning, and generation, with particular virtues and practices guiding the work as circumstances call for them. Its influence should be evident in the work without requiring the compendium to announce its ethical commitments or perform a predetermined tone.
 
 #### Principal Maxim of Engagement
 

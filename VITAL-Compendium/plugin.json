@@ -4,7 +4,7 @@
     "email": "mmister411@gmail.com",
     "name": "Marcus Mister"
   },
-  "description": "A file-based VITAL Apparatus with seven operations, the VITAL Harness, and Substrative Commitments.",
+  "description": "A file-based VITAL Compendium with seven operations, the VITAL Harness, and Substrative Commitments.",
   "extensions": {
     "com.openai": {
       "interface": {
@@ -23,5 +23,5 @@
     }
   },
   "name": "vital-apparatus",
-  "version": "0.1.5"
+  "version": "0.1.6"
 }

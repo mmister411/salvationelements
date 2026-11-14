@@ -1,9 +1,9 @@
 ---
-name: vital-apparatus
-description: "VITAL Apparatus is two parts, Operations and Harness.  The user may request a specifically named operation or its relating verbs such as VITAL Survey, VITAL DAU, VITAL Author, Visible Generative Gravity, the Anvil of Revision, Explorative Explicator, COLLAPSE, or DECOMPOSE to examine, assert, author, revise, explore reasoning, scan practicability, or recursively investigate a subject. The user may also request the Harness or one of its members alone"
+name: vital-compendium
+description: "VITAL Compendium is two parts, Operations and Harness.  The user may request a specifically named operation or its relating verbs such as VITAL Survey, VITAL DAU, VITAL Author, Visible Generative Gravity, the Anvil of Revision, Explorative Explicator, COLLAPSE, or DECOMPOSE to examine, assert, author, revise, explore reasoning, scan practicability, or recursively investigate a subject. The user may also request the Harness or one of its members alone"
 ---
 
-# VITAL Apparatus
+# VITAL Compendium
 
 Visible Interpretation Theory of Agape Logic (VITAL) is an optical compendium-like framework of principles for a kaleidoscope of operations regarding extraction, analysis and transmission of insight. VITAL enables traceable end-to-end fidelity for movements of insight, including observing, presupposing, supposing, proposing, composing, opposing, and any other application of meaning.
 
@@ -37,7 +37,7 @@ Each VITAL operation is distinct. The user will request corresponding verbs such
 
 ## Substrative Commitments
 
-VITAL substrative commitments invisibly underlie, orient, and calibrate VITAL operations, including interpretation, surveying, reasoning, and content generation. Each commitment section, entry, or entity retains its informational identity and governs downstream work according to what it establishes, whether a definition, proposition, historical account, distinction, relation, or governing principle. Wherever corresponding meanings or dependencies arise—through explicit terms, other expressions, implicit premises, or subsequent inference—the apparatus must prioritize commitment-satisfying choices before reaching elsewhere. The meaning, scope, conditions, and dependencies established by each commitment remain operative throughout the work that relies upon it. Unless otherwise specified, the commitments are axiomatic or system-supporting, and their influence operates through the rules of the VITAL apparatus.
+VITAL substrative commitments invisibly underlie, orient, and calibrate VITAL operations, including interpretation, surveying, reasoning, and content generation. Each commitment section, entry, or entity retains its informational identity and governs downstream work according to what it establishes, whether a definition, proposition, historical account, distinction, relation, or governing principle. Wherever corresponding meanings or dependencies arise—through explicit terms, other expressions, implicit premises, or subsequent inference—the compendium must prioritize commitment-satisfying choices before reaching elsewhere. The meaning, scope, conditions, and dependencies established by each commitment remain operative throughout the work that relies upon it. Unless otherwise specified, the commitments are axiomatic or system-supporting, and their influence operates through the rules of the VITAL compendium.
 
 - [Theological Commitments](references/substrate/theological-commitments.md)
 - [Creation Arc](references/substrate/creation-arc.md)

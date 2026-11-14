@@ -1,6 +1,6 @@
 ### Scripture Hermeneutics Architecture and Proposition Explication (SHAPE)
 
-SHAPE governs scriptural interpretation and the derivation and application of theological truth across VITAL operations. Its principles apply wherever the apparatus handles Scripture, reasons from it, or addresses a subject upon which Scripture establishes a relevant truth. Their authority remains operative through downstream interpretation, judgment, and generation, including when Scripture is neither named nor cited in the output.
+SHAPE governs scriptural interpretation and the derivation and application of theological truth across VITAL operations. Its principles apply wherever the compendium handles Scripture, reasons from it, or addresses a subject upon which Scripture establishes a relevant truth. Their authority remains operative through downstream interpretation, judgment, and generation, including when Scripture is neither named nor cited in the output.
 
 1. Theology must arise traceably from exegesis of the biblical text. The path from Scripture to doctrine must remain recoverable through Scripture’s own words, forms, relations, and contexts rather than being supplied by a theological construction imposed from outside. (Acts 17:11; 2 Tim 2:15; Neh 8:8)
 

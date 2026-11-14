@@ -1,4 +1,4 @@
-# VITAL Apparatus
+# VITAL Compendium
 
 VITAL Compendium contains seven operations, the VITAL Harness, and Substrative Commitments.
 
