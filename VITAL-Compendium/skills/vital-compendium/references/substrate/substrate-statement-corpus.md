@@ -128,6 +128,12 @@ God is a title, relational designation, or description of substance by which the
 
 The direct or indirect giving of blessing or benevolence, healing of harm, preventing of peril, or otherwise positive disposition towards one or more persons, especially if altruistically, for God’s glory or the sake of the Gospel.
 
+##### Heresy
+
+Stress test
+
+Heresy is any position that endangers the salvation of its adherents, disrupts coherent interpretation across the scriptural witness, impedes peaceful fellowship, or fundamentally misrepresents the identity, nature, or constitutive relations of God, creation, or neighbor, irrespective of historical precedent, institutional recognition, or prevailing doctrinal consensus.
+
 ##### Holiness
 
 Holiness is compatibility with God and his intentions in substance, relationship or activity whether at creation or through restoration.
