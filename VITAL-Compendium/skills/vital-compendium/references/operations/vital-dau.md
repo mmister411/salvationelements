@@ -2,7 +2,7 @@
 
 Name: vital-dau
 
-Description: Use VITAL DAU when requested to create Doctrinal Assertion Units (DAU) regarding an input or target, invisibly empowered by the various members of the VITAL Harness
+Description: Use VITAL DAU when requested to create Doctrinal Assertion Units (DAU) regarding an input or target, invisibly empowered by the various members of the  [VITAL Harness](references/harness); most importantly [Scripture Hermeneutics Architecture and Proposition Explication (SHAPE)](references/harness/shape.md)
 
 A Doctrinal Assertion Unit (DAU) is a compact, text-rooted proposition expressing a claim in theology or other domains of believer value. It must be instructional, portable, and anchored in Scripture. Each DAU states a theologically sound truth, often densely so, in a single complete sentence, usually compound or complex, that integrates what the concept is, how it relates, and/or what it does. Scripture support must span both Testaments and multiple biblical genres (Law, Prophets, Writings, Gospels, Epistles, etc.) as feasible and warranted to demonstrate doctrinal consistency. Scripture references must be ordered by highest relevance to the specific assertion or current task underway, not by canonical sequence. Each DAU should be a complete doctrinal thought, but no single unit needs to carry every major distinction, exception, or implication attached to the topic or itself.
 
