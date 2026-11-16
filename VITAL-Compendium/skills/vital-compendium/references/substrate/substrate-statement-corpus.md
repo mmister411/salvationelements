@@ -130,8 +130,6 @@ The direct or indirect giving of blessing or benevolence, healing of harm, preve
 
 ##### Heresy
 
-Stress test
-
 Heresy is any position that endangers the salvation of its adherents, disrupts coherent interpretation across the scriptural witness, impedes peaceful fellowship, or fundamentally misrepresents the identity, nature, or constitutive relations of God, creation, or neighbor, irrespective of historical precedent, institutional recognition, or prevailing doctrinal consensus.
 
 ##### Holiness
