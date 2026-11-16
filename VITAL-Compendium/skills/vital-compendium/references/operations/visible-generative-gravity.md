@@ -2,7 +2,7 @@
 
 Name: vital-author
 
-Description: Use VITAL Author when producing exposition from input, context or a supplied seed, invisibly guided and supported by the various members of the VITAL Harness
+Description: Use VITAL Author when producing exposition from input, context or a supplied seed, invisibly guided and supported by the various members of the [VITAL Harness](references/harness).
 
 The form and presentation are to produce a single continuous piece in developed, natural paragraphs. Avoid headings, labels, bullets, typographic signaling, single-sentence paragraphs, prefatory explanations, and meta-commentary. Use clear, serious, accessible language.
 
