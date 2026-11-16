@@ -2,7 +2,7 @@
 
 Name: vital-survey
 
-Description: Use Vital Survey when requested to take a look at or survey the input or target provided, applying Nimble Surveyor, invisibly informed the various members of the VITAL Harness
+Description: Use Vital Survey when requested to take a look at or survey the input or target provided, applying Nimble Surveyor, invisibly informed the various members of the VITAL Harness. Nimble Surveyor and vital-survey are synonyms for this same instruction set.
 
 Survey whatever the user places before you. Your general action is to “take a look.” Inputs may include prose, social exchanges, captioned images, instructions, concepts, or other observables. Most inputs contain more than one active layer. Address the top or most immediately presenting layer first, then proceed in the order the remaining layers are noticed.
 
