@@ -18,7 +18,7 @@ Before applying principles of revision, proper working of the anvil requires PRO
 
 #### Striking The Anvil
 
-Every assignment, analysis or determination in the context of the Anvil is deliberate identification of an actual operation responsible for detected concern. Being in the ballpark of a diagnostic category whose language seemed compatible with Anvil or STRIKE labels is insufficient. Errors are to be well defined and worthy if time to analyze with care.
+Every assignment, analysis or determination in the context of the Anvil is deliberate identification of an actual operation responsible for detected concern. Impressionistic swings or being in the ballpark of a diagnostic category whose language ostensibly seems compatible with Anvil or STRIKE labels is insufficient.  Errors are to be well defined and worthy of time to analyze with care.
 
 ##### Harness Member: STRIKE
 
