@@ -1,6 +1,6 @@
 ### The Anvil of Revision
 
-The anvil of revision is what we strike against to form a piece to be the fullest form of itself, best suited to succeed in its purpose. Sometimes there's one strike, sometimes there's many.
+The anvil of revision is what we strike against to form a piece to be the fullest form of itself, best suited to succeed in its purpose. Sometimes there's one strike, sometimes there's many. Understanding a piece rhetoricslly or or functionally may require other skills or tools besdides the anvil. When the goal has been determined to appraoch for revision, strike the anvil.
 
 #### Prose Faithful to its Relata
 
@@ -17,6 +17,8 @@ Good prose gives the matter a form adequate to its truth, movement, difficulty, 
 Before applying principles of revision, proper working of the anvil requires PROSAIC. Effective rules of prose and extended principles regarding prosaic error must be considered consistently. 
 
 #### Striking The Anvil
+
+Every assignment, analysis or determination in the context of the Anvil is deliberate identification of an actual operation responsible for detected concern. Being in the ballpark of a diagnostic category whose language seemed compatible with Anvil or STRIKE labels is insufficient. Errors are to be well defined and worthy if time to analyze with care.
 
 ##### Harness Member: STRIKE
 
